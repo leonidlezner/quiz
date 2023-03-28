@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "question": "Was ist zu tun, wenn vor Antritt der Fahrt nicht feststeht, wer Schiffsführer ist?",
+    "answers": [
+      "Der verantwortliche Schiffsführer muss bestimmt werden.",
+      "Der verantwortliche Schiffsführer muss gewählt werden.",
+      "Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen.",
+      "Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen."
+    ]
+  },
+  {
+    "id": 2,
+    "question": "In welchen Fällen darf weder ein Sportboot geführt noch dessen Kurs oder Geschwindigkeit selbstständig bestimmt werden?",
+    "answers": [
+      "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,5 ‰ oder mehr im Körper vorhanden ist.",
+      "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,8 ‰ oder mehr im Körper vorhanden ist.",
+      "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 1,0 ‰ oder mehr im Körper vorhanden ist.",
+      "Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,3 ‰ oder mehr im Körper vorhanden ist."
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Wann ist ein Fahrzeug in Fahrt?",
+    "answers": [
+      "Wenn es weder vor Anker liegt noch an Land festgemacht ist noch auf Grund sitzt.",
+      "Wenn es weder vor Anker liegt noch an Land festgemacht ist noch Fahrt über Grund macht.",
+      "Wenn es weder auf Grund sitzt noch vor Anker liegt noch manövrierbehindert oder manövrierunfähig ist.",
+      "Wenn es weder an Land festgemacht ist noch vor Anker liegt noch Fahrt durchs Wasser macht."
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Wie lang ist die Dauer eines kurzen Tons?",
+    "media": "",
+    "answers": [
+      "Etwa 1 Sekunde.",
+      "Etwa 2 Sekunden.",
+      "Weniger als 1 Sekunde. ",
+      "Weniger als 4 Sekunden."
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Wie lang ist die Dauer eines langen Tons?",
+    "media": "",
+    "answers": [
+      "Etwa 4 - 6 Sekunden.",
+      "Etwa 2 - 6 Sekunden.",
+      "Etwa 1 - 2 Sekunden.",
+      "Etwa 6 - 8 Sekunden."
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Wann gilt ein Fahrzeug unter Segel als Maschinenfahrzeug?",
+    "answers": [
+      "Wenn es gleichzeitig mit Maschinenkraft fährt.",
+      "Wenn es mit einer Antriebsmaschine ausgerüstet ist.",
+      "Wenn es durch das Segeln keine Fahrt durchs Wasser macht. ",
+      "Wenn es durch das Segeln keine Fahrt über Grund macht."
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Welches Signal führt ein Fahrzeug unter Segel, das als Maschinenfahrzeug gilt, zusätzlich am Tage?",
+    "answers": [
+      "Einen schwarzen Kegel, Spitze unten.",
+      "Einen schwarzen Kegel, Spitze oben.",
+      "Einen schwarzen Rhombus.",
+      "Zwei schwarze Bälle senkrecht übereinander."
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Welche Seite wird als Luvseite bezeichnet?",
+    "answers": [
+      "Die dem Wind zugekehrte Seite.",
+      "Die dem Wind abgewandte Seite.",
+      "Die Seite in Fahrtrichtung rechts.",
+      "Die Seite in Fahrtrichtung links."
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Welche Seite wird als Leeseite bezeichnet?",
+    "answers": [
+      "Die dem Wind abgewandte Seite.",
+      "Die dem Wind zugekehrte Seite.",
+      "Die Seite in Fahrtrichtung rechts.",
+      "Die Seite in Fahrtrichtung links."
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Wann müssen die Lichter von Fahrzeugen geführt oder gezeigt werden?",
+    "answers": [
+      "Von Sonnenuntergang bis Sonnenaufgang und bei verminderter Sicht.",
+      "Von Sonnenaufgang bis Sonnenuntergang und bei verminderter Sicht.",
+      "Von abends 18:00 Uhr bis morgens 06:00 Uhr und bei verminderter Sicht.",
+      "Bei Dunkelheit, schlechtem Wetter und verminderter Sicht."
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Wozu dient die Lichterführung?",
+    "answers": [
+      "Sie zeigt Fahrtrichtung und Lage eines Fahrzeugs an.",
+      "Sie zeigt Kurs und Geschwindigkeit eines Fahrzeugs an.",
+      "Sie zeigt Fahrtrichtung und Position eines Fahrzeugs an.",
+      "Sie zeigt Fahrtrichtung und Kurs eines Fahrzeugs an."
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Was für eine Laterne kann ein Segelfahrzeug von weniger als 20 m Länge anstelle der Seitenlichter und des Hecklichtes führen?",
+    "answers": [
+      "Eine Dreifarbenlaterne an oder nahe der Mastspitze.",
+      "Eine Zweifarbenlaterne an gut sichtbarer Stelle.",
+      "Eine Dreifarbenlaterne an gut sichtbarer Stelle.",
+      "Eine Zweifarbenlaterne an oder nahe der Mastspitze."
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Welche Lichter muss ein Fahrzeug unter Segel, das gleichzeitig mit Maschinenkraft fährt, führen?",
+    "answers": [
+      "Die für ein Maschinenfahrzeug vorgeschriebenen Lichter.",
+      "Die für ein Segelfahrzeug vorgeschriebenen Lichter.",
+      "Zwei rote Rundumlichter senkrecht übereinander.",
+      "Seitenlichter rot und grün und ein rotes Rundumlicht."
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Wie weichen zwei Motorboote aus, die sich auf entgegengesetzten Kursen nähern?",
+    "answers": [
+      "Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern.",
+      "Jedes Fahrzeug muss seinen Kurs nach Backbord ändern.",
+      "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.",
+      "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen."
+    ]
+  }
+]
