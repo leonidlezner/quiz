@@ -1,26 +1,23 @@
-interface Props {
-  questionsFile: string;
+interface IProps {}
+
+export interface IAnswer {
+  answer: string;
+  correct: boolean;
 }
 
-export interface Question {
+export interface IQuestion {
   id: number;
   question: string;
   media: string;
-  answers: Array<string>;
-  right_answer: string;
+  answers: Array<IAnswer>;
 }
 
-export function useQuestions({ questionsFile }: Props) {
-  const loadQuestions = async (): Promise<Array<Question>> => {
+export function useQuestions() {
+  const loadQuestions = async (
+    questionsFile: string
+  ): Promise<Array<IQuestion>> => {
     const response = await fetch(questionsFile);
-    let json = (await response.json()) as Array<Question>;
-
-    json = json.map((question) => ({
-      ...question,
-      right_answer: question.answers[0],
-    }));
-
-    return json;
+    return (await response.json()) as Array<IQuestion>;
   };
 
   return {
