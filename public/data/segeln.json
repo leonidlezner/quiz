@@ -68,7 +68,7 @@
   {
     "id": 4,
     "question": "Wie lang ist die Dauer eines kurzen Tons?",
-    "media": "/data/media/frage4.png",
+    "media": "./data/media/frage4.png",
     "answers": [
       { "answer": "Etwa 2 Sekunden.", "correct": false },
       { "answer": "Weniger als 1 Sekunde. ", "correct": false },
@@ -79,7 +79,7 @@
   {
     "id": 5,
     "question": "Wie lang ist die Dauer eines langen Tons?",
-    "media": "/data/media/frage5.png",
+    "media": "./data/media/frage5.png",
     "answers": [
       { "answer": "Etwa 2 - 6 Sekunden.", "correct": false },
       { "answer": "Etwa 1 - 2 Sekunden.", "correct": false },
@@ -255,7 +255,7 @@
   {
     "id": 17,
     "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
-    "media": "/data/media/frage17.png",
+    "media": "./data/media/frage17.png",
     "answers": [
       {
         "answer": "Überholverbot",
