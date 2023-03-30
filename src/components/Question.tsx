@@ -5,22 +5,43 @@ import Answer from "./Answer";
 interface IProps {
   question: IQuestion;
   revealCorrect: boolean;
+  onAnswer: CallableFunction;
+  userAnswer: number;
 }
 
-export default function Question({ question, revealCorrect }: IProps) {
+export default function Question({
+  question,
+  revealCorrect,
+  onAnswer,
+  userAnswer,
+}: IProps) {
   const [selectedAnswer, setSelectedAnswer] = useState<number>(-1);
 
   const handleOnSelect = (index: number) => {
     setSelectedAnswer(index);
+    onAnswer(question.id, index);
   };
 
   useEffect(() => {
-    setSelectedAnswer(-1);
+    if (userAnswer !== undefined) {
+      setSelectedAnswer(userAnswer);
+    } else {
+      setSelectedAnswer(-1);
+    }
   }, [question.id]);
 
   return (
     <div>
       <h2 className="mb-10 text-2xl">{question.question}</h2>
+      {question.media && (
+        <div className="my-5">
+          <img
+            src={question.media}
+            srcSet={`${question.media} 2x`}
+            className="border shadow-sm"
+          />
+        </div>
+      )}
       <div className="space-y-5">
         {question.answers.map((answer, index) => (
           <Answer
