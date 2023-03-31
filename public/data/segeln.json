@@ -253,6 +253,51 @@
     ]
   },
   {
+    "id": 15,
+    "question": "Zwei Motorboote nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Backbordseite hat.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Steuerbordseite hat.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Welche Bedeutung hat folgendes Schallsignal:",
+    "media": "./data/media/frage16.png",
+    "answers": [
+      {
+        "answer": "Bleib-weg-Signal, Gefahrenbereich sofort verlassen.",
+        "correct": true
+      },
+      {
+        "answer": "Manövrierbehinderter Schleppverband über 200 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeines Gefahr- und Warnsignal.",
+        "correct": false
+      },
+      {
+        "answer": "Ankerlieger über 100 m Länge.",
+        "correct": false
+      }
+    ]
+  },
+  {
     "id": 17,
     "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
     "media": "./data/media/frage17.png",
@@ -271,6 +316,1225 @@
       },
       {
         "answer": "Begegnungsverbot für Fahrzeuge über 20 m Länge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage18.png",
+    "answers": [
+      {
+        "answer": "Überholverbot für alle Fahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Begegnungsverbot an einer Engstelle.",
+        "correct": true
+      },
+      {
+        "answer": "Begegnungsverbot für Fahrzeuge über 12 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Überholverbot; mit Gegenverkehr muss gerechnet werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage19.png",
+    "answers": [
+      {
+        "answer": "Wasserstraße, die jederzeit sicher befahren werden kann; keine Gefahr durch Seegang.",
+        "correct": false
+      },
+      {
+        "answer": "Wasserstraße, die nicht jederzeit sicher befahren werden kann; Gefahr durch Seegang.",
+        "correct": false
+      },
+      {
+        "answer": "Gefährdeter Strandbereich, Überspülungsgefahr; Mindestpassierabstand 100 m.",
+        "correct": false
+      },
+      {
+        "answer": "Sog und Wellenschlag vermeiden.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage20.png",
+    "answers": [
+      {
+        "answer": "Maximalgeschwindigkeit in km/h, die auf der in Fahrtrichtung rechten Fahrwasserseite nicht überschritten werden darf.",
+        "correct": false
+      },
+      {
+        "answer": "Maximalabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Verengung des Fahrwassers auf 40 m.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage21.png",
+    "answers": [
+      {
+        "answer": "Gebot zur Abgabe eines langen Signaltons.",
+        "correct": false
+      },
+      {
+        "answer": "Haltegebot vor beweglichen Brücken, Sperrwerken und Schleusen.",
+        "correct": true
+      },
+      {
+        "answer": "Dauernde Sperrung einer Teilstrecke der Wasserstraße.",
+        "correct": false
+      },
+      {
+        "answer": "Weiterfahrt für Sportfahrzeuge verboten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage22.png",
+    "answers": [
+      {
+        "answer": "Ankern und Festmachen verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Ankern verboten für Kleinfahrzeuge unter 12 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ankern verboten für Kleinfahrzeuge ab 12 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ankern verboten für alle Fahrzeuge.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Welche Bedeutung haben folgende Tafelzeichen?",
+    "media": "./data/media/frage23.png",
+    "answers": [
+      {
+        "answer": "Festmache- und Liegeverbot.",
+        "correct": true
+      },
+      {
+        "answer": "Festmache- und Liegeverbot für Sportboote.",
+        "correct": false
+      },
+      {
+        "answer": "Festmache- und Liegeverbot für gewerbliche Schiffe.",
+        "correct": false
+      },
+      {
+        "answer": "Festmache- und Liegeverbot für Sportboote über 12 m Länge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage24.png",
+    "answers": [
+      {
+        "answer": "Abgabe eines kurzen und eines langen Tons.",
+        "correct": false
+      },
+      {
+        "answer": "Abgabe von zwei langen Tönen.",
+        "correct": false
+      },
+      {
+        "answer": "Abgabe eines langen Tons.",
+        "correct": true
+      },
+      {
+        "answer": "Abgabe eines kurzen Tons.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Welche Bedeutung haben folgende Tafelzeichen?",
+    "media": "./data/media/frage25.png",
+    "answers": [
+      {
+        "answer": "Wasserflächen, auf denen mit Wasserski oder Wassermotorrädern gefahren werden darf.",
+        "correct": true
+      },
+      {
+        "answer": "Fahren mit Wasserski oder Wassermotorrädern erlaubt. Wasserskiläufer und Wassermotorräder haben Vorfahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Genehmigungspflichtige Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.",
+        "correct": false
+      },
+      {
+        "answer": "Genehmigungsfreie Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage26.png",
+    "answers": [
+      {
+        "answer": "Streckenabschnitt für eine nicht frei fahrende Fähre.",
+        "correct": false
+      },
+      {
+        "answer": "Ende einer Gebots- oder Verbotsstrecke.",
+        "correct": true
+      },
+      {
+        "answer": "Queren des Fahrwassers ist gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Wechseln der Fahrwasserseite ist gestattet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "media": "./data/media/frage27.png",
+    "answers": [
+      {
+        "answer": "Verbot der Durchfahrt und Sperrung für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.",
+        "correct": false
+      },
+      {
+        "answer": "Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.",
+        "correct": false
+      },
+      {
+        "answer": "Verbot der Durchfahrt und Sperrung der Schifffahrt.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Welche Bedeutung haben folgende Schifffahrtszeichen?",
+    "media": "./data/media/frage28.png",
+    "answers": [
+      {
+        "answer": "Außergewöhnliche Schifffahrtsbehinderung.",
+        "correct": false
+      },
+      {
+        "answer": "Anlage dauerhaft gesperrt.",
+        "correct": false
+      },
+      {
+        "answer": "Stoppsignal für alle Fahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Brücke, Sperrwerk oder Schleuse geschlossen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Welche Bedeutung haben folgende Schifffahrtszeichen?",
+    "media": "./data/media/frage29.png",
+    "answers": [
+      {
+        "answer": "Außergewöhnliche Schifffahrtsbehinderung.",
+        "correct": false
+      },
+      {
+        "answer": "Anlage dauerhaft gesperrt.",
+        "correct": true
+      },
+      {
+        "answer": "Stoppsignal für alle Fahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Brücke, Sperrwerk oder Schleuse geschlossen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Was bedeuten diese Lichter vor einer Schleuse?",
+    "media": "./data/media/frage30.png",
+    "answers": [
+      {
+        "answer": "Schleuse in Betrieb, auf Einfahrtsignal gemäß Reihenfolge warten.",
+        "correct": false
+      },
+      {
+        "answer": "Einfahrt frei, Gegenverkehr gesperrt.",
+        "correct": true
+      },
+      {
+        "answer": "Einfahrt frei, Schleusentor öffnet.",
+        "correct": false
+      },
+      {
+        "answer": "Schleuse in Betrieb, auf Ausfahrtsignal gemäß Reihenfolge warten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Welches Merkblatt enthält Hinweise für das Verhalten zum Schutz seltener Tiere und Pflanzen sowie zur Reinhaltung der Gewässer?",
+    "answers": [
+      {
+        "answer": "Die 15 goldenen Regeln für Wassersportler.",
+        "correct": false
+      },
+      {
+        "answer": "Die 10 Grundregeln für Wassersportler.",
+        "correct": false
+      },
+      {
+        "answer": "Die 15 Verhaltensregeln für Wassersportler.",
+        "correct": false
+      },
+      {
+        "answer": "Die 10 goldenen Regeln für Wassersportler.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Wie kann mitgeholfen werden, die Lebensmöglichkeiten der Pflanzen- und Tierwelt in Gewässern und Feuchtgebieten zu bewahren und zu fördern?",
+    "answers": [
+      {
+        "answer": "Durch umweltbewusstes Verhalten und Beachtung der \"Zehn Grundregeln für den Wassersport\".",
+        "correct": false
+      },
+      {
+        "answer": "Durch umsichtiges Verhalten und Beachtung der Verkehrsvorschriften.",
+        "correct": false
+      },
+      {
+        "answer": "Durch umweltbewusstes Verhalten und Beachtung der \"Zehn goldenen Regeln für das Verhalten von Wassersportlern in der Natur\".",
+        "correct": true
+      },
+      {
+        "answer": "Durch vorausschauendes Fahren und Ausweichen entsprechend der Verkehrsvorschriften.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Warum sollte man sich von Schilf- und Röhrichtzonen sowie von dicht bewachsenen Uferzonen möglichst weit fernhalten? a. Weil diese Zonen vielfach Rast- und Brutplätze besonders schutzwürdiger Vögel oder Fischlaichplätze sind.",
+    "answers": [
+      {
+        "answer": "Weil in diesen Zonen badende Personen schwer zu erkennen sind.",
+        "correct": false
+      },
+      {
+        "answer": "Weil durch die Pflanzen der Propeller blockiert werden könnte.",
+        "correct": false
+      },
+      {
+        "answer": "Weil in diesen Zonen die Gefahr von Grundberührungen besteht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Warum soll ein kleines Fahrzeug nicht dicht an ein großes in Fahrt befindliches Fahrzeug heranfahren?",
+    "answers": [
+      {
+        "answer": "Es kann durch dessen Bug- oder Heckwelle kentern oder durch den Sog mit dem Fahrzeug kollidieren.",
+        "correct": true
+      },
+      {
+        "answer": "Dichtes Heranfahren ist ein Verstoß gegen die Grundregeln für das Verhalten im Verkehr.",
+        "correct": false
+      },
+      {
+        "answer": "Es kann durch dessen Bug- oder Heckwelle Seeschlag erleiden.",
+        "correct": false
+      },
+      {
+        "answer": "Da es dem großen in Fahrt befindlichen Fahrzeug sonst nicht ausweichen kann.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Warum soll man möglichst gegen Strom und Wind anlegen?",
+    "answers": [
+      {
+        "answer": "Weil dies die Steuerwirkung der Schraube erhöht.",
+        "correct": false
+      },
+      {
+        "answer": "Weil dadurch Einflüsse von Wellen und Wassertiefe ausgeglichen werden.",
+        "correct": false
+      },
+      {
+        "answer": "Weil dadurch Sog und Wellenschlag vermieden wird.",
+        "correct": false
+      },
+      {
+        "answer": "Weil sich das Fahrzeug dabei sicherer manövrieren lässt.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Wie verhält man sich beim Begegnen mit anderen Fahrzeugen in einem engen Fahrwasser?",
+    "answers": [
+      {
+        "answer": "Geschwindigkeit herabsetzen und ausreichenden Passierabstand halten.",
+        "correct": true
+      },
+      {
+        "answer": "Das mit dem Strom fahrende Fahrzeug hat aufzustoppen.",
+        "correct": false
+      },
+      {
+        "answer": "Das gegen den Strom fahrende Fahrzeug ist ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Geschwindigkeit erhöhen, um das Begegnungsmanöver zügig durchzuführen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Welche Gefahren können entstehen, wenn ein kleines von einem größeren Fahrzeug überholt wird?",
+    "answers": [
+      {
+        "answer": "Das kleinere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder kentern, in flachen Gewässern extrem versetzt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Das größere Fahrzeug kann durch Wellenbildung aus dem Kurs laufen und kollidieren oder querschlagen, in flachen Gewässern auf Grund laufen.",
+        "correct": false
+      },
+      {
+        "answer": "Das kleinere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder querschlagen, in flachen Gewässern auf Grund laufen.",
+        "correct": true
+      },
+      {
+        "answer": "Das größere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder querschlagen, in flachen Gewässern auf Grund laufen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Wie viel Ankerkette bzw. -leine soll man unter günstigen Verhältnissen beim Ankern an einem geschützten Ankerplatz ausstecken?",
+    "answers": [
+      {
+        "answer": "Mindestens die dreifache Wassertiefe bei Kette oder die fünffache bei Leine.",
+        "correct": true
+      },
+      {
+        "answer": "Mindestens die fünffache Wassertiefe bei Kette oder die dreifache bei Leine.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens die vierfache Wassertiefe bei Kette oder die fünffache bei Leine.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens die dreifache Wassertiefe bei Kette oder die vierfache bei Leine.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Woran kann man erkennen, ob der Anker hält?",
+    "answers": [
+      {
+        "answer": "Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und sich die Ankerpeilung ändert.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und sich die Ankerpeilung nicht ändert.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und das Fahrzeug nicht schwojt.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn Ankerkette oder -leine nicht vibrieren und sich der anliegende Magnetkompasskurs nicht verändert.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Welches ist der günstigste Anlaufwinkel beim Anlegen?",
+    "answers": [
+      {
+        "answer": "Ein Winkel von 90° bis 100°.",
+        "correct": false
+      },
+      {
+        "answer": "Ein möglichst stumpfer Winkel.",
+        "correct": false
+      },
+      {
+        "answer": "Ein möglichst spitzer Winkel.",
+        "correct": true
+      },
+      {
+        "answer": "Ein Winkel von 60° bis 70°.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Wie verhält sich im Allgemeinen das Schiff im Rückwärtsgang bei einem rechtsdrehenden Propeller?",
+    "answers": [
+      {
+        "answer": "Das Heck dreht nach Steuerbord.",
+        "correct": false
+      },
+      {
+        "answer": "Das Heck dreht nach Backbord.",
+        "correct": true
+      },
+      {
+        "answer": "Der Bug dreht nach Backbord.",
+        "correct": false
+      },
+      {
+        "answer": "Der Kurs des Schiffes ändert sich nicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Was bewirkt der Quickstopp?",
+    "answers": [
+      {
+        "answer": "Automatisches Anlassen des Motors.",
+        "correct": false
+      },
+      {
+        "answer": "Unterbrechung von Zündkontakt bzw. Kraftstoffzufuhr.",
+        "correct": true
+      },
+      {
+        "answer": "Automatische Schubumkehr.",
+        "correct": false
+      },
+      {
+        "answer": "Kurze Unterbrechung des Motorlaufs.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Was ist zu unternehmen, wenn Treibstoff oder Öl in die Bilge gelangt?",
+    "answers": [
+      {
+        "answer": "Räume lüften und abwarten.",
+        "correct": false
+      },
+      {
+        "answer": "Mit entsprechendem Mittel neutralisieren.",
+        "correct": false
+      },
+      {
+        "answer": "Mit Lappen aufnehmen und umweltgerecht entsorgen.",
+        "correct": true
+      },
+      {
+        "answer": "Gleichmäßig verteilen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Was ist unter einem rechtsdrehenden Propeller zu verstehen?",
+    "answers": [
+      {
+        "answer": "Von vorne gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.",
+        "correct": false
+      },
+      {
+        "answer": "Von vorne gesehen in Rückwärtsfahrt Drehung des Propellers gegen den Uhrzeigersinn.",
+        "correct": false
+      },
+      {
+        "answer": "Von achtern gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.",
+        "correct": false
+      },
+      {
+        "answer": "Von achtern gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Was ist unter einem linksdrehenden Propeller zu verstehen?",
+    "answers": [
+      {
+        "answer": "Von vorne gesehen in Rückwärtsfahrt Drehung des Propellers im Uhrzeigersinn.",
+        "correct": false
+      },
+      {
+        "answer": "Von achtern gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.",
+        "correct": true
+      },
+      {
+        "answer": "Von achtern gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.",
+        "correct": false
+      },
+      {
+        "answer": "Von vorne gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Was ist unter der indirekten Ruderwirkung (Radeffekt) des Propellers zu verstehen?",
+    "answers": [
+      {
+        "answer": "Das seitliche Versetzen des Bugs.",
+        "correct": false
+      },
+      {
+        "answer": "Das Versetzen nach vorne.",
+        "correct": false
+      },
+      {
+        "answer": "Das seitliche Versetzen des Hecks.",
+        "correct": true
+      },
+      {
+        "answer": "Das Versetzen nach hinten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Weshalb ist die Kenntnis der Propellerdrehrichtung von Bedeutung?",
+    "answers": [
+      {
+        "answer": "Sie hilft beim Überholen.",
+        "correct": false
+      },
+      {
+        "answer": "Sie hilft beim Begegnen.",
+        "correct": false
+      },
+      {
+        "answer": "Sie hilft beim Kurshalten.",
+        "correct": false
+      },
+      {
+        "answer": "Sie hilft beim Manövrieren.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Welche Anlegeseite ist mit rechtsdrehendem Propeller empfehlenswert und warum?",
+    "answers": [
+      {
+        "answer": "Es gibt keine empfehlenswerte Anlegeseite.",
+        "correct": false
+      },
+      {
+        "answer": "Die Steuerbordseite - der Radeffekt zieht das Fahrzeug an die Pier.",
+        "correct": false
+      },
+      {
+        "answer": "Die Steuerbord- oder Backbordseite je nach Ruderlage.",
+        "correct": false
+      },
+      {
+        "answer": "Die Backbordseite - der Radeffekt zieht das Fahrzeug an die Pier.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Was muss beim Tanken beachtet werden?",
+    "answers": [
+      {
+        "answer": "Motor in Leerlaufstellung, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.",
+        "correct": false
+      },
+      {
+        "answer": "Motor abstellen, Feuerlöscher bereithalten, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.",
+        "correct": false
+      },
+      {
+        "answer": "Motor abstellen, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.",
+        "correct": true
+      },
+      {
+        "answer": "Fenster schließen, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Wodurch wird bei einem Fahrzeug mit Außenbordmotor und ohne Ruderanlage die Ruderwirkung erzielt?",
+    "answers": [
+      {
+        "answer": "Durch den Schraubenwiderstand und Anstellwinkel des Propellers.",
+        "correct": false
+      },
+      {
+        "answer": "Durch den Schraubenwiderstand und Richtung des Propellers.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Schraubenstrom und Anstellwinkel des Propellers.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Schraubenstrom und Richtung des Propellers.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Weshalb setzt bei einem Fahrzeug mit Einbaumaschine und starrer Welle bei Aufnahme der Rückwärtsfahrt die Ruderwirkung erst relativ spät ein?",
+    "answers": [
+      {
+        "answer": "Weil sich durch den Radeffekt ein Unterdruck am Propeller entwickelt.",
+        "correct": false
+      },
+      {
+        "answer": "Weil sie erst mit Anströmung des Ruderblattes einsetzt.",
+        "correct": true
+      },
+      {
+        "answer": "Durch den Abstand von Propeller und Ruderblatt.",
+        "correct": false
+      },
+      {
+        "answer": "Weil sich durch den Radeffekt ein Unterdruck am Ruder entwickelt.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Während der Fahrt sollte die Maschinenanlage ständig überwacht werden. Worauf muss besonders geachtet werden?",
+    "answers": [
+      {
+        "answer": "Druck der Einspritzpumpe, Impellerpumpe, Ölpumpe.",
+        "correct": false
+      },
+      {
+        "answer": "Motortemperatur, Öldruck, Ladekontrolle.",
+        "correct": true
+      },
+      {
+        "answer": "Schraubendrehzahl, Getriebeöltemperatur, Öldruck.",
+        "correct": false
+      },
+      {
+        "answer": "Kühlwasseraustritt, Drehzahlmesser, Keilriemenspannung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Die Temperatur der Antriebsmaschine überschreitet die zulässigen Grenzwerte. Was könnte die mögliche Ursache sein?",
+    "answers": [
+      {
+        "answer": "Zu viel Motoröl, defekte Impellerpumpe, geschlossenes Seeventil, zu niedriger Kühlwasserstand.",
+        "correct": false
+      },
+      {
+        "answer": "Defektes Thermostat, defekte Kupplung, geschlossenes Seeventil, zu niedriger Kühlwasserstand.",
+        "correct": false
+      },
+      {
+        "answer": "Defektes Thermostat, defekte Impellerpumpe, geschlossenes Seeventil, zu niedriger Kühlwasserstand.",
+        "correct": true
+      },
+      {
+        "answer": "Defektes Thermostat, defekte Impellerpumpe, geschlossenes Seeventil, zu hohe Batteriespannung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Die Ladekontrolllampe erlischt nach dem Starten nicht. Was könnte die mögliche Ursache sein?",
+    "answers": [
+      {
+        "answer": "Keilriemen gerissen und hoher Stromverbrauch.",
+        "correct": false
+      },
+      {
+        "answer": "Lichtmaschine bzw. Regler der Lichtmaschine defekt.",
+        "correct": true
+      },
+      {
+        "answer": "Zu hohe Motordrehzahl.",
+        "correct": false
+      },
+      {
+        "answer": "Anlasser ist nach dem Starten ausgefallen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Die Ölkontrollleuchte leuchtet nach dem Starten weiter. Was könnte die mögliche Ursache sein?",
+    "answers": [
+      {
+        "answer": "Druckschalter bzw. Öldruckpumpe defekt.",
+        "correct": true
+      },
+      {
+        "answer": "FI-Schalter defekt.",
+        "correct": false
+      },
+      {
+        "answer": "Zu hohe Motordrehzahl.",
+        "correct": false
+      },
+      {
+        "answer": "Zu viel Motoröl im Motor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Der Motor ist gestartet worden. Was kann die Ursache sein, wenn nach dem Einkuppeln der Antriebswelle der Motor stehenbleibt?",
+    "answers": [
+      {
+        "answer": "Verschmutzter Ölfilter.",
+        "correct": false
+      },
+      {
+        "answer": "Verschmutzter Luftfilter.",
+        "correct": false
+      },
+      {
+        "answer": "Blockierter Propeller.",
+        "correct": true
+      },
+      {
+        "answer": "Blockierte Kraftstoffzufuhr.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Ein Außenborder mit gefülltem Tank bleibt während der Fahrt stehen. Was könnten die Ursachen sein?",
+    "answers": [
+      {
+        "answer": "Schraube an der Welle lose.",
+        "correct": false
+      },
+      {
+        "answer": "Belüftungsschraube geschlossen; verstopfte Kraftstoffleitung.",
+        "correct": true
+      },
+      {
+        "answer": "Tankdeckel ist offen.",
+        "correct": false
+      },
+      {
+        "answer": "Ansaugdüsen zu groß bzw. zu klein.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Was sollte stets getan werden, bevor nach Ende einer Fahrt der Außenborder hochgekippt oder abgenommen wird?",
+    "answers": [
+      {
+        "answer": "Kraftstoff auffüllen, wegen Tankkorrosion.",
+        "correct": false
+      },
+      {
+        "answer": "Quickstopp ziehen, wegen Verlust des Schlüssels.",
+        "correct": false
+      },
+      {
+        "answer": "Vergaser leerfahren, damit kein Kraftstoff ausläuft.",
+        "correct": true
+      },
+      {
+        "answer": "Kraftstoffhahn offen lassen zur besseren Belüftung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Welche Einstellung führt bei Bootsmotoren zu einem besonders hohen Schadstoffausstoß und sollte unbedingt vermieden werden?",
+    "answers": [
+      {
+        "answer": "Normales Luft-Kraftstoff-Gemisch; normales Mischungsverhältnis bei Zweitaktmotoren.",
+        "correct": false
+      },
+      {
+        "answer": "Verringerter Luftanteil beim Luft-Kraftstoff-Gemisch; erhöhter Ölanteil beim Mischungsverhältnis bei Zweitaktmotoren.",
+        "correct": true
+      },
+      {
+        "answer": "Erhöhter Luftanteil beim Luft-Kraftstoff-Gemisch; verringerter Ölanteil beim Mischungsverhältnis bei Zweitaktmotoren.",
+        "correct": false
+      },
+      {
+        "answer": "Erhöhter Luftanteil beim Luft-Kraftstoff-Gemisch; erhöhter Ölanteil beim Mischungsverhältnis bei Zweitaktmotoren.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Welche Vorkehrungen sind für das längere Verlassen des Fahrzeugs zu treffen?",
+    "answers": [
+      {
+        "answer": "Alle Seeventile schließen und den Hauptschalter des Bordnetzes ausschalten.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug seefest hinterlassen und den Hafenmeister verständigen.",
+        "correct": false
+      },
+      {
+        "answer": "Tagestank schließen und Kraftstofffilter entwässern.",
+        "correct": false
+      },
+      {
+        "answer": "Kraftstoff- und Wassertank auffüllen und das Bordnetz aufladen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Wie ist ein enges Gewässer zu befahren, wenn man sich am Ufer festgemachten Fahrzeugen nähert?",
+    "answers": [
+      {
+        "answer": "Auf Höhe der festgemachten Fahrzeuge aufstoppen und überprüfen, dass kein Dritter behindert oder geschädigt wird.",
+        "correct": false
+      },
+      {
+        "answer": "Verringerung der Geschwindigkeit, um schädlichen Sog und Wellenschlag zu vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Beibehaltung der Geschwindigkeit, um durch Gleitfahrt schädlichen Sog und Wellenschlag auszuschließen.",
+        "correct": false
+      },
+      {
+        "answer": "Verringerung der Geschwindigkeit und nötigenfalls vom Rechtsfahrgebot abweichen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Wo sollen die Gasbehälter einer Flüssiggasanlage gelagert werden?",
+    "answers": [
+      {
+        "answer": "Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der oben belüftet ist.",
+        "correct": false
+      },
+      {
+        "answer": "Möglichst auf dem Vorschiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.",
+        "correct": false
+      },
+      {
+        "answer": "Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.",
+        "correct": true
+      },
+      {
+        "answer": "Möglichst unten im Schiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Warum sind die Flüssiggase Propan und Butan an Bord besonders gefährlich?",
+    "answers": [
+      {
+        "answer": "Beide Gase sind leichter als Luft und bilden mit Luft ein explosives Gemisch.",
+        "correct": false
+      },
+      {
+        "answer": "Beide Gase sind schwerer als Luft und bilden mit Luft ein explosives Gemisch.",
+        "correct": true
+      },
+      {
+        "answer": "Beide Gase sind schwerer als Wasser und bilden mit Wasser ein explosives Gemisch.",
+        "correct": false
+      },
+      {
+        "answer": "Beide Gase sind schwerer als Luft und bilden mit Wasser ein explosives Gemisch.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Was ist zu tun, wenn Flüssiggas in das Innere des Bootes gelangt?",
+    "answers": [
+      {
+        "answer": "Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und per Telefon Hilfe holen.",
+        "correct": false
+      },
+      {
+        "answer": "Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und keinen Funk und keine Mobiltelefone benutzen.",
+        "correct": true
+      },
+      {
+        "answer": "Gasleitung entleeren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und keine Telefone benutz en.",
+        "correct": false
+      },
+      {
+        "answer": "Gasleitung entleeren und die Gasfreiheit mit dem Feuerzeug prüfen sowie über Funk oder Mobiltelefon Hilfe anfordern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Was ist vor Inbetriebnahme einer Flüssiggasanlage zu prüfen?",
+    "answers": [
+      {
+        "answer": "Die Anlage muss abgenommen sein, Leitungen und Anschlüsse müssen dicht sein. Haupthahn und andere Absperrventile sind zu öffnen.",
+        "correct": true
+      },
+      {
+        "answer": "Die Anlage muss abgenommen sein, die Inbetriebnahme darf nur durch eine besonders geprüfte Person erfolgen.",
+        "correct": false
+      },
+      {
+        "answer": "Die Abnahme der Anlage darf nicht länger als drei Jahre zurückliegen. Haupthahn und andere Absperrventile sind zu öffnen.",
+        "correct": false
+      },
+      {
+        "answer": "Die Anlage muss abgenommen sein und jährlich überprüft werden. Die Inbetriebnahme darf nur durch eine besonders geprüfte Person erfolgen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Was ist zu beachten, wenn eine Flüssiggasanlage außer Betrieb gesetzt wird?",
+    "answers": [
+      {
+        "answer": "Gasflasche fachgerecht entsorgen.",
+        "correct": false
+      },
+      {
+        "answer": "Haupthahn und Absperrventile sind zu schließen.",
+        "correct": true
+      },
+      {
+        "answer": "Der Flüssiggasbehälter ist vollständig zu entleeren.",
+        "correct": false
+      },
+      {
+        "answer": "Die Anlage ist gasfrei zu machen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Wie oft muss man aufblasbare Rettungsmittel warten lassen?",
+    "answers": [
+      {
+        "answer": "Jährlich und nach jedem Einsatz oder Übungsgebrauch.",
+        "correct": false
+      },
+      {
+        "answer": "Jährlich, jeweils vor Beginn der Wassersportsaison.",
+        "correct": false
+      },
+      {
+        "answer": "Entsprechend der Herstellerangabe, mindestens alle 3 Jahre.",
+        "correct": false
+      },
+      {
+        "answer": "Entsprechend der Herstellerangabe, mindestens alle 2 Jahre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Welcher Feuerlöscher ist für Sportboote zweckmäßig und wie oft muss man einen Feuerlöscher überprüfen lassen?",
+    "answers": [
+      {
+        "answer": "ABC-Pulver- und Schaumlöscher, mindestens alle 2 Jahre.",
+        "correct": true
+      },
+      {
+        "answer": "ABC-Pulverlöscher, mindestens einmal pro Jahr.",
+        "correct": false
+      },
+      {
+        "answer": "Feuerlöscher mit Löschschaum, mindestens einmal pro Jahr.",
+        "correct": false
+      },
+      {
+        "answer": "CO2-Feuerlöscher, mindestens alle 2 Jahre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Welche Maßnahmen muss man ergreifen, um einen Brand mit dem Feuerlöscher wirksam zu bekämpfen?",
+    "answers": [
+      {
+        "answer": "Handhabungshinweise durchlesen und den Feuerlöscher sofort einsetzen, dabei das Feuer möglichst von unten bekämpfen.",
+        "correct": false
+      },
+      {
+        "answer": "Luftzufuhr verhindern, Feuerlöscher erst am Brandherd einsetzen und das Feuer möglichst von unten bekämpfen.",
+        "correct": true
+      },
+      {
+        "answer": "Luftzufuhr verhindern und den Feuerlöscher mit sparsamen Löschstrahlstößen einsetzen, dabei das Feuer möglichst von oben bekämpfen.",
+        "correct": false
+      },
+      {
+        "answer": "Rauchabzug sicherstellen und Feuerlöscher rechtzeitig einsetzen, dabei den Löschstrahl möglichst in die lodernden Flammen halten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Wie hat man sich nach einem Zusammenstoß zu verhalten?",
+    "answers": [
+      {
+        "answer": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; die Wasserschutzpolizei benachrichtigen.",
+        "correct": false
+      },
+      {
+        "answer": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; Notsignal geben.",
+        "correct": false
+      },
+      {
+        "answer": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; Verschlusszustand herstellen.",
+        "correct": false
+      },
+      {
+        "answer": "Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; alle erforderlichen Daten austauschen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Welche Faktoren sind hauptsächlich für das Wettergeschehen, also für Wind und Niederschläge, ausschlaggebend?",
+    "answers": [
+      {
+        "answer": "Luftdruckänderung, Sonneneinstrahlung und Höhenlage.",
+        "correct": false
+      },
+      {
+        "answer": "Luftdruckänderung, Luftfeuchtigkeit und Temperatur.",
+        "correct": true
+      },
+      {
+        "answer": "Luftdruckänderung, Tageszeit und Temperatur.",
+        "correct": false
+      },
+      {
+        "answer": "Luftdruckänderung, Luftfeuchtigkeit und Jahreszeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "In welcher Situation dürfen Notsignale gegeben werden?",
+    "answers": [
+      {
+        "answer": "Wenn Gefahr für Leib oder Leben von Personen besteht und daher Hilfe benötigt wird.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn Gefahr für Leib oder Leben von Personen, erhebliche Sachwerte oder die maritime Umwelt besteht.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn Gefahr für Leib oder Leben von Personen besteht oder das Schiff nicht mehr sicher manövriert werden kann.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn Gefahr für Leib oder Leben von Personen oder erhebliche Sachwerte besteht und daher Hilfe benötigt wird.",
         "correct": false
       }
     ]

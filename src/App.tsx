@@ -52,6 +52,8 @@ export default function App() {
         return index;
       }
     });
+
+    setRevealCorrect(false);
   };
 
   const handleAnswer = (questionId: number, answerIndex: number) => {
@@ -65,10 +67,8 @@ export default function App() {
 
   const currentQuestion = questions[currentIndex];
 
-  console.log("render");
-
   return (
-    <div className="m-10 rounded-sm border bg-gray-50 p-5 shadow-sm">
+    <div className="m-2 rounded-sm border bg-gray-50 p-5 shadow-sm xl:m-10">
       <div className="mb-10">
         {currentQuestion && (
           <Question
@@ -110,15 +110,17 @@ export default function App() {
           <div key={question.id}>
             <a
               className={
-                "mb-1 mr-1 block rounded-sm border px-3 py-1" +
+                "mb-2 mr-2 block rounded-sm border px-3 py-1" +
                 (currentIndex === index
                   ? " border-blue-800 bg-blue-500 text-blue-100"
-                  : " border-gray-500 bg-gray-200")
+                  : " border-gray-300 bg-gray-200") +
+                (userAnswers[question.id] === undefined ? "" : " border-black")
               }
               href="#"
               onClick={(e) => {
                 e.preventDefault();
                 setCurrentIndex(index);
+                setRevealCorrect(false);
               }}
             >
               {question.id}
