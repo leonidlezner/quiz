@@ -111,10 +111,11 @@ export default function App() {
             <a
               className={
                 "mb-2 mr-2 block rounded-sm border px-3 py-1" +
-                (currentIndex === index
-                  ? " border-blue-800 bg-blue-500 text-blue-100"
-                  : " border-gray-300 bg-gray-200") +
-                (userAnswers[question.id] === undefined ? "" : " border-black")
+                (userAnswers[question.id] === undefined
+                  ? currentIndex === index
+                    ? " border-blue-800 bg-blue-500 text-blue-100"
+                    : " border-gray-300 bg-gray-100"
+                  : " border-black bg-gray-200")
               }
               href="#"
               onClick={(e) => {
