@@ -113,7 +113,7 @@ export default function App() {
       </div>
 
       <div className="mt-10 flex flex-wrap">
-        {questions.map((question, index) => (
+        {questions.map((question: IQuestion, index: number) => (
           <div key={question.id}>
             <a
               className={
