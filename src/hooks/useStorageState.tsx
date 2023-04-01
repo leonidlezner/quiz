@@ -15,7 +15,11 @@ export default function useStorageState<T>(defaultValue: T, name: string) {
     }
 
     // Both values are arrays, check their lenght
-    if (Array.isArray(saved) && Array.isArray(defaultValue)) {
+    if (
+      Array.isArray(saved) &&
+      Array.isArray(defaultValue) &&
+      defaultValue.length > 0
+    ) {
       if (saved.length === defaultValue.length) {
         return saved;
       } else {

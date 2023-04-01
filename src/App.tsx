@@ -15,7 +15,10 @@ export default function App() {
     [key: number]: number;
   }>({}, "userAnswers");
 
-  const [questions, setQuestions] = useState<IQuestion[]>([]);
+  const [questions, setQuestions] = useStorageState<IQuestion[]>(
+    [],
+    "questions"
+  );
 
   useEffect(() => {
     // https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
@@ -39,7 +42,11 @@ export default function App() {
       setCurrentIndex((prev: number) => (prev >= 0 ? prev : 0));
     };
 
-    loadData();
+    if (questions.length < 1) {
+      loadData();
+    } else {
+      setCurrentIndex((prev: number) => (prev >= 0 ? prev : 0));
+    }
   }, []);
 
   const handleChangeQuestion = (toNext: boolean) => {
