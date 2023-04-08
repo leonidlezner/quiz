@@ -665,8 +665,12 @@
   },
   {
     "id": 33,
-    "question": "Warum sollte man sich von Schilf- und Röhrichtzonen sowie von dicht bewachsenen Uferzonen möglichst weit fernhalten? a. Weil diese Zonen vielfach Rast- und Brutplätze besonders schutzwürdiger Vögel oder Fischlaichplätze sind.",
+    "question": "Warum sollte man sich von Schilf- und Röhrichtzonen sowie von dicht bewachsenen Uferzonen möglichst weit fernhalten?",
     "answers": [
+      {
+        "answer": "Weil diese Zonen vielfach Rast- und Brutplätze besonders schutzwürdiger Vögel oder Fischlaichplätze sind.",
+        "correct": true
+      },
       {
         "answer": "Weil in diesen Zonen badende Personen schwer zu erkennen sind.",
         "correct": false
