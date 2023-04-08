@@ -1542,5 +1542,665 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 73,
+    "question": "Für welche Sportboote ist der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen vorgeschrieben?",
+    "answers": [
+      {
+        "answer": "Für Sportboote von weniger als 11,03 kW (15 PS) Nutzleistung und mehr als 15 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Für Sportboote von mehr als 11,03 kW (15 PS) Nutzleistung und mehr als 20 m Länge, auf dem Rhein von mehr als 3,68 kW (5 PS) Nutzleistung und mehr als 15 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Für Sportboote von mehr als 11,03 kW (15 PS) Nutzleistung und weniger als 20 m Länge, auf dem Rhein von mehr als 3,68 kW (5 PS) und weniger als 15 m Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Für Sportboote von weniger als 11,03 kW (15 PS) Nutzleistung und weniger als 15 m Länge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Auf welchen Gewässern gilt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen?",
+    "answers": [
+      {
+        "answer": "Auf allen Seewasserstraßen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf den Bundeswasserstraßen und allen Landesgewässern.",
+        "correct": false
+      },
+      {
+        "answer": "Auf den Bundeswasserstraßen im Binnenbereich.",
+        "correct": true
+      },
+      {
+        "answer": "Auf allen Landesgewässern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Aus welchen Gründen muss der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen entzogen werden?",
+    "answers": [
+      {
+        "answer": "Bei zweifelhafter Zuverlässigkeit aus Altersgründen.",
+        "correct": false
+      },
+      {
+        "answer": "Bei zweifelhafter Tauglichkeit wegen Alkoholmissbrauch.",
+        "correct": false
+      },
+      {
+        "answer": "Bei fehlender Tauglichkeit oder fehlender Zuverlässigkeit.",
+        "correct": true
+      },
+      {
+        "answer": "Bei fehlender Zuverlässigkeit nach einer begangener Ordnungswidrigkeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Was beinhaltet die allgemeine Sorgfaltspflicht?",
+    "answers": [
+      {
+        "answer": "Gefährdung von Menschenleben, Beschädigungen an Fahrzeugen, Anlagen oder Ufern und Beeinträchtigung der Umwelt.",
+        "correct": false
+      },
+      {
+        "answer": "Vermeidung der Gefährdung von Menschenleben, von Beschädigungen an Fahrzeugen, Anlagen oder Ufern, Behinderung der Schifffahrt und Beeinträchtigung der Umwelt.",
+        "correct": true
+      },
+      {
+        "answer": "Es ist alles zu tun, was zur Vermeidung von Beschädigungen an Fahrzeugen, Anlagen oder Ufern, Behinderung der Schifffahrt und Beeinträchtigung der Umwelt nötig ist.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist alles zu tun, was zur Vermeidung der Gefährdung von Menschenleben, Behinderung der Schifffahrt und Beeinträchtigung der Umwelt nötig ist.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Unter welchen Umständen darf von den geltenden Bestimmungen über das Verhalten im Verkehr auf den Binnenschifffahrtsstraßen abgewichen werden?",
+    "answers": [
+      {
+        "answer": "Bei unmittelbar bevorstehender Begegnung.",
+        "correct": false
+      },
+      {
+        "answer": "Bei unmittelbar drohender Gefahr für sich oder andere.",
+        "correct": true
+      },
+      {
+        "answer": "Bei mittelbar drohender Gefahr für sich oder andere.",
+        "correct": false
+      },
+      {
+        "answer": "Bei unmittelbar bevorstehendem Überholvorgang.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines Sportbootes auf Binnenschifffahrtsstraßen, mit Ausnahme des Rheins, erfüllen, wenn die größte Nutzleistung der Antriebsmaschine 11,03 kW oder wenger beträgt?",
+    "answers": [
+      {
+        "answer": "Mindestalter 16 Jahre.",
+        "correct": true
+      },
+      {
+        "answer": "Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestalter 14 Jahre.",
+        "correct": false
+      },
+      {
+        "answer": "Nachweis der Zuverlässigkeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Welche Anforderungen neben der körperlichen und geistigen Tauglichkeit und fachlichen Eignung muss der Führer eines Sportbootes auf dem Rhein erfüllen, wenn die Nutzleistung der Antriebsmaschine mehr als 3,68 kW beträgt?",
+    "answers": [
+      {
+        "answer": "Mindestalter 16 Jahre.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens 14 Jahre.",
+        "correct": false
+      },
+      {
+        "answer": "Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.",
+        "correct": true
+      },
+      {
+        "answer": "Nachweis der Zuverlässigkeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Welche Anforderungen werden an die Person gestellt, mit der der Schifffsführer das Ruder eines Sportbootes mit Antriebsmaschine auf Binnenschiffffahrtstraßen besetzen will?",
+    "answers": [
+      {
+        "answer": "Sie muss mindestens 16 Jahre alt und körperlich, geistig und fachlich geeignet sein.",
+        "correct": true
+      },
+      {
+        "answer": "Sie muss mindestens 14 Jahre alt und körperlich, geistig und fachlich geeignet sein.",
+        "correct": false
+      },
+      {
+        "answer": "Sie muss mindestens 18 Jahre alt und körperlich, geistig und fachlich geeignet sein.",
+        "correct": false
+      },
+      {
+        "answer": "Sie muss mindestens 16 Jahre alt und Inhaber des Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote mit Antriebsmaschine sein.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Wo erhält man Auskünfte über Verkehrsbeschränkungen und aktuelle Informationen über Binnenschifffahrtsstraßen?",
+    "answers": [
+      {
+        "answer": "In der Binnenschiffsuntersuchungsordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Bei einem Wasserwirtschaftsamt und bei der Wasserschutzpolizei.",
+        "correct": false
+      },
+      {
+        "answer": "Bei der Wasserstraßen- und Schifffahrtsverwaltung, im Internet unter www.elwis.de und bei der Wasserschutzpolizei.",
+        "correct": true
+      },
+      {
+        "answer": "In der Binnenschifffahrtsstraßen-Ordnung Teil II.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Wozu muss der Rudergänger eines Sportbootes zur sicheren Steuerung in der Lage sein?",
+    "answers": [
+      {
+        "answer": "Alle Informationen und Weisungen zu empfangen und zu geben und nach allen Seiten genügend freie Sicht zu haben.",
+        "correct": false
+      },
+      {
+        "answer": "Alle Schallzeichen wahrnehmen zu können und nach allen Seiten genügend freie Sicht zu haben.",
+        "correct": false
+      },
+      {
+        "answer": "Alle Informationen und Weisungen zu empfangen und zu geben.",
+        "correct": false
+      },
+      {
+        "answer": "Alle Informationen und Weisungen zu empfangen und zu geben, alle Schallzeichen wahrzunehmen und nach allen Seiten genügend freie Sicht zu haben.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Bis zu welcher Schiffslänge berechtigt der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen mit Ausnahme des Rheins zum Führen eines Sportbootes auf Binnenschifffahrtsstraßen?",
+    "answers": [
+      {
+        "answer": "Bis zu einer Länge von weniger als 25 m (ohne Ruder und Bugspriet).",
+        "correct": false
+      },
+      {
+        "answer": "Bis zu einer Länge von weniger als 25 m (mit Ruder und Bugspriet).",
+        "correct": false
+      },
+      {
+        "answer": "Bis zu einer Länge von weniger als 15 m (mit Ruder und Bugspriet).",
+        "correct": false
+      },
+      {
+        "answer": "Bis zu einer Länge von weniger als 20 m (ohne Ruder und Bugspriet).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Wo findet man die allgemeinen Verkehrsregeln für die Binnenschifffahrtsstraßen und den Rhein?",
+    "answers": [
+      {
+        "answer": "Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschiffsuntersuchungsordnung, Rheinschifffahrtspolizeiverordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrtsstraßen-Ordnung, Rheinschifffahrtspolizeiverordnung.",
+        "correct": true
+      },
+      {
+        "answer": "Wassermotorräderverordnung, Wasserskiverordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Wo findet man die allgemeinen Verkehrsregeln für die Mosel und die Donau?",
+    "answers": [
+      {
+        "answer": "Wassermotorräderverordnung, Wasserskiverordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Donauschifffahrtspolizeiverordnung, Binnenschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.",
+        "correct": true
+      },
+      {
+        "answer": "Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Wo findet man Regeln für den Verkehr von Wassermotorrädern und für das Wasserskilaufen?",
+    "answers": [
+      {
+        "answer": "Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Wassermotorräderverordnung, Wasserskiverordnung.",
+        "correct": true
+      },
+      {
+        "answer": "Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrtsstraßen-Ordnung, Rheinschifffahrtspolizeiverordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Welche Maßnahmen sind zu treffen, wenn das Fahrzeug innerhalb des Fahrwassers bzw. der Fahrrinne Grundberührung hat?",
+    "answers": [
+      {
+        "answer": "Die Wasserstraßen- und Schifffahrtsverwaltung oder die Wasserschutzpolizei ist mit genauer Angabe der Hindernisstelle zu",
+        "correct": true
+      },
+      {
+        "answer": "Das Fahrzeug verbleibt vor Ort bis die Wasserschutzpolizei eintrifft.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Baggerunternehmen ist zu verständigen, damit das Hindernis beseitigt wird.",
+        "correct": false
+      },
+      {
+        "answer": "Die Wasserschutzpolizei oder die Wasserstraßen- und Schifffahrtsverwaltung ist mit genauer Angabe der Schiffsdaten zu informieren.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Was versteht man unter \"Fahrwasser\"?",
+    "answers": [
+      {
+        "answer": "Es ist der Teil der Wasserstraße, der durch die Ufer begrenzt ist.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist der Teil der Wasserstraße, deren Tiefe bei 2,50 m und mehr beginnt.",
+        "correct": false
+      },
+      {
+        "answer": "Den Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorgehalten bzw. angestrebt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Den Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt wird.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Was versteht man unter \"Fahrrinne\"?",
+    "answers": [
+      {
+        "answer": "Es ist der Teil der Wasserstraße, deren Breite mindestens 88 m und deren Tiefe mindestens 2,50 m beträgt.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist der Teil der Wasserstraße, deren Breite mindestens 150 m und deren Tiefe mindestens 3,00 m beträgt.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist der Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorgehalten bzw. angestrebt werden.",
+        "correct": true
+      },
+      {
+        "answer": "Den Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt wird.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Wie wird die Schifffahrt vom Erreichen bestimmter Wasserstände und Hochwassermarken informiert?",
+    "answers": [
+      {
+        "answer": "Durch Aushang bei Wasserschutzpolizei-Stationen.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Nautischen Informationsfunk, Information im Rundfunk, im Fernsehen und im Internet.",
+        "correct": true
+      },
+      {
+        "answer": "Durch Aushang bei Hafenämtern und Schleusen.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Bekanntgaben der Hochwasserschutzzentrale.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Wo kann der Sportbootfahrer vor Ort das Erreichen bestimmter Wasserstände und Hochwassermarken feststellen?",
+    "answers": [
+      {
+        "answer": "An den Aushängen bei Hafenämtern und Schleusen.",
+        "correct": false
+      },
+      {
+        "answer": "An den Pegeln und den Einsenkungsmarken der Fahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "An den Pegeln und ausgewiesenen Hochwassermarken.",
+        "correct": true
+      },
+      {
+        "answer": "An den Aushängen bei Wasserschutzpolizei-Stationen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Welche Auswirkungen kann das Erreichen der Hochwassermarke I für die Sportschifffahrt haben?",
+    "answers": [
+      {
+        "answer": "Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.",
+        "correct": false
+      },
+      {
+        "answer": "Einstellung der Schifffahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.",
+        "correct": false
+      },
+      {
+        "answer": "Geschwindigkeitsbeschränkung und Fahrverbot für Fahrzeuge ohne Sprechfunk.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Welche Auswirkungen hat das Erreichen der Hochwassermarke II für die Sportschifffahrt?",
+    "answers": [
+      {
+        "answer": "Geschwindigkeitsbeschränkung und Fahrverbot für Fahrzeuge ohne Sprechfunk.",
+        "correct": false
+      },
+      {
+        "answer": "Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.",
+        "correct": false
+      },
+      {
+        "answer": "Einstellung der Schifffahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "In welche Richtung werden bei Flüssen die Uferseiten als rechtes bzw. linkes Ufer bezeichnet?",
+    "answers": [
+      {
+        "answer": "Bei der Bergfahrt liegt die rechte Uferseite rechts.",
+        "correct": false
+      },
+      {
+        "answer": "Von der Mündung bis zur Quelle.",
+        "correct": false
+      },
+      {
+        "answer": "Von der Quelle bis zur Mündung.",
+        "correct": true
+      },
+      {
+        "answer": "Bei der Talfahrt liegt die rechte Uferseite links.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Was bedeutet \"zu Berg\" oder \"Bergfahrt\" auf Flüssen?",
+    "answers": [
+      {
+        "answer": "Die Fahrt in Richtung Quelle.",
+        "correct": true
+      },
+      {
+        "answer": "Die Fahrt über Grund.",
+        "correct": false
+      },
+      {
+        "answer": "Die Fahrt mit der Strömung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Fahrt in Richtung Mündung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Was bedeutet \"zu Berg\" oder \"Bergfahrt\" auf Kanälen?",
+    "answers": [
+      {
+        "answer": "Die Fahrt in Richtung Quelle.",
+        "correct": false
+      },
+      {
+        "answer": "Die Fahrt gegen die Strömung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Fahrt, die in Teil I der Binnenschifffahrtsstraßen-Ordnung als Fahrt \"zu Berg\" oder \"Bergfahrt\" festgelegt ist.",
+        "correct": false
+      },
+      {
+        "answer": "Die Fahrt, die in Teil II der Binnenschifffahrtsstraßen-Ordnung als Fahrt \"zu Berg\" oder \"Bergfahrt\" festgelegt ist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Welche Zeichen begrenzen die Fahrrinne zum rechten Ufer?",
+    "answers": [
+      {
+        "answer": "Rote Spierentonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Grüne Spierentonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Rote Stumpftonnen oder Schwimmstangen.",
+        "correct": true
+      },
+      {
+        "answer": "Grüne Spitztonnen oder Schwimmstangen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Welche Zeichen begrenzen die Fahrrinne zum linken Ufer?",
+    "answers": [
+      {
+        "answer": "Rote Stumpftonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Grüne Spitztonnen oder Schwimmstangen.",
+        "correct": true
+      },
+      {
+        "answer": "Rote Spierentonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Grüne Spierentonnen oder Schwimmstangen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Welche Fahrrinnenseite hat ein Bergfahrer an seiner Steuerbordseite und wie ist diese gekennzeichnet?",
+    "answers": [
+      {
+        "answer": "Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Die rechte Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Die linke Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Was bedeutet eine rot-grün gestreifte Tonne oder Schwimmstange und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Fahrrinnenspaltung. In Fahrtrichtung rechts halten.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrrinnenspaltung. Vorbeifahrt an beiden Seiten möglich.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrrinnenspaltung. Vorbeifahrt nur an Steuerbord möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrrinnenspaltung. In Fahrtrichtung links halten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Mit welchen Zeichen werden Hindernisse wie zum Beispiel Buhnen und Kribben an der rechten Seite der Wasserstraße bezeichnet?",
+    "answers": [
+      {
+        "answer": "Stangen mit Toppzeichen: roter Kegel, Spitze nach unten, oder rot-weiß gestreifte Schwimmstange mit rotem Zylinder.",
+        "correct": true
+      },
+      {
+        "answer": "Stangen mit Toppzeichen: roter Kegel, Spitze nach oben, oder rot-weiß gestreifte Schwimmstange mit rotem Zylinder.",
+        "correct": false
+      },
+      {
+        "answer": "Stangen mit Toppzeichen: grüner Kegel, Spitze nach unten, oder grün-weiß gestreifte Schwimmstange mit grünem Kegel.",
+        "correct": false
+      },
+      {
+        "answer": "Stangen mit Toppzeichen: grüner Kegel, Spitze nach oben, oder grün-weiß gestreifte Schwimmstange mit grünem Kegel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Was kennzeichnet eine grün-weiß gestreifte Schwimmstange mit grünem Kegel, Spitze nach oben, oder eine grüne Tonne mit grün-weiß gestreiftem Aufsatz mit grünem Kegel, Spitze nach oben?",
+    "answers": [
+      {
+        "answer": "Fahrrinnenrand an der linken Seite der Wasserstraße.",
+        "correct": false
+      },
+      {
+        "answer": "Hindernis an der rechten Seite der Wasserstraße.",
+        "correct": false
+      },
+      {
+        "answer": "Hindernis an der linken Seite der Wasserstraße.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrrinnenrand an der rechten Seite der Wasserstraße.",
+        "correct": false
+      }
+    ]
   }
 ]
