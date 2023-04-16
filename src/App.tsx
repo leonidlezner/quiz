@@ -74,6 +74,42 @@ export default function App() {
 
   const currentQuestion = questions[currentIndex];
 
+  const getQuestionClass = (
+    question: IQuestion,
+    index: number,
+    currentIndex: number,
+    userAnswers: { [key: number]: number },
+    revealCorrect: boolean
+  ) => {
+    let retClass = "";
+
+    if (currentIndex === index) {
+      retClass = "border-blue-800 bg-blue-500 text-blue-100";
+    } else {
+      if (userAnswers[question.id] === undefined) {
+        retClass = "border-gray-300 bg-gray-100";
+      } else {
+        if (revealCorrect) {
+          if (question.answers[userAnswers[question.id]].correct) {
+            retClass = "bg-green-200 border-green-400";
+          } else {
+            retClass = "bg-red-200 border-red-400";
+          }
+        } else {
+          retClass = "border-black bg-gray-200";
+        }
+      }
+    }
+    /*
+"mb-2 mr-2 block rounded-sm border px-3 py-1" +
+                (currentIndex === index
+                  ? " border-blue-800 bg-blue-500 text-blue-100"
+                  : userAnswers[question.id] === undefined
+                  ? " border-gray-300 bg-gray-100"
+                  : " border-black bg-gray-200") */
+    return "mb-2 mr-2 block rounded-sm border px-3 py-1 " + retClass;
+  };
+
   return (
     <div className="m-2 rounded-sm border bg-gray-50 p-5 shadow-sm xl:m-10">
       <div className="mb-10">
@@ -116,14 +152,13 @@ export default function App() {
         {questions.map((question: IQuestion, index: number) => (
           <div key={question.id}>
             <a
-              className={
-                "mb-2 mr-2 block rounded-sm border px-3 py-1" +
-                (currentIndex === index
-                  ? " border-blue-800 bg-blue-500 text-blue-100"
-                  : userAnswers[question.id] === undefined
-                  ? " border-gray-300 bg-gray-100"
-                  : " border-black bg-gray-200")
-              }
+              className={getQuestionClass(
+                question,
+                index,
+                currentIndex,
+                userAnswers,
+                revealCorrect
+              )}
               href="#"
               onClick={(e) => {
                 e.preventDefault();
@@ -140,7 +175,9 @@ export default function App() {
       <div className="mt-10 text-center">
         <button
           onClick={() => setRevealCorrect((rev) => !rev)}
-          className="text-sm"
+          className={
+            "px-2 py-1 text-sm " + (revealCorrect ? "bg-yellow-200" : "")
+          }
         >
           Reveal correct
         </button>
