@@ -2202,5 +2202,116 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 103,
+    "question": "Was ist in Kanälen verboten?",
+    "answers": [
+      {
+        "answer": "Wenden.",
+        "correct": false
+      },
+      {
+        "answer": "Begegnen.",
+        "correct": false
+      },
+      {
+        "answer": "Überholen.",
+        "correct": false
+      },
+      {
+        "answer": "Ankern.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Was bedeuten auf einem stillliegenden Fahrzeug zwei weiße Lichter übereinander?",
+    "answers": [
+      {
+        "answer": "Ein Ankerlieger, der zwei Anker ausgelegt hat.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug über 135 m.",
+        "correct": false
+      },
+      {
+        "answer": "Ein stillliegender Schubverband.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Ankerlieger, dessen Anker die Schifffahrt gefährden kann",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Welches Licht setzt ein stillliegendes Fahrzeug?",
+    "answers": [
+      {
+        "answer": "Ein von allen Seiten sichtbares weißes Rundumlicht auf der Fahrwasserseite.",
+        "correct": true
+      },
+      {
+        "answer": "Ein weißes Topplicht und ein weißes Hecklicht.",
+        "correct": false
+      },
+      {
+        "answer": "Ein von allen Seiten sichtbares weißes Blinklicht auf der Fahrwasserseite.",
+        "correct": false
+      },
+      {
+        "answer": "Die Seitenlichter und ein sichtbares weißes Rundumlicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Wie sind Anker am Tage bezeichnet, die die Schifffahrt behindern können?",
+    "answers": [
+      {
+        "answer": "Mit einem gelben Döpper.",
+        "correct": true
+      },
+      {
+        "answer": "Mit einem weißen Döpper.",
+        "correct": false
+      },
+      {
+        "answer": "Mit einem roten Döpper.",
+        "correct": false
+      },
+      {
+        "answer": "Mit einem grünen Döpper.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "media": "./data/media/frage107.png",
+    "answers": [
+      {
+        "answer": "Liegestelle für Fahrzeuge mit brennbaren Stoffen, für Kleinfahrzeuge verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Liegestelle für Fahrzeuge mit explosiven Stoffen, für Kleinfahrzeuge verboten.",
+        "correct": true
+      },
+      {
+        "answer": "Liegestelle für alle Fahrzeuge, für Kleinfahrzeuge verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Liegestelle für Fahrzeuge mit gesundheitsgefährdeten Stoffen, für Kleinfahrzeuge verboten.",
+        "correct": false
+      }
+    ]
   }
 ]
