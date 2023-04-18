@@ -2313,5 +2313,119 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 108,
+    "question": "Was bedeuten diese Tafelzeichen?",
+    "media": "./data/media/frage108.png",
+    "answers": [
+      {
+        "answer": "Liegestelle für Fahrzeuge mit gefährlichen Gütern, nicht für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Liegestelle für Fahrzeuge ohne gefährliche Güter, auch für Kleinfahrzeuge.",
+        "correct": true
+      },
+      {
+        "answer": "Liegestelle für Fahrzeuge mit gefährlichen Gütern, auch für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Liegestelle für Fahrzeuge ohne gefährliche Güter, nicht für Kleinfahrzeuge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Wo besteht ohne besondere Bezeichnung der Stellen bzw. Strecken ein allgemeines Liegeverbot?",
+    "answers": [
+      {
+        "answer": "Vor Brücken und nach Hochspannungsleitungen.",
+        "correct": false
+      },
+      {
+        "answer": "Vor Brücken und Hochspannungsleitungen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf Schifffahrtskanälen und vor Schleusenkanälen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf Schifffahrtskanälen und Schleusenkanälen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Welche Bedeutung hat das nachstehende Tafelzeichen?",
+    "media": "./data/media/frage110.png",
+    "answers": [
+      {
+        "answer": "Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt, Durchfahrt in Gegenrichtung verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrtsöffnung, Durchfahrt in beide Richtungen erlaubt.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Welche Bedeutung haben die nachstehenden Tafelzeichen?",
+    "media": "./data/media/frage111.png",
+    "answers": [
+      {
+        "answer": "Empfohlene Durchfahrt, Durchfahrt in Gegenrichtung verboten.",
+        "correct": true
+      },
+      {
+        "answer": "Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrtsöffnung, Durchfahrt in beide Richtungen erlaubt.",
+        "correct": false
+      },
+      {
+        "answer": "Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Was bedeuten diese Tafelzeichen an Brücken?",
+    "media": "./data/media/frage112.png",
+    "answers": [
+      {
+        "answer": "Empfohlene Durchfahrt nur zwischen den beiden Tafeln.",
+        "correct": false
+      },
+      {
+        "answer": "Durchfahrt nur zwischen den beiden Tafeln erlaubt.",
+        "correct": true
+      },
+      {
+        "answer": "Empfohlene Durchfahrt mit Gegenverkehr.",
+        "correct": false
+      },
+      {
+        "answer": "Durchfahrt nur außerhalb der beiden Tafeln erlaubt.",
+        "correct": false
+      }
+    ]
   }
 ]
