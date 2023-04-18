@@ -2427,5 +2427,28 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 113,
+    "question": "Was bedeuten diese Tafelzeichen an Brücken?",
+    "answers": [
+      {
+        "answer": "Empfohlene Durchfahrt mit Gegenverkehr.",
+        "correct": false
+      },
+      {
+        "answer": "Durchfahrt nur zwischen den beiden Tafeln erlaubt.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt nur zwischen den beiden Tafeln.",
+        "correct": true
+      },
+      {
+        "answer": "Durchfahrt nur außerhalb der beiden Tafeln erlaubt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage113.png"
   }
 ]
