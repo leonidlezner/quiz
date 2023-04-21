@@ -2450,5 +2450,300 @@
       }
     ],
     "media": "./data/media/frage113.png"
+  },
+  {
+    "id": 114,
+    "question": "Was bedeutet dieses Tafelzeichen an Brücken?",
+    "answers": [
+      {
+        "answer": "Durchfahrt nur neben der Tafel erlaubt.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt mit Gegenverkehr.",
+        "correct": true
+      },
+      {
+        "answer": "Empfohlene Durchfahrt ohne Gegenverkehr.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt nur in eine Richtung.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage114.png"
+  },
+  {
+    "id": 115,
+    "question": "Was bedeuten diese Tafelzeichen an Brücken?",
+    "answers": [
+      {
+        "answer": "Empfohlene Durchfahrt ohne Gegenverkehr.",
+        "correct": true
+      },
+      {
+        "answer": "Empfohlene Durchfahrt mit Gegenverkehr.",
+        "correct": false
+      },
+      {
+        "answer": "Durchfahrt nur außerhalb der beiden Tafeln erlaubt.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt in beide Richtungen.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage115.png"
+  },
+  {
+    "id": 116,
+    "question": "Was bedeutet dieses Tafelzeichen im Bereich eines Wehres?",
+    "answers": [
+      {
+        "answer": "Schutzbedürftige Anlage.",
+        "correct": false
+      },
+      {
+        "answer": "Verbot der Durchfahrt und Sperrung der Schifffahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.",
+        "correct": false
+      },
+      {
+        "answer": "Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge mit Antriebsmaschine befahrbar.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage116.png"
+  },
+  {
+    "id": 117,
+    "question": "Welche Bedeutung haben vor einer Schleuse ein rotes oder ein rotes und ein grünes Licht?",
+    "answers": [
+      {
+        "answer": "Ausfahrt verboten, Öffnen der Schleuse wird vorbereitet.",
+        "correct": false
+      },
+      {
+        "answer": "Einfahrt verboten, Schließen der Schleuse wird vorbereitet.",
+        "correct": false
+      },
+      {
+        "answer": "Einfahrt verboten, Öffnen der Schleuse wird vorbereitet.",
+        "correct": true
+      },
+      {
+        "answer": "Ausfahrt verboten, Schließen der Schleuse wird vorbereitet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "In welcher Reihenfolge fahren Fahrzeuge, die nicht Kleinfahrzeuge sind, und Kleinfahrzeuge, die gemeinsam geschleust werden sollen, in die Schleuse ein?",
+    "answers": [
+      {
+        "answer": "Kleinfahrzeuge fahren nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch die Schleusenaufsicht in die Schleuse ein.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeuge fahren vor den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch die Schleusenaufsicht in die Schleuse ein.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeuge fahren erst nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und nach Aufforderung durch die Schleusenaufsicht in die Schleuse ein.",
+        "correct": true
+      },
+      {
+        "answer": "Kleinfahrzeuge fahren vor den Fahrzeugen, die nicht Kleinfahrzeuge sind und vor Aufforderung durch die Schleusenaufsicht in die Schleuse ein.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Mehrere Kleinfahrzeuge sollen gemeinsam vom Oberwasser in das Unterwasser geschleust werden. Worauf ist bei deren Einfahrt in die Schleuse und während des Schleusens besonders zu achten?",
+    "answers": [
+      {
+        "answer": "Das letzte Kleinfahrzeug muss so weit einfahren, dass es beim Füllen der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.",
+        "correct": false
+      },
+      {
+        "answer": "Das erste Kleinfahrzeug muss so weit einfahren, dass es beim Leeren der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.",
+        "correct": false
+      },
+      {
+        "answer": "Das erste Kleinfahrzeug muss so weit einfahren, dass es beim Füllen der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.",
+        "correct": false
+      },
+      {
+        "answer": "Das letzte Kleinfahrzeug muss so weit einfahren, dass es beim Leeren der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schubverband kürzer als 110 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug ohne Maschinenantrieb länger als 110 m.",
+        "correct": false
+      },
+      {
+        "answer": "Schubverband länger als 110 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug mit Maschinenantrieb länger als 110 m.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage120.png"
+  },
+  {
+    "id": 121,
+    "question": "Was bedeutet dieses Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrzeug, das vor Anker liegt.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug eines Schleppverbandes.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeuge mit Vorrang an einer Schleuse.",
+        "correct": false
+      },
+      {
+        "answer": "Schleppfahrzeug an der Spitze eines Schleppverbandes.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage121.png"
+  },
+  {
+    "id": 122,
+    "question": "Was bedeutet dieses Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrzeug, das vor Anker liegt.",
+        "correct": false
+      },
+      {
+        "answer": "Schleppfahrzeug an der Spitze eines Schleppverbandes.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug eines Schleppverbandes.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeuge mit Vorrang an einer Schleuse.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage122.png"
+  },
+  {
+    "id": 123,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schubverband unter 110 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Schubverband in Fahrt von vorne.",
+        "correct": true
+      },
+      {
+        "answer": "Schubverband in Fahrt von achtern.",
+        "correct": false
+      },
+      {
+        "answer": "Schubverband vor Anker liegend.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage123.png"
+  },
+  {
+    "id": 124,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Frei fahrende Fähre.",
+        "correct": false
+      },
+      {
+        "answer": "Nicht frei fahrende Fähre.",
+        "correct": true
+      },
+      {
+        "answer": "Schubverband von achtern.",
+        "correct": false
+      },
+      {
+        "answer": "Schubverband von Steuerbordseite.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage124.png"
+  },
+  {
+    "id": 125,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schubverband von achtern.",
+        "correct": false
+      },
+      {
+        "answer": "Frei fahrende Fähre.",
+        "correct": true
+      },
+      {
+        "answer": "Nicht frei fahrende Fähre.",
+        "correct": false
+      },
+      {
+        "answer": "Schubverband von Steuerbordseite.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage125.png"
+  },
+  {
+    "id": 126,
+    "question": "Was bedeutet auf einem Fahrzeug ein blaues Licht?",
+    "answers": [
+      {
+        "answer": "Fahrzeug hat brennbare Stoffe geladen. Abstand beim Stillliegen 10 m.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug der Überwachungsbehörden im Einsatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat gesundheitsschädliche Stoffe geladen. Abstand beim Stillliegen 50 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat explosive Stoffe geladen. Abstand beim Stillliegen 100 m.",
+        "correct": false
+      }
+    ]
   }
 ]
