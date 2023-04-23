@@ -2745,5 +2745,317 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 127,
+    "question": "Was bedeutet dieses Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug der Überwachungsbehörden im Einsatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat explosive Stoffe geladen. Abstand beim Stillliegen 100 m.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage127.png"
+  },
+  {
+    "id": 128,
+    "question": "Was bedeuten auf einem Fahrzeug zwei blaue Lichter übereinander?",
+    "answers": [
+      {
+        "answer": "Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug der Überwachungsbehörden im Einsatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Was bedeutet dieses Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrzeug der Überwachungsbehörden im Einsatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage129.png"
+  },
+  {
+    "id": 130,
+    "question": "Was bedeuten auf einem Fahrzeug drei blaue Lichter übereinander?",
+    "answers": [
+      {
+        "answer": "Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug der Überwachungsbehörden im Einsatz.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Was bedeutet dieses Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrzeug der Überwachungsbehörden im Einsatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage131.png"
+  },
+  {
+    "id": 132,
+    "question": "Welches Fahrzeug führt die nachstehende Tagbezeichnung?",
+    "answers": [
+      {
+        "answer": "Geschlepptes Fahrzeug eines Schleppverbandes.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug, dem die zuständige Behörde einen Vorrang zur Durchfahrt durch Stellen an denen eine bestimmte Reihenfolge gilt eingeräumt hat.",
+        "correct": true
+      },
+      {
+        "answer": "Festgefahrenes Fahrzeug, das einseitig nicht passierbar ist.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug unter 20 m Länge, für mehr als 12 Fahrgäste zugelassen.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage132.png"
+  },
+  {
+    "id": 133,
+    "question": "Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Wie wird zweckmäßigerweise die weiße Handlampe, die bei Annäherung anderer Fahrzeuge gezeigt werden muss, benutzt?",
+    "answers": [
+      {
+        "answer": "Das heranfahrende Fahrzeug anleuchten.",
+        "correct": false
+      },
+      {
+        "answer": "Die Handlampe nach oben halten.",
+        "correct": false
+      },
+      {
+        "answer": "Das Wasser anleuchten.",
+        "correct": false
+      },
+      {
+        "answer": "Die eigenen Segel anleuchten.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Ein Kleinfahrzeug unter Segel fährt nachts auf einer Binnenschifffahrtsstraße und führt ein weißes Rundumlicht im Topp. Welche zusätzlichen Lichter müssen gesetzt werden, wenn der Motor angeworfen wird?",
+    "answers": [
+      {
+        "answer": "Es muss kein weiteres Licht geführt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss ein zweites weißes Topplicht geführt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Seitenlichter unmittelbar nebeneinander oder in einer einzigen Laterne.",
+        "correct": true
+      },
+      {
+        "answer": "Es muss ein weißes Funkellicht geführt werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Welche Lichter muss ein Kleinfahrzeug unter Motor führen, wenn es ein anderes Kleinfahrzeug ohne Maschinenantrieb schleppt?",
+    "answers": [
+      {
+        "answer": "Lichter eines Kleinfahrzeugs mit Maschinenantrieb.",
+        "correct": true
+      },
+      {
+        "answer": "Weißes Rundumlicht.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei weiße Lichter übereinander.",
+        "correct": false
+      },
+      {
+        "answer": "Lichter eines Kleinfahrzeugs mit Maschinenantrieb und ein zweites weißes Topplicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Welche Lichter muss ein geschlepptes Kleinfahrzeug führen?",
+    "answers": [
+      {
+        "answer": "Lichter eines Kleinfahrzeugs mit Maschinenantrieb.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei weiße Lichter übereinander.",
+        "correct": false
+      },
+      {
+        "answer": "Weißes Funkellicht.",
+        "correct": false
+      },
+      {
+        "answer": "Weißes Rundumlicht.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen nicht mehr als Kleinfahrzeug?",
+    "answers": [
+      {
+        "answer": "Wenn es 10 m oder länger ist.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn es 18 m oder länger ist.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn es 15 m oder länger ist.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn es 20 m oder länger ist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Welchen Sichtwinkel und welche Farben haben die vorgeschriebenen Lichter an Bord?",
+    "answers": [
+      {
+        "answer": "Topplicht: weiß 112,5°, Hecklicht 225° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils 112,5°",
+        "correct": false
+      },
+      {
+        "answer": "Topplicht: weiß 135°, Hecklicht 225° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils 112,5°",
+        "correct": false
+      },
+      {
+        "answer": "Topplicht: weiß 225°, Hecklicht 135° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils 112,5°.",
+        "correct": true
+      },
+      {
+        "answer": "Topplicht: weiß 225°, Hecklicht 112,5° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils 135°",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Welches Licht muss ein Kleinfahrzeug ohne Maschinenantrieb mindestens führen?",
+    "answers": [
+      {
+        "answer": "Dreifarbenlaterne im Topp.",
+        "correct": false
+      },
+      {
+        "answer": "Ein von allen Seiten sichtbares weißes Licht.",
+        "correct": true
+      },
+      {
+        "answer": "Seitenlichter.",
+        "correct": false
+      },
+      {
+        "answer": "Topp- und Hecklicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Wie muss sich ein Segelfahrzeug auf einer Binnenschifffahrtsstraße, welches sich auf Kollisionskurs mit einem Kleinfahrzeug mit Maschinenantrieb befindet, verhalten?",
+    "answers": [
+      {
+        "answer": "Es wechselt den Kurs nach Steuerbord und reduziert die Geschwindigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Es wechselt den Kurs nach Steuerbord und hält die Geschwindigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Es hält Kurs und reduziert die Geschwindigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Es hält Kurs und Geschwindigkeit bei.",
+        "correct": true
+      }
+    ]
   }
 ]
