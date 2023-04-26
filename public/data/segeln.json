@@ -3057,5 +3057,346 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 141,
+    "question": "Wie muss sich ein Fahrzeug mit Topplicht und Seitenlichtern gegenüber einem Kleinfahrzeug mit Seitenlichtern, welches sich",
+    "answers": [
+      {
+        "answer": "Es hält Kurs und Geschwindigkeit bei.",
+        "correct": true
+      },
+      {
+        "answer": "Es hält Kurs und reduziert die Geschwindigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Es wechselt den Kurs nach Steuerbord und reduziert die Geschwindigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss ausweichen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Wie muss sich ein Kleinfahrzeug mit Maschinenantrieb gegenüber einem Segelsurfer, der auf Kollisionskurs liegt, verhalten?",
+    "answers": [
+      {
+        "answer": "Es hält Kurs und reduziert die Geschwindigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss ausweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Es hält Kurs und Geschwindigkeit bei.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss nicht ausweichen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Wer ist ausweichpflichtig, wenn ein Segler mit Wind von Backbord einer Segelyacht mit Wind von Steuerbord und einem schwarzen Kegel auf Kollisionskurs begegnet?",
+    "answers": [
+      {
+        "answer": "Beide Segelyachten, weil eines als Kleinfahrzeug mit Maschinenantrieb gilt und das andere den Wind von Backbord hat.",
+        "correct": false
+      },
+      {
+        "answer": "Die Segelyacht mit Wind von Backbord, weil sie als Kleinfahrzeug unter Segel gilt.",
+        "correct": false
+      },
+      {
+        "answer": "Die Segelyacht mit Wind von Steuerbord, weil sie als Kleinfahrzeug unter Segel gilt.",
+        "correct": false
+      },
+      {
+        "answer": "Die Segelyacht mit Wind von Steuerbord, weil sie als Kleinfahrzeug mit Maschinenantrieb gilt.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Wie lautet eine der drei Grundregeln der Binnenschifffahrtsstraßen-Ordnung, nach denen Kleinfahrzeuge unter Segel einander ausweichen?",
+    "answers": [
+      {
+        "answer": "Wenn sie den Wind von derselben Seite haben, müssen beide Fahrzeuge ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn sie den Wind nicht von derselben Seite haben, muss das Segelfahrzeug mit Wind von Backbord dem Segelfahrzeug mit Wind von Steuerbord ausweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn sie den Wind von derselben Seite haben, muss das leeseitige dem luvseitigen ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn sie den Wind nicht von derselben Seite haben, muss das Segelfahrzeug mit Wind von Steuerbord dem Segelfahrzeug mit Wind von Backbord ausweichen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet. Sog und Wellenschlag vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage145.png"
+  },
+  {
+    "id": 146,
+    "question": "Was bedeuten diese Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet. Sog und Wellenschlag vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage146.png"
+  },
+  {
+    "id": 147,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage147.png"
+  },
+  {
+    "id": 148,
+    "question": "Was bedeuten diese Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage148.png"
+  },
+  {
+    "id": 149,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der roten Seite gestattet; grüne Seite gesperrt.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt.",
+        "correct": true
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet. Vorbeifahrt an der roten Seite mit unverminderter Geschwindigkeit möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage149.png"
+  },
+  {
+    "id": 150,
+    "question": "Was bedeuten diese Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der roten Seite gestattet; grüne Seite gesperrt.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt.",
+        "correct": true
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet. Vorbeifahrt an der roten Seite mit unverminderter Geschwindigkeit möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage150.png"
+  },
+  {
+    "id": 151,
+    "question": "Was bedeuten im Fahrwasser nachstehende Zeichen?",
+    "answers": [
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen gestattet; rot- weiß-rote Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen gestattet; rot-weiß- rote Seite gesperrt.",
+        "correct": true
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Seite mit dem rot-weiß-roten Tafelzeichen gestattet; grün- weiß-grüne Seite gesperrt.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen gestattet; rot-weiß- rote Seite gesperrt. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage151.png"
+  },
+  {
+    "id": 152,
+    "question": "Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet.",
+        "correct": true
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage152.png"
+  },
+  {
+    "id": 153,
+    "question": "Was bedeuten diese Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet.",
+        "correct": true
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage153.png"
+  },
+  {
+    "id": 154,
+    "question": "Was bedeuten diese Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an jeder Seite gestattet.",
+        "correct": true
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage154.png"
+  },
+  {
+    "id": 155,
+    "question": "Was bedeutet diese Tag- und Nachtbezeichnung?",
+    "answers": [
+      {
+        "answer": "Schwimmende Anlage / Schwimmkörper. Vorbeifahrt in möglichst weitem Abstand, Geschwindigkeit vermindern, Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Ein festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.",
+        "correct": false
+      },
+      {
+        "answer": "Schutzbedürftiges Fahrzeug, Vorbeifahrt in möglichst weitem Abstand, Geschwindigkeit vermindern, Sog und Wellenschlag vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Ein festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an jeder Seite mit unverminderter Geschwindigkeit gestattet.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage155.png"
   }
 ]
