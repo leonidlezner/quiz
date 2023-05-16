@@ -3398,5 +3398,139 @@
       }
     ],
     "media": "./data/media/frage155.png"
+  },
+  {
+    "id": 156,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.",
+        "correct": true
+      },
+      {
+        "answer": "Gesperrte Wasserfläche, Verbot der Durchfahrt und Sperrung der Schifffahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Gesperrte Wasserfläche, für Kleinfahrzeuge nicht befahrbar.",
+        "correct": false
+      },
+      {
+        "answer": "Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage156.png"
+  },
+  {
+    "id": 157,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrverbot für Fahrzeuge mit Maschinenantrieb.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrverbot für Kleinfahrzeuge ohne laufende Antriebsmaschine.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrverbot für Fahrzeuge ohne Antriebsmaschine.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrverbot für Kleinfahrzeuge mit Maschinenantrieb.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage157.png"
+  },
+  {
+    "id": 158,
+    "question": "Wie ist eine geschützte Badezone gekennzeichnet?",
+    "answers": [
+      {
+        "answer": "Durch rot-grün gestreifte Tonnen.",
+        "correct": false
+      },
+      {
+        "answer": "Durch rote Tonnen.",
+        "correct": false
+      },
+      {
+        "answer": "Durch gelbe Tonnen.",
+        "correct": true
+      },
+      {
+        "answer": "Durch grüne Tonnen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Was bedeutet ein langer Ton?",
+    "answers": [
+      {
+        "answer": "Überholen nicht möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Maschine geht rückwärts.",
+        "correct": false
+      },
+      {
+        "answer": "Achtung!",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug ist manövrierunfähig.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Was bedeuten vier kurze Töne?",
+    "answers": [
+      {
+        "answer": "Überholen nicht möglich.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug ist manövrierunfähig.",
+        "correct": true
+      },
+      {
+        "answer": "Achtung!",
+        "correct": false
+      },
+      {
+        "answer": "Maschine geht rückwärts.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Was bedeuten fünf kurze Töne?",
+    "answers": [
+      {
+        "answer": "Überholen nicht möglich.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug ist manövrierunfähig.",
+        "correct": false
+      },
+      {
+        "answer": "Maschine geht rückwärts.",
+        "correct": false
+      },
+      {
+        "answer": "Achtung!",
+        "correct": false
+      }
+    ]
   }
 ]
