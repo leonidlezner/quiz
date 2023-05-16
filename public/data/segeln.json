@@ -3532,5 +3532,407 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 162,
+    "question": "Was bedeutet dieses Schallsignal?",
+    "answers": [
+      {
+        "answer": "Kursänderung nach Backbord.",
+        "correct": false
+      },
+      {
+        "answer": "Wenden über Steuerbord.",
+        "correct": true
+      },
+      {
+        "answer": "Wenden über Backbord.",
+        "correct": false
+      },
+      {
+        "answer": "Kursänderung über Steuerbord.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage162.png"
+  },
+  {
+    "id": 163,
+    "question": "Was bedeutet dieses Schallsignal?",
+    "answers": [
+      {
+        "answer": "Kursänderung nach Steuerbord.",
+        "correct": false
+      },
+      {
+        "answer": "Wenden über Steuerbord.",
+        "correct": false
+      },
+      {
+        "answer": "Wenden über Backbord.",
+        "correct": true
+      },
+      {
+        "answer": "Kursänderung nach Backbord.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage163.png"
+  },
+  {
+    "id": 164,
+    "question": "Was bedeutet dieses Schallsignal?",
+    "answers": [
+      {
+        "answer": "Überholen an der Steuerbordseite des Vorausfahrenden.",
+        "correct": true
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.",
+        "correct": false
+      },
+      {
+        "answer": "Überholen an der Backbordseite des Vorausfahrenden.",
+        "correct": false
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage164.png"
+  },
+  {
+    "id": 165,
+    "question": "Was bedeutet dieses Schallsignal?",
+    "answers": [
+      {
+        "answer": "Überholen an der Backbordseite des Vorausfahrenden.",
+        "correct": true
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.",
+        "correct": false
+      },
+      {
+        "answer": "Überholen an der Steuerbordseite des Vorausfahrenden.",
+        "correct": false
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage165.png"
+  },
+  {
+    "id": 166,
+    "question": "Was bedeutet dieses Schallsignal?",
+    "answers": [
+      {
+        "answer": "Überholen an der Steuerbordseite des Vorausfahrenden.",
+        "correct": false
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.",
+        "correct": false
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.",
+        "correct": true
+      },
+      {
+        "answer": "Überholen an der Backbordseite des Vorausfahrenden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage166.png"
+  },
+  {
+    "id": 167,
+    "question": "Was bedeutet dieses Schallsignal?",
+    "answers": [
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.",
+        "correct": false
+      },
+      {
+        "answer": "Überholen an der Steuerbordseite des Vorausfahrenden.",
+        "correct": false
+      },
+      {
+        "answer": "Überholen an der Backbordseite des Vorausfahrenden.",
+        "correct": false
+      },
+      {
+        "answer": "Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage167.png"
+  },
+  {
+    "id": 168,
+    "question": "Was ist eine Folge sehr kurzer Töne?",
+    "answers": [
+      {
+        "answer": "Eine Folge von mindestens 8 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Folge von mindestens 2 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Folge von mindestens 6 Tönen, von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.",
+        "correct": true
+      },
+      {
+        "answer": "Eine Folge von mindestens 4 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Was bedeutet eine Folge sehr kurzer Töne?",
+    "answers": [
+      {
+        "answer": "Achtung!",
+        "correct": false
+      },
+      {
+        "answer": "Gefahr eines Zusammenstoßes.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug ist manövrierunfähig.",
+        "correct": false
+      },
+      {
+        "answer": "Überholen nicht möglich.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Welche Schallsignale bzw. Zeichen sind zu geben, wenn das Boot manövrierunfähig geworden ist?",
+    "answers": [
+      {
+        "answer": "Ein langer, vier kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht setzen.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Gruppe von kurzen und langen Tönen im Intervall geben. Bei Nacht ein rotes Blinklicht einschalten.",
+        "correct": false
+      },
+      {
+        "answer": "Fünf kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht im oberen Halbkreis schwenken.",
+        "correct": false
+      },
+      {
+        "answer": "Vier kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht im unteren Halbkreis schwenken.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Ein Fahrzeug zeigt an der Steuerbordseite seines Ruderhauses eine blaue Tafel mit weißem Funkellicht. Welche Bedeutung hat dieses Zeichen?",
+    "answers": [
+      {
+        "answer": "Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt nicht für Kleinfahrzeuge, verpflichtet aber zu erhöhter Aufmerksamkeit.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt nur für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt auch für alle Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen braucht gar nicht beachtet zu werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Ein Sportfahrzeug fährt hinter einem Fahrzeug, das nicht Kleinfahrzeug ist, in den Schleusenvorhafen ein. Aus der Schleusenkammer kommt ein Fahrzeug, das an Steuerbord eine blaue Tafel mit einem weißen Funkellicht zeigt. Was bedeutet dieses Zeichen?",
+    "answers": [
+      {
+        "answer": "Das aus- und die einfahrenden Fahrzeuge passieren sich an der Steuerbordseite, das Kleinfahrzeug ist nur zu erhöhter Aufmerksamkeit verpflichtet.",
+        "correct": true
+      },
+      {
+        "answer": "Das aus- und die einfahrenden Fahrzeuge passieren sich an der Backbordseite, das Kleinfahrzeug hat Vorrang.",
+        "correct": false
+      },
+      {
+        "answer": "Das aus- und die einfahrenden Fahrzeuge passieren sich an der Backbordseite, das Kleinfahrzeug ist nur zu erhöhter Aufmerksamkeit verpflichtet.",
+        "correct": false
+      },
+      {
+        "answer": "Das aus- und die einfahrenden Fahrzeuge passieren sich an der Steuerbordseite, das Kleinfahrzeug ist wartepflichtig.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Wo kann man von bestehenden Höchstgeschwindigkeiten auf den Binnenschifffahrtsstraßen Kenntnis erhalten?",
+    "answers": [
+      {
+        "answer": "In der Sportbootführerscheinverordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.",
+        "correct": false
+      },
+      {
+        "answer": "In der Binnenschifffahrtsstraßen-Ordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.",
+        "correct": true
+      },
+      {
+        "answer": "In der Binnenschifferpatentverordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.",
+        "correct": false
+      },
+      {
+        "answer": "In der Binnenschiffsuntersuchungsordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Wie ist ein Überholmanöver durchzuführen?",
+    "answers": [
+      {
+        "answer": "Zügig überholen. Gegebenenfalls das Fahrzeug stark beschleunigen, um schnell passieren zu können.",
+        "correct": false
+      },
+      {
+        "answer": "Zügig überholen. Beteiligte Fahrzeuge nicht behindern. Verkehrslage und eventuelle Schallzeichen beachten. Ausreichend Abstand halten.",
+        "correct": true
+      },
+      {
+        "answer": "Zügig überholen; überholen nur auf der Steuerbordseite erlaubt, ausreichend Abstand halten.",
+        "correct": false
+      },
+      {
+        "answer": "Zügig überholen. Dicht am Ufer entlang fahren, eventuelle Schallzeichen müssen von Kleinfahrzeugen beachtet werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Wann besteht die Gefahr eines Zusammenstoßes?",
+    "answers": [
+      {
+        "answer": "Wenn sich zwei Fahrzeuge bei gleichbleibender Peilung einander nähern.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn sich zwei Fahrzeuge einander nähern und sich der Kurs eines Fahrzeuges ändert.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn sich zwei Fahrzeuge einander nähern und sich der Kurs der Fahrzeuge nicht ändert.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn sich zwei Fahrzeuge einander nähern und beide Fahrzeuge ihren Kurs nach steuerbord ändern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Wie müssen Ausweichmanöver durchgeführt werden?",
+    "answers": [
+      {
+        "answer": "Rechtzeitig, klar erkennbar und vorsichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Rechtzeitig, klar erkennbar und nach Backbord.",
+        "correct": false
+      },
+      {
+        "answer": "Rechtzeitig, klar erkennbar und nach Steuerbord.",
+        "correct": false
+      },
+      {
+        "answer": "Rechtzeitig, klar erkennbar und entschlossen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Ein Kleinfahrzeug und ein Fahrzeug über 20 m Länge nähern sich auf kreuzenden Kursen. Es besteht die Gefahr eines Zusammenstoßes. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Ausweichpflichtig ist das Kleinfahrzeug.",
+        "correct": true
+      },
+      {
+        "answer": "Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Backbordseite sieht.",
+        "correct": false
+      },
+      {
+        "answer": "Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Steuerbordseite sieht.",
+        "correct": false
+      },
+      {
+        "answer": "Ausweichpflichtig ist das Fahrzeug über 20 m Länge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Welche Fahrzeuge in Fahrt führen nachts nur ein weißes Rundumlicht?",
+    "answers": [
+      {
+        "answer": "Kleinfahrzeuge mit Maschinenantrieb und geschleppte Fahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeuge die geschoben werden.",
+        "correct": false
+      },
+      {
+        "answer": "Geschleppte oder längsseits gekuppelte Kleinfahrzeuge.",
+        "correct": true
+      },
+      {
+        "answer": "Kleinfahrzeuge mit Maschinenantrieb unter 20 m Länge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Wie muss sich ein kreuzendes Kleinfahrzeug unter Segel am Wind in der Nähe eines Ufers gegenüber einem anderen Kleinfahrzeug verhalten?",
+    "answers": [
+      {
+        "answer": "Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, nicht zum Ausweichen zwingen.",
+        "correct": true
+      },
+      {
+        "answer": "Es darf ein anderes Kleinfahrzeug, das sein backbordseitiges Ufer verlässt, zum Ausweichen zwingen.",
+        "correct": false
+      },
+      {
+        "answer": "Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer verlässt, nicht zum Ausweichen zwingen.",
+        "correct": false
+      },
+      {
+        "answer": "Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, zum Ausweichen zwingen.",
+        "correct": false
+      }
+    ]
   }
 ]
