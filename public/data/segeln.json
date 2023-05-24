@@ -3934,5 +3934,479 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 180,
+    "question": "Wer ist ausweichpflichtig bzw. wer ist nicht ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Das Fahrzeug unter Segel ist nicht ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrzeug unter Maschinenantrieb ist ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Beide Fahrzeuge sind ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrzeug unter Segel ist ausweichpflichtig.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage180.png"
+  },
+  {
+    "id": 181,
+    "question": "Was hat der Schiffsführer eines Kleinfahrzeugs beim Begegnen mit Fahrzeugen, die nicht Kleinfahrzeuge sind, zu beachten?",
+    "answers": [
+      {
+        "answer": "Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, ausweichpflichtig. Sie müssen für deren Kurs und zum Manövrieren notwendigen Raum lassen.",
+        "correct": true
+      },
+      {
+        "answer": "Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, bei der Begegnung gleichgestellt.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, ausweichpflichtig. Sie brauchen aber keinen besonderen Raum zum Manövrieren frei zu geben.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeuge sind gegenüber anderen Fahrzeugen, die nicht Kleinfahrzeuge sind, nicht ausweichpflichtig.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Von Backbord kommend kreuzt ein Fahrzeug unter Segel mit einem schwarzen Kegel, Spitze nach unten, den Kurs eines Fahrzeuges mit Maschinenantrieb. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Beide Fahrzeuge sind ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrzeug unter Segel mit einem schwarzen Kegel ist nicht ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrzeug ohne Segel ist ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrzeug unter Segel mit einem schwarzen Kegel ist ausweichpflichtig.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Zwei Kleinfahrzeuge unter Segel A und B liegen auf Kollisionskurs; A führt einen schwarzen Kegel. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Ausweichpflichtig ist das Fahrzeug, welches das Andere an seiner Backbordseite sieht.",
+        "correct": false
+      },
+      {
+        "answer": "Ausweichpflichtig ist das Fahrzeug, welches den Wind von Backbord hat.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug B ist ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug A ist ausweichpflichtig.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage183.png"
+  },
+  {
+    "id": 184,
+    "question": "Ein Fahrzeug unter Segel kreuzt eine Binnenschifffahrtsstraße. In der Fahrwassermitte kommt ihm ein Kleinfahrzeug mit Maschinenantrieb zu Berg entgegen. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Fahrzeug in der Talfahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug mit Maschinenantrieb.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug unter Segel.",
+        "correct": false
+      },
+      {
+        "answer": "Beide sind ausweichpflichtig.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Zwei Kleinfahrzeuge A und B unter Segel liegen auf Kollisionskurs (Skizze). Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "A ist ausweichpflichtig. Segelfahrzeuge mit Wind von Backbord müssen Segelfahrzeugen mit Wind von Steuerbord ausweichen.",
+        "correct": true
+      },
+      {
+        "answer": "A ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von Backbord ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Backbord müssen Segelfahrzeugen mit Wind von Steuerbord ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von Backbord ausweichen.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage185.png"
+  },
+  {
+    "id": 186,
+    "question": "Zwei Kleinfahrzeuge unter Segel liegen auf Kollisionskurs. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "A ist ausweichpflichtig. Das luvseitige Boot muss dem leeseitigen ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "A ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "B ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "B ist ausweichpflichtig. Das luvseitige Boot muss dem leeseitigen ausweichen.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage186.png"
+  },
+  {
+    "id": 187,
+    "question": "Ein Kleinfahrzeug A segelt nachts auf Vorwindkurs stromab, Großsegel an Steuerbord. Backbord querab kommt ein grünes Seitenlicht eines Bootes B immer näher, das kein Topplicht führt. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Boot B ist ausweichpflichtig, weil es sich bei Fahrzeug A um ein Kleinfahrzeug unter Segel handelt, das den Wind von Backbord hat.",
+        "correct": false
+      },
+      {
+        "answer": "Das Kleinfahrzeug A ist ausweichpflichtig. Ein Boot mit Wind von Backbord muss ausweichen, wenn es nicht klar ausmachen kann, ob das luvseitige Boot den Wind von Steuerbord hat.",
+        "correct": true
+      },
+      {
+        "answer": "Boot B ist ausweichpflichtig, weil es sich um ein Kleinfahrzeug handelt und Kleinfahrzeuge anderen Kleinfahrzeugen unter Segel ausweichen müssen.",
+        "correct": false
+      },
+      {
+        "answer": "Das Kleinfahrzeug A ist ausweichpflichtig. Ein Boot mit Wind von Steuerbord muss ausweichen, wenn es nicht klar ausmachen kann, ob das luvseitige Boot den Wind von Backbord hat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Der seitliche Abstand zwischen den Booten A, B und C verringert sich ständig. Welches Boot kann seinen Kurs beibehalten?",
+    "answers": [
+      {
+        "answer": "Boot A, weil leeseitig.",
+        "correct": true
+      },
+      {
+        "answer": "Boot B, weil leeseitig.",
+        "correct": false
+      },
+      {
+        "answer": "Boot A, weil luvseitig.",
+        "correct": false
+      },
+      {
+        "answer": "Boot C, weil leeseitig.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage188.png"
+  },
+  {
+    "id": 189,
+    "question": "Wer ist wem gegenüber kurshaltepflichtig?",
+    "answers": [
+      {
+        "answer": "B gegenüber C und A, A gegenüber C.",
+        "correct": false
+      },
+      {
+        "answer": "A gegenüber B und C, B gegenüber C.",
+        "correct": true
+      },
+      {
+        "answer": "C gegenüber A und B, B gegenüber A.",
+        "correct": false
+      },
+      {
+        "answer": "A gegenüber B und C, C gegenüber B.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage189.png"
+  },
+  {
+    "id": 190,
+    "question": "Was ist vorrangig zu beachten, wenn eine Jolle gekentert ist und sie nicht wieder aufgerichtet werden kann?",
+    "answers": [
+      {
+        "answer": "Sofort vorgeschriebene Notsignale geben, mit allen Mitteln versuchen, das Fahrzeug aus dem Fahrwasser zu bringen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf das gekenterte Boot steigen und sich ruhig verhalten, um Wärmeverlust zu minimieren. Sollte das nicht möglich sein, ans benachbarte Ufer schwimmen und Hilfe holen.",
+        "correct": false
+      },
+      {
+        "answer": "Vollständigkeit der Crew überprüfen, gegebenenfalls Hilfe leisten. Am Boot festhalten oder gegebenenfalls aufs Boot legen, Hilfe abwarten.",
+        "correct": true
+      },
+      {
+        "answer": "Rettungswesten anlegen und mit geeigneten Mitteln Hilfe herbeiholen. Gegebenenfalls Segel bergen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Ein Segelboot gerät in das Feld einer Segelregatta, ohne selbst Teilnehmer zu sein. Welche Ausweichregeln sind zu beachten?",
+    "answers": [
+      {
+        "answer": "Gegenüber Regattateilnehmern, die der Wettfahrtregeln, gegenüber anderen Fahrzeugen die der Binnenschifffahrtsstraßen- Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeuge, die an einer Regatta teilnehmen, müssen unbeteiligten Fahrzeugen ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Die der Wettsegelbestimmungen.",
+        "correct": false
+      },
+      {
+        "answer": "Die der Binnenschifffahrtsstraßen-Ordnung.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Schubverband von vorne.",
+        "correct": false
+      },
+      {
+        "answer": "Frei fahrende Fähre.",
+        "correct": false
+      },
+      {
+        "answer": "Geschlepptes Kleinfahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug mit Maschinenantrieb.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage192.png"
+  },
+  {
+    "id": 193,
+    "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts das Fahrwasser. An Backbord tauchen die nachstehenden Lichter eines Fahrzeugs auf, das in spitzem Winkel den Kurs des Kleinfahrzeugs unter Segel kreuzen will. Wer ist ausweichpflichtig?",
+    "answers": [
+      {
+        "answer": "Kleinfahrzeug, welches das Andere auf der Backbordseite hat.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug mit Maschinenantrieb.",
+        "correct": true
+      },
+      {
+        "answer": "Beide sind ausweichpflichtig.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug unter Segel.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage193.png"
+  },
+  {
+    "id": 194,
+    "question": "Ein Kleinfahrzeug unter Segel und mit Maschinenantrieb kreuzt nachts stromauf. Ein Fahrzeug kommt entgegen, das nur ein weißes Licht führt. Was bedeutet dieses Licht?",
+    "answers": [
+      {
+        "answer": "Kleinfahrzeug ohne Maschinenantrieb.",
+        "correct": true
+      },
+      {
+        "answer": "Kleinfahrzeug unter Segel.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug unter Segel mit Maschinenantrieb.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug mit Maschinenantrieb.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Ein Kleinfahrzeug unter Segel kreuzt nachts im Fahrwasser. Von achtern kommt ein Fahrzeug, das eine Zweifarbenlaterne und ein Topplicht führt. Was bedeuten diese Lichter?",
+    "answers": [
+      {
+        "answer": "Kleinfahrzeug mit Maschinenantrieb.",
+        "correct": true
+      },
+      {
+        "answer": "Kleinfahrzeug unter Segel.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug unter Segel mit Maschinenantrieb.",
+        "correct": false
+      },
+      {
+        "answer": "Kleinfahrzeug ohne Maschinenantrieb.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Was bedeuten nachts auf einer Binnenschifffahrtsstraße die nachstehenden Lichter?",
+    "answers": [
+      {
+        "answer": "Durchfahrt für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Keine Durchfahrt für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Sperrung der Schifffahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Sog und Wellenschlag vermeiden.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage196.png"
+  },
+  {
+    "id": 197,
+    "question": "Wo ist die Geschwindigkeit zu vermindern, um Sog und Wellenschlag zu vermeiden?",
+    "answers": [
+      {
+        "answer": "Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Schifffahrtszeichen.",
+        "correct": false
+      },
+      {
+        "answer": "Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.",
+        "correct": false
+      },
+      {
+        "answer": "Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.",
+        "correct": true
+      },
+      {
+        "answer": "Vor Einmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Fahrtrichtung nach links verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Vorgeschriebene Fahrtrichtung nur für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Fahrtrichtung.",
+        "correct": false
+      },
+      {
+        "answer": "Vorgeschriebene Fahrtrichtung.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/frage198.png"
+  },
+  {
+    "id": 199,
+    "question": "Welche Bedeutung hat das nachstehende Tafelzeichen, wenn das rote Licht leuchtet?",
+    "answers": [
+      {
+        "answer": "Verbot der Einfahrt in einen Hafen oder eine Nebenwasserstraße.",
+        "correct": true
+      },
+      {
+        "answer": "Achtung Ausfahrt aus Hafen oder Nebenfahrwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Achtung Doppelschleuse, linke Kammer gesperrt.",
+        "correct": false
+      },
+      {
+        "answer": "Verbot des Überholens auf dem Streckenabschnitt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage199.png"
+  },
+  {
+    "id": 200,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "10 km/h Höchstgeschwindigkeit gegenüber der Strömung.",
+        "correct": false
+      },
+      {
+        "answer": "10 km/h Höchstgeschwindigkeit gegenüber dem Ufer.",
+        "correct": true
+      },
+      {
+        "answer": "10 km/h Höchstgeschwindigkeit für Kleinfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "10 km/h für größere Fahrzeuge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage200.png"
   }
 ]
