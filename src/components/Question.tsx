@@ -32,7 +32,9 @@ export default function Question({
 
   return (
     <div>
-      <h2 className="mb-10 text-xl xl:text-2xl">{question.question}</h2>
+      <h2 className="mb-10 text-xl xl:text-2xl">
+        {question.id}: {question.question}
+      </h2>
       {question.media && (
         <div className="my-5">
           <img

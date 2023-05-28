@@ -107,7 +107,7 @@ export default function App() {
                   : userAnswers[question.id] === undefined
                   ? " border-gray-300 bg-gray-100"
                   : " border-black bg-gray-200") */
-    return "mb-2 mr-2 block rounded-sm border px-3 py-1 " + retClass;
+    return "mb-1 mr-1 block rounded-sm border px-2 py-0.5 " + retClass;
   };
 
   return (
