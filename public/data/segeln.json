@@ -4408,5 +4408,449 @@
       }
     ],
     "media": "./data/media/frage200.png"
+  },
+  {
+    "id": 201,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Gebot: Achtungssignal geben.",
+        "correct": false
+      },
+      {
+        "answer": "Gebot: Besondere Vorsicht walten lassen.",
+        "correct": true
+      },
+      {
+        "answer": "Gebot: Vor dem Schild anhalten.",
+        "correct": false
+      },
+      {
+        "answer": "Gebot: Geradeaus zu fahren.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage201.png"
+  },
+  {
+    "id": 202,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Wendeverbot.",
+        "correct": true
+      },
+      {
+        "answer": "Verbotene Fahrtrichtung rechts oder links.",
+        "correct": false
+      },
+      {
+        "answer": "Wendeverbot in der Mitte des Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Verbote in beiden angezeigten Richtungen zu fahren.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage202.png"
+  },
+  {
+    "id": 203,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Empfohlener Wendeplatz. Stillliegen für alle Fahrzeuge verboten.",
+        "correct": true
+      },
+      {
+        "answer": "Empfohlener Wendeplatz. Stillliegen von Kleinfahrzeugen erlaubt.",
+        "correct": false
+      },
+      {
+        "answer": "Vorgeschriebener Wendeplatz. Stillliegen für alle Fahrzeuge verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Vorgeschriebener Wendeplatz. Stillliegen von Kleinfahrzeugen erlaubt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage203.png"
+  },
+  {
+    "id": 204,
+    "question": "Was bedeutet dieses Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Schleuse.",
+        "correct": false
+      },
+      {
+        "answer": "Wehr.",
+        "correct": true
+      },
+      {
+        "answer": "Hubbrücke.",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitstor.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage204.png"
+  },
+  {
+    "id": 205,
+    "question": "Welche Sichtbeeinträchtigungen führen zu unsichtigem Wetter?",
+    "answers": [
+      {
+        "answer": "Nebel, Schneefall, starker Regen.",
+        "correct": true
+      },
+      {
+        "answer": "Dämmerung, Nebel, Schneefall, starker Regen.",
+        "correct": false
+      },
+      {
+        "answer": "Nacht, Schneefall, starker Regen.",
+        "correct": false
+      },
+      {
+        "answer": "Dunkelheit, Nebel, Schneefall, starker Regen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Wie muss ein Fahrzeug ausgerüstet sein, um bei unsichtigem Wetter zu fahren?",
+    "answers": [
+      {
+        "answer": "Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage für den Binnenschifffahrtsfunk.",
+        "correct": true
+      },
+      {
+        "answer": "Mit einer Radaranlage ohne Wendeanzeiger und einer Sprechfunkanlage für den Binnenschifffahrtsfunk.",
+        "correct": false
+      },
+      {
+        "answer": "Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage für den Seefunkdienst.",
+        "correct": false
+      },
+      {
+        "answer": "Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage ohne ATIS.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Was ist zu beachten, wenn während der Fahrt unsichtiges Wetter eintritt?",
+    "answers": [
+      {
+        "answer": "Auf allen Wasserstraßen ist ohne Radar und ECDIS die Fahrt unverzüglich einzustellen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf bestimmten Wasserstraßen ist ohne Radar und AIS die Fahrt unverzüglich einzustellen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf allen Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf bestimmten Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Welchen Vorteil bietet ein Radarreflektor auf einem Sportboot?",
+    "answers": [
+      {
+        "answer": "Bessere Erkennbarkeit des Sportbootes bei Taglicht.",
+        "correct": false
+      },
+      {
+        "answer": "Bessere Erkennbarkeit des Sportbootes bei Nacht.",
+        "correct": false
+      },
+      {
+        "answer": "Bessere Erkennbarkeit des Sportbootes auf Radarbildschirmen.",
+        "correct": true
+      },
+      {
+        "answer": "Bessere Erkennbarkeit des Sportbootes bei unsichtigem Wetter.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Welche technische Einrichtung gegen einen Stromschlag muss in der Landstromversorgung unbedingt installiert sein?",
+    "answers": [
+      {
+        "answer": "Ein Überspannungsschutz.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Schutzkleinspannungsschalter.",
+        "correct": false
+      },
+      {
+        "answer": "Ein geringer Ladungsstrom ist ungefährlich.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fehlerstromschutzschalter.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Welches Schallsignal ist zu geben, wenn in einer Notsituation Hilfe gebraucht wird?",
+    "answers": [
+      {
+        "answer": "Wiederholte kurze Töne geben, keine Glockenschläge.",
+        "correct": false
+      },
+      {
+        "answer": "Einen langen Ton geben, vereinzelt Glockenschläge.",
+        "correct": false
+      },
+      {
+        "answer": "Wiederholte lange Töne geben oder Gruppen von Glockenschlägen.",
+        "correct": true
+      },
+      {
+        "answer": "Drei kurze Töne geben, keine Glockenschläge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Welche Bedeutung hat am Tag das Kreisen einer roten Flagge auf einem Wasserfahrzeug?",
+    "answers": [
+      {
+        "answer": "Ein in Not befindliches Fahrzeug, das durch Sichtzeichen Hilfe herbeirufen will.",
+        "correct": true
+      },
+      {
+        "answer": "Schützenswertes Fahrzeug, Vermeidung von Sog und Wellenschlag.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das durch Sichtzeichen Hilfe herbeirufen will.",
+        "correct": false
+      },
+      {
+        "answer": "Keine Bedeutung für den durchgehenden Schiffsverkehr.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Welche Notsignale kann ein Segelsurfer auf Binnenschifffahrtsstraßen geben?",
+    "answers": [
+      {
+        "answer": "Wiederholt lange Gruppen von Glockenschlägen.",
+        "correct": false
+      },
+      {
+        "answer": "Kreisförmiges Schwenken der Arme ist zu vermeiden, das Surfsegel ist möglichst senkrecht zu stellen.",
+        "correct": false
+      },
+      {
+        "answer": "Kreisförmiges Schwenken einer grünen Flagge, die mit anderen Zeichen nicht verwechselt werden kann.",
+        "correct": false
+      },
+      {
+        "answer": "Kreisförmiges Schwenken der Arme oder eines Gegenstandes.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question": "Was ist mit Abfällen jeglicher Art zu tun, die an Bord anfallen?",
+    "answers": [
+      {
+        "answer": "An Bord sammeln und bei einer Liegestelle an Land stellen.",
+        "correct": false
+      },
+      {
+        "answer": "An Bord sammeln. Die Abgabe ist an jeder Schleuse möglich.",
+        "correct": false
+      },
+      {
+        "answer": "An Bord sammeln und an Land in den entsprechenden Abfallsammelbehältern umweltgerecht entsorgen.",
+        "correct": true
+      },
+      {
+        "answer": "An Bord sammeln und nur in geschlossenen Behältern über Bord werfen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Wem darf der Schiffsführer das Ruder eines motorisierten Sportbootes überlassen?",
+    "answers": [
+      {
+        "answer": "Einer Person, die mindestens 16 Jahre alt, sowie körperlich und geistig geeignet ist.",
+        "correct": true
+      },
+      {
+        "answer": "Einer Person, die mindestens 14 Jahre alt, sowie körperlich und geistig geeignet ist.",
+        "correct": false
+      },
+      {
+        "answer": "Einer Person, die mindestens 18 Jahre alt, sowie körperlich und geistig geeignet ist.",
+        "correct": false
+      },
+      {
+        "answer": "Einer Person jeden Alters, die körperlich und geistig geeignet ist.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Wie müssen Abfälle entsorgt werden?",
+    "answers": [
+      {
+        "answer": "Alle Schiffe müssen mit Fäkalientanks ausgerüstet sein und geeignete Behältnisse für die getrennte Aufnahme von Abfällen an Bord haben.",
+        "correct": false
+      },
+      {
+        "answer": "Nur Abfälle, die die Umwelt nicht gefährden, dürfen 300 m vom Ufer ins Wasser eingeleitet werden.",
+        "correct": false
+      },
+      {
+        "answer": "Auf Seen dürfen keine Abfälle ins Wasser gelangen, auf Binnenschifffahrtsstraßen gibt es Sonderregelungen.",
+        "correct": false
+      },
+      {
+        "answer": "Es dürfen keinerlei Abfälle ins Wasser gelangen, Fäkalien und Öle sind an Land zu entsorgen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "question": "Was ist beim Neuanstrich des Unterwasserschiffs und bei der Entfernung des alten Anstrichs zu beachten?",
+    "answers": [
+      {
+        "answer": "Es sind bei Arbeiten mit Unterwasseranstrichen die Richtlinien der Schiffsuntersuchungskommission zu beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Es dürfen nur Unterwasseranstriche verwendet werden, deren Umweltverträglichkeit an der EU-Kennzeichnung erkenntlich ist.",
+        "correct": false
+      },
+      {
+        "answer": "Unterwasserarbeiten dürfen nur von zertifizierten Fachbetrieben, nach den Bestimmungen des Umweltschutzes ausgeführt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Der Arbeitsbereich ist großzügig abzudecken und der anfallende Abfall ist als Sondermüll zu behandeln und entsprechend zu entsorgen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Was ist bei Sturmwarnung vom Schiffsführer eines Sportbootes unter Segel auf einem größeren Gewässer zu veranlassen?",
+    "answers": [
+      {
+        "answer": "Rettungsweste bereit halten. Segel bergen, versuchen, einen Hafen oder eine geschützte Bucht anzulaufen.",
+        "correct": false
+      },
+      {
+        "answer": "Rettungsweste anlegen. Segel setzen, versuchen die Gewässermitte anzulaufen.",
+        "correct": false
+      },
+      {
+        "answer": "Rettungsweste anlegen. Segel bergen, versuchen einen Hafen oder eine geschützte Bucht anzulaufen.",
+        "correct": true
+      },
+      {
+        "answer": "Rettungsweste anlegen. Alle Segel setzen, versuchen, einen Hafen oder eine geschützte Bucht anzulaufen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question": "Welche Fahrrinnenseite hat ein Talfahrer an seiner Backbordseite?",
+    "answers": [
+      {
+        "answer": "Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.",
+        "correct": false
+      },
+      {
+        "answer": "Die linke Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.",
+        "correct": true
+      },
+      {
+        "answer": "Die rechte Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Mit welcher Wetterentwicklung ist bei schnellem und stetig fallendem Luftdruck zu rechnen?",
+    "answers": [
+      {
+        "answer": "Schlechtes Wetter, Starkwind oder Sturm.",
+        "correct": true
+      },
+      {
+        "answer": "Besseres Wetter, Sonne.",
+        "correct": false
+      },
+      {
+        "answer": "Besseres Wetter, steigende Temperatur.",
+        "correct": false
+      },
+      {
+        "answer": "Schlechtes Wetter ist nicht zu erwarten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Welches Wetter ist zu erwarten, wenn der Luftdruck langsam aber stetig steigt?",
+    "answers": [
+      {
+        "answer": "Schlechtes Wetter, Starkwind oder Sturm.",
+        "correct": false
+      },
+      {
+        "answer": "Besseres Wetter, steigende Temperatur.",
+        "correct": false
+      },
+      {
+        "answer": "Besseres Wetter, Sonne.",
+        "correct": true
+      },
+      {
+        "answer": "Schlechtes Wetter ist nicht zu erwarten.",
+        "correct": false
+      }
+    ]
   }
 ]
