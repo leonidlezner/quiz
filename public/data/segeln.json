@@ -4852,5 +4852,733 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 221,
+    "question": "Wo darf auf Binnenschifffahrtsstraßen Wasserski gelaufen werden?",
+    "answers": [
+      {
+        "answer": "Nur in durch Tafelzeichen freigegebenen Bereichen.",
+        "correct": true
+      },
+      {
+        "answer": "Überall, ohne die Schifffahrt zu gefährden.",
+        "correct": false
+      },
+      {
+        "answer": "Außerhalb des Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Außerhalb der Fahrrinne.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Zu welcher Tageszeit und bei welchen Sichtweiten darf auf den erlaubten Gewässerabschnitten Wasserski gelaufen werden?",
+    "answers": [
+      {
+        "answer": "Sonnenaufgang bis -untergang, Sicht 1 500 m und mehr.",
+        "correct": false
+      },
+      {
+        "answer": "Sonnenaufgang bis -untergang, Sicht 500 m und mehr.",
+        "correct": false
+      },
+      {
+        "answer": "Sonnenaufgang bis -untergang, Sicht 300 m und mehr.",
+        "correct": false
+      },
+      {
+        "answer": "Sonnenaufgang bis -untergang, Sicht 1 000 m und mehr.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Wie muss sich der Wasserskiläufer bei der Vorbeifahrt an Fahrzeugen, Schwimmkörpern oder Badenden verhalten?",
+    "answers": [
+      {
+        "answer": "Er muss im Kielwasser des Zugbootes bleiben.",
+        "correct": true
+      },
+      {
+        "answer": "Er darf bis zu 10 m beiderseits außerhalb des Kielwassers fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Er muss uferseitig des Kielwassers fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Er darf bis zu 5 m beiderseits außerhalb des Kielwassers fahren.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Unter welchen Voraussetzungen darf außerhalb der ausgewiesenen Strecken/Wasserflächen Wassermotorrad gefahren werden?",
+    "answers": [
+      {
+        "answer": "Bei großen Sonderveranstaltungen außerhalb der Fahrrinne.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn kein anderer Verkehrsteilnehmer behindert wird.",
+        "correct": false
+      },
+      {
+        "answer": "Ab Hochwassermarke I nur im Fahrwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Bei Touren- und Wanderfahrten mit klarem Geradeauskurs.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Wie hat sich der Führer eines Wassermotorrades außerhalb der ausgewiesenen Strecken/Wasserflächen zu verhalten?",
+    "answers": [
+      {
+        "answer": "Im Abstand von 10 m außerhalb des Tonnenstrichs fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Am Rande der Fahrrinne fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Im Abstand von 10 m zum Ufer fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Klaren Geradeauskurs fahren.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Auf welchen Gewässern ist die Fahrerlaubnis für Sportboote unter Segeln erforderlich?",
+    "answers": [
+      {
+        "answer": "Auf allen Landesgewässern.",
+        "correct": false
+      },
+      {
+        "answer": "Auf allen deutschen Wasserstraßen.",
+        "correct": false
+      },
+      {
+        "answer": "Auf bestimmten Wasserstraßen in Berlin und Brandenburg.",
+        "correct": true
+      },
+      {
+        "answer": "Auf den Binnenschifffahrtsstraßen und allen Landesgewässern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Weshalb muss sich der Schiffsführer vor dem Befahren fremder Gewässer über die dort geltenden Vorschriften informieren?",
+    "answers": [
+      {
+        "answer": "Da diese auf Bundesgewässern grundsätzlich inhaltlich abweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Da diese auf Landesgewässern grundsätzlich inhaltlich abweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Um die jeweils geltenden Vorschriften einhalten zu können.",
+        "correct": true
+      },
+      {
+        "answer": "Weil die jeweils geltenden Vorschriften wichtige Informationen über die Brückendurchfahrtshöhen enthalten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes bis zu einer Länge von 25 m auf dem Rhein?",
+    "answers": [
+      {
+        "answer": "Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.",
+        "correct": false
+      },
+      {
+        "answer": "Das Sportpatent.",
+        "correct": true
+      },
+      {
+        "answer": "Das Sportschifferzeugnis.",
+        "correct": false
+      },
+      {
+        "answer": "Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Welcher Befähigungsnachweis berechtigt zum Führen eines Sportbootes mit einer Länge von 20 m bis 25 m auf den Binnenschifffahrtsstraßen außerhalb des Rheins?",
+    "answers": [
+      {
+        "answer": "Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.",
+        "correct": false
+      },
+      {
+        "answer": "Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen zum Führen von Sportbooten mit Antriebsmaschine oder das Sportpatent.",
+        "correct": false
+      },
+      {
+        "answer": "Das Sportschifferzeugnis oder das Sportpatent.",
+        "correct": true
+      },
+      {
+        "answer": "Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Wo sind umfangreiche Hinweise auf die Binnenschifffahrtsstraßen und deren Grenzen zu finden?",
+    "answers": [
+      {
+        "answer": "Im Teil II der Binnenschifffahrtsstraßen-Ordnung.",
+        "correct": true
+      },
+      {
+        "answer": "Im Teil I der Binnenschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "In der Kleinfahrzeugkennzeichenverordnung.",
+        "correct": false
+      },
+      {
+        "answer": "In der Binnenschiffsuntersuchungsordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Was ist bei der Ausübung des Wassersports auf Gewässern außerhalb der Bundeswasserstraßen (z. B. Landeswasserstraßen, kommunale und private Gewässer) zu beachten?",
+    "answers": [
+      {
+        "answer": "Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die Binnenschifffahrtsstraßen-Ordnung zu beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist immer die Genehmigung des Wasserstraßen- und Schifffahrtsamtes einzuholen sowie die jeweilige Befahrensordnung zu beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die jeweilige Befahrensordnung zu beachten.",
+        "correct": true
+      },
+      {
+        "answer": "Es ist immer die Genehmigung des Eigentümers einzuholen sowie die jeweilige Befahrensordnung zu beachten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Welche Kennzeichnungsarten für Sportboote gibt es?",
+    "answers": [
+      {
+        "answer": "Amtliche Kennzeichen und amtlich anerkannte Kennzeichen.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichen gemäß Konformitätserklärung (CE-Zeichen).",
+        "correct": false
+      },
+      {
+        "answer": "Nur amtlich anerkannte Kennzeichen.",
+        "correct": false
+      },
+      {
+        "answer": "Nur amtliche Kennzeichen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Welche Stelle ist für die Zuteilung eines amtlichen Kennzeichens für Sportboote zuständig?",
+    "answers": [
+      {
+        "answer": "Jedes Wasserstraßen- und Schifffahrtsamt.",
+        "correct": true
+      },
+      {
+        "answer": "Der Deutsche Segler-Verband.",
+        "correct": false
+      },
+      {
+        "answer": "Der Deutsche Motoryachtverband.",
+        "correct": false
+      },
+      {
+        "answer": "Der Allgemeine Deutsche Automobilclub.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Woraus bestehen die amtlich anerkannten Kennzeichen?",
+    "answers": [
+      {
+        "answer": "Nummer des Seeschiffsregisters, gefolgt vom Kennbuchstaben für die ausstellende Organisation.",
+        "correct": false
+      },
+      {
+        "answer": "Nummer des Binnenschiffsregisters, gefolgt vom Kennbuchstaben für die ausstellende Organisation.",
+        "correct": false
+      },
+      {
+        "answer": "Nummer des Internationalen Bootsscheins, gefolgt vom Kennbuchstaben für die ausstellende Organisation.",
+        "correct": true
+      },
+      {
+        "answer": "Die europäische Schiffsnummer, gefolgt vom Kennbuchstaben für die ausstellende Organisation.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Welche Stellen sind für die Zuteilung eines amtlich anerkannten Kennzeichens für Sportboote zuständig?",
+    "answers": [
+      {
+        "answer": "Die Wasserstraßen- und Schifffahrtsämter.",
+        "correct": false
+      },
+      {
+        "answer": "Der Deutsche Motoryachtverband, der Deutsche Segler-Verband, der Allgemeine Deutsche Automobilclub.",
+        "correct": true
+      },
+      {
+        "answer": "Amtsgerichte, bei denen ein Schiffsregister geführt wird.",
+        "correct": false
+      },
+      {
+        "answer": "Die Wasserschutzpolizei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Wann muss ein Wassersportfahrzeug in das Binnenschiffsregister eingetragen werden?",
+    "answers": [
+      {
+        "answer": "Ab 10 cbm Wasserverdrängung.",
+        "correct": true
+      },
+      {
+        "answer": "Ab 15 m Schiffslänge.",
+        "correct": false
+      },
+      {
+        "answer": "Ab 15 cbm Wasserverdrängung.",
+        "correct": false
+      },
+      {
+        "answer": "Ab 10 m Schiffslänge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Wie hat sich ein Schiffsführer bei Hochwasser zu verhalten?",
+    "answers": [
+      {
+        "answer": "Er muss die Geschwindigkeit anpassen und soweit wie möglich in der Fahrwassermitte bleiben, besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen sind nicht zu beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Er muss die Geschwindigkeit anpassen und soweit wie möglich in seiner Fahrtrichtung rechts fahren, gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Er muss die Geschwindigkeit anpassen und soweit wie möglich in seiner Fahrtrichtung links fahren, gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Er muss die Geschwindigkeit anpassen und soweit wie möglich in der Fahrwassermitte bleiben, gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Wie hat sich ein Schiffsführer bei Erreichen der Hochwassermarke II zu verhalten?",
+    "answers": [
+      {
+        "answer": "Er hat das Fahrverbot für Fahrzeuge ohne Sprechfunk zu beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Er hat das Verbot der Schifffahrt bei Nacht zu beachten.",
+        "correct": false
+      },
+      {
+        "answer": "Er hat die Fahrt unverzüglich einzustellen.",
+        "correct": true
+      },
+      {
+        "answer": "Er hat die Geschwindigkeit anzupassen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Ein Fahrzeug fährt zu Tal. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?",
+    "answers": [
+      {
+        "answer": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
+        "correct": true
+      },
+      {
+        "answer": "Sie befindet sich auf der linken Fahrrinnenseite und muss an Backbordseite des Schiffes passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Ein Fahrzeug fährt zu Berg. Voraus liegt eine rote Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an",
+    "answers": [
+      {
+        "answer": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.",
+        "correct": true
+      },
+      {
+        "answer": "Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie befindet sich auf der linken Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Ein Fahrzeug fährt in der Fahrrinne gegen den Strom. Voraus liegt eine grüne Tonne. Auf welcher Fahrrinnenseite befindet sich diese Tonne und an welcher Schiffsseite muss diese Tonne passiert werden?",
+    "answers": [
+      {
+        "answer": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.",
+        "correct": true
+      },
+      {
+        "answer": "Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie befindet sich auf der linken Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Welche Funktion haben gelbe Tonnen mit einem Radarreflektor vor Brückenpfeilern?",
+    "answers": [
+      {
+        "answer": "Kenntlichmachung einer Untiefe im Brückenbereich.",
+        "correct": false
+      },
+      {
+        "answer": "Kenntlichmachung der Höhe der Brückenpfeiler.",
+        "correct": false
+      },
+      {
+        "answer": "Kenntlichmachung der Brückenpfeiler auf dem Radarschirm.",
+        "correct": true
+      },
+      {
+        "answer": "Kenntlichmachung einer gesperrten Brückendurchfahrt.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Welche Bedeutung haben diese Tafeln an der nachstehenden gekennzeichneten Brücke?",
+    "answers": [
+      {
+        "answer": "Vorgeschriebene Durchfahrt mit Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt mit Gegenverkehr ohne seitliche Begrenzung der erlaubten Brückendurchfahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Empfohlene Durchfahrt mit Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Empfohlene Durchfahrt ohne Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage243.png"
+  },
+  {
+    "id": 244,
+    "question": "Was bedeutet dieses Tafelzeichen an einer Brückendurchfahrt?",
+    "answers": [
+      {
+        "answer": "Gesperrte Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.",
+        "correct": false
+      },
+      {
+        "answer": "Gesperrte Durchfahrt, jedoch für Kleinfahrzeuge mit Antriebsmaschine befahrbar.",
+        "correct": false
+      },
+      {
+        "answer": "Verbot der Durchfahrt und Sperrung der Schifffahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Schutzbedürftige Anlage.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage244.png"
+  },
+  {
+    "id": 245,
+    "question": "Warum ist es bei der Schleusendurchfahrt verboten, Autoreifen als Fender zu benutzen?",
+    "answers": [
+      {
+        "answer": "Autoreifen erzeugen schwarze Farbspuren am Boot und an der Schleusenmauer.",
+        "correct": false
+      },
+      {
+        "answer": "Autoreifen sind schwimmfähig und können in der Schleuse zu erheblichen Störungen führen.",
+        "correct": false
+      },
+      {
+        "answer": "Autoreifen sind nicht schwimmfähig und können in den Schleusen zu erheblichen Störungen führen.",
+        "correct": true
+      },
+      {
+        "answer": "Autoreifen erzeugen eine zu hohe Reibung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Welche Lichter führt ein Schubverband?",
+    "answers": [
+      {
+        "answer": "Drei weiße Topplichter in einem Dreieck angebracht, die Seitenlichter und drei weiße Hecklichter waagerecht nebeneinander.",
+        "correct": true
+      },
+      {
+        "answer": "Drei weiße Topplichter waagerecht nebeneinander, die Seitenlichter und drei weiße Hecklichter waagerecht nebeneinander.",
+        "correct": false
+      },
+      {
+        "answer": "Drei weiße Topplichter in einem Dreieck angebracht, die Seitenlichter und zwei weiße Hecklichter waagerecht nebeneinander.",
+        "correct": false
+      },
+      {
+        "answer": "Drei weiße Topplichter senkrecht untereinander angebracht, die Seitenlichter und drei weiße Hecklichter waagerecht nebeneinander.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Welches Fahrzeug führt am Bug einen roten Wimpel?",
+    "answers": [
+      {
+        "answer": "Ein Fahrzeug, das explosive Stoffe geladen hat.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug mit Vorrang beim Schleusen.",
+        "correct": true
+      },
+      {
+        "answer": "Ein Fahrzeug, das brennbare Stoffe geladen hat.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug mit Vorrang beim Be- und Entladen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Wann gilt ein Sportboot auf den Binnenschifffahrtsstraßen als Kleinfahrzeug?",
+    "answers": [
+      {
+        "answer": "Wenn das Fahrzeug eine Länge von mehr als 20 m hat.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn das Fahrzeug eine Länge von 20 m hat.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn das Fahrzeug eine Länge von weniger als 20 m hat.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn das Fahrzeug eine Länge von 25 m hat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Welche Bedeutung hat die Bezeichnung eines Fahrzeuges mit einer rot-weißen Flagge und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Schutzbedürftiges Fahrzeug, Geschwindigkeit vermindern.",
+        "correct": false
+      },
+      {
+        "answer": "Schutzbedürftiges Fahrzeug, Geschwindigkeit beibehalten und Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Schutzbedürftiges Fahrzeug, Geschwindigkeit vermindern und Sog und Wellenschlag vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Schutzbedürftiges Fahrzeug, Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Welches optische Zeichen kann am Tage anstelle von vier kurzen Tönen gegeben werden?",
+    "answers": [
+      {
+        "answer": "Eine rote Flagge zeigen.",
+        "correct": false
+      },
+      {
+        "answer": "Eine rote Flagge im oberen Halbkreis schwenken.",
+        "correct": false
+      },
+      {
+        "answer": "Eine rote Flagge im unteren Halbkreis schwenken.",
+        "correct": true
+      },
+      {
+        "answer": "Eine rote Flagge im Kreis schwenken.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Welches optische Zeichen kann in der Nacht oder bei verminderter Sicht anstelle von vier kurzen Tönen gegeben werden?",
+    "answers": [
+      {
+        "answer": "Ein rotes Licht im oberen Halbkreis schwenken.",
+        "correct": false
+      },
+      {
+        "answer": "Ein rotes Licht im unteren Halbkreis schwenken.",
+        "correct": true
+      },
+      {
+        "answer": "Ein rotes Licht im Kreis schwenken.",
+        "correct": false
+      },
+      {
+        "answer": "Ein rotes Licht zeigen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Welcher Befähigungsnachweis ist zur Teilnahme am Binnenschifffahrtsfunk erforderlich?",
+    "answers": [
+      {
+        "answer": "Das UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk.",
+        "correct": true
+      },
+      {
+        "answer": "Das SRC-Sprechfunkzeugnis für den Binnenschifffahrtsfunk.",
+        "correct": false
+      },
+      {
+        "answer": "Das Seefunkzeugnis für den Binnenschifffahrtsfunk.",
+        "correct": false
+      },
+      {
+        "answer": "Das CB-Sprechfunkzeugnis für den Binnenschifffahrtsfunk.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Was bedeutet Radarfahrt?",
+    "answers": [
+      {
+        "answer": "Eine Fahrt bei unsichtigem Wetter mit Radar.",
+        "correct": true
+      },
+      {
+        "answer": "Eine Fahrt mit Radar.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Fahrt am Tage mit Radar.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Fahrt bei Nacht mit Radar.",
+        "correct": false
+      }
+    ]
   }
 ]
