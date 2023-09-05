@@ -284,5 +284,184 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 86,
+    "question": "Welche Positionslaternen und Schallsignalanlagen dürfen auf Sportbooten unter deutscher Flagge verwendet werden?",
+    "answers": [
+      {
+        "answer": "Solche, die vom Technischen Überwachungsverein (TÜV) geprüft und mit dem Zeichen für geprüfte Sicherheit (GS) versehen sind.",
+        "correct": false
+      },
+      {
+        "answer": "Solche, die gemäß der Kollisionsverhütungsregeln (KVR), der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und der Schifffahrtsordnung Emsmündung (EmsSchO) vorgeschrieben sind und ein CE-Zeichen haben.",
+        "correct": false
+      },
+      {
+        "answer": "Solche, die die vorgeschriebene Mindesttragweite von drei Seemeilen, die Größe und Farbgebung bzw. Lautstärke erreichen und mit einer Bescheinigung einer Klassifikationsgesellschaft versehen sind.",
+        "correct": false
+      },
+      {
+        "answer": "Solche, deren Baumuster *vom* Bundesamt für Seeschifffahrt und Hydrographie (*BSH*) zur Verwendung *zugelassen* sind oder eine als gleichwertig anerkannte Zulassung eines EU-Staates besitzen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Was sind \"Verkehrstrennungsgebiete\"?",
+    "answers": [
+      {
+        "answer": "Es sind bekannt gemachte *Schifffahrtswege*, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind.",
+        "correct": true
+      },
+      {
+        "answer": "Es sind bekannt gemachte Bundeswasserstraßen, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind.",
+        "correct": false
+      },
+      {
+        "answer": "Es sind bekannt gemachte Seeschifffahrtsstraßen, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind.",
+        "correct": false
+      },
+      {
+        "answer": "Es sind bekannt gemachte Fahrwasser, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Wie sind Verkehrstrennungsgebiete zu befahren?",
+    "answers": [
+      {
+        "answer": "Sie dürfen nur vom Anfang bis zum Ende und jeweils nur in Fahrtrichtung rechts der Trennzone befahren werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie dürfen innerhalb der äußeren Trennlinien nur in einer Fahrtrichtung befahren werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie dürfen jeweils *nur in der allgemeinen Verkehrsrichtung* rechts der Trennlinie oder Trennzone befahren werden.",
+        "correct": true
+      },
+      {
+        "answer": "Sie dürfen jeweils nur in Fahrtrichtung links der Trennlinie oder Trennzone befahren werden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Was bedeutet \"in Sicht befindlich\"?",
+    "answers": [
+      {
+        "answer": "Wenn jeder Fahrzeugführer vom anderen optisch wahrgenommen werden kann.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn *jedes Fahrzeug vom anderen optisch wahrgenommen* werden kann.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn beide Fahrzeuge optisch wahrgenommen werden können.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn jedes Fahrzeug auch bei unsichtigem Wetter optisch wahrgenommen werden kann.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Was bedeutet sichere Geschwindigkeit?",
+    "answers": [
+      {
+        "answer": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen und dem Treibstoffverbrauch angepasst sein.",
+        "correct": false
+      },
+      {
+        "answer": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein und es muss *jederzeit aufgestoppt werden* können.",
+        "correct": true
+      },
+      {
+        "answer": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein und der Verkehr darf nicht behindert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Die Geschwindigkeit muss der Verkehrslage, dem Verkehrsaufkommen, den Seegangs- und Windverhältnissen angepasst sein, so dass kein Sog und Wellenschlag entsteht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "*Maschinenfahrzeug* in Fahrt von *weniger als 50 m* Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-91-gif.gif"
+  },
+  {
+    "id": 92,
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Maschinenfahrzeug in Fahrt von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-92-gif.gif"
+  },
+  {
+    "id": 93,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger.",
+        "correct": true
+      },
+      {
+        "answer": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger, ohne Fahrt durchs Wasser.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-93-gif.gif"
   }
 ]

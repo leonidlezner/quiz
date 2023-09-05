@@ -39,7 +39,7 @@ export default function Question({
         <div className="my-5">
           <img
             src={question.media}
-            srcSet={`${question.media} 2x`}
+            /*srcSet={`${question.media} 2x`}*/
             className="border shadow-sm"
           />
         </div>
