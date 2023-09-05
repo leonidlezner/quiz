@@ -15,12 +15,10 @@ export default function App() {
     [key: number]: number;
   }>({}, "userAnswers");
 
-  /*   const [questions, setQuestions] = useStorageState<IQuestion[]>(
+  const [questions, setQuestions] = useStorageState<IQuestion[]>(
     [],
     "questions"
-  ); */
-
-  const [questions, setQuestions] = useState<IQuestion[]>([]);
+  );
 
   useEffect(() => {
     // https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array
