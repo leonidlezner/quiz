@@ -14,6 +14,17 @@ export default function Answer({
   onSelect,
   revealCorrect,
 }: IProps) {
+  const highlights = (answer: string, revealCorrect: boolean) => {
+    if (revealCorrect) {
+      return answer.replace(
+        /\*(.*?)\*/g,
+        '<span class="text-blue-500 font-semibold">$1</span>'
+      );
+    } else {
+      return answer.replaceAll("*", "");
+    }
+  };
+
   return (
     <a
       className="block"
@@ -43,7 +54,12 @@ export default function Answer({
           )}
         </div>
 
-        <div className={selected ? "font-semibold" : ""}>{answer.answer}</div>
+        <div
+          className={selected ? "font-semibold" : ""}
+          dangerouslySetInnerHTML={{
+            __html: highlights(answer.answer, revealCorrect),
+          }}
+        />
       </div>
     </a>
   );

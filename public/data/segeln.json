@@ -4,7 +4,7 @@
     "question": "Wo gelten die Kollisionsverhütungsregeln (KVR)?",
     "answers": [
       {
-        "answer": "Auf der Hohen See und auf den mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern.",
+        "answer": "Auf der *Hohen See* und auf den mit *dieser zusammenhängenden*, von Seeschiffen befahrbaren *Gewässern*.",
         "correct": true
       },
       {
@@ -34,7 +34,7 @@
         "correct": false
       },
       {
-        "answer": "Die Vorschrift der Seeschifffahrtsstraßen-Ordnung.",
+        "answer": "Die Vorschrift der *Seeschifffahrtsstraßen-Ordnung*.",
         "correct": true
       },
       {
@@ -48,7 +48,7 @@
     "question": "Welche Sportboote sind von der Fahrerlaubnispflicht auf den Seeschifffahrtsstraßen ausgenommen?",
     "answers": [
       {
-        "answer": "Sportboote ohne Antriebsmaschine oder solche mit einer größten, nicht überschreitbaren Nutzleistung von 11,03 Kilowatt (15 PS) bei Verwendung eines Verbrennungsmotors bzw. 7,5 Kilowatt bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) oder weniger.",
+        "answer": "Sportboote ohne Antriebsmaschine oder solche mit einer größten, *nicht überschreitbaren Nutzleistung* von 11,03 Kilowatt (15 PS) bei Verwendung eines Verbrennungsmotors bzw. 7,5 Kilowatt bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) oder weniger.",
         "correct": true
       },
       {
@@ -78,7 +78,7 @@
         "correct": false
       },
       {
-        "answer": "Der Fahrzeugführer oder sein Stellvertreter.",
+        "answer": "Der Fahrzeugführer *oder sein Stellvertreter*.",
         "correct": true
       },
       {
@@ -92,7 +92,7 @@
     "question": "Was bedeutet \"seemännische Sorgfaltspflicht\"?",
     "answers": [
       {
-        "answer": "Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die Seemannsbrauch oder besondere Umstände des Falles erfordern.",
+        "answer": "Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die *Seemannsbrauch* oder besondere Umstände des Falles erfordern.",
         "correct": true
       },
       {
@@ -122,7 +122,7 @@
         "correct": false
       },
       {
-        "answer": "Der Fahrzeugführer hat die Besatzungsmitglieder und Gäste über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen, zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen im Wasser erhöhen.",
+        "answer": "Der Fahrzeugführer hat die *Besatzungsmitglieder und Gäste* über die Sicherheitsvorkehrungen an Bord zu *unterrichten*, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen, zudem darauf, dass ständig angelegte Rettungswesten die Überlebenschancen im Wasser erhöhen.",
         "correct": true
       },
       {
@@ -148,7 +148,7 @@
         "correct": false
       },
       {
-        "answer": "Ausweichmanöver des Kurshalters.",
+        "answer": "*Ausweichmanöver des Kurshalters.*",
         "correct": true
       }
     ]
@@ -158,7 +158,7 @@
     "question": "Wann ist das \"Manöver des letzten Augenblicks\" durchzuführen?",
     "answers": [
       {
-        "answer": "Es muss durchgeführt werden, wenn ein Zusammenstoß durch Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden kann.",
+        "answer": "Es muss durchgeführt werden, wenn ein Zusammenstoß *durch Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden* kann.",
         "correct": true
       },
       {
@@ -184,7 +184,7 @@
         "correct": false
       },
       {
-        "answer": "Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des Hecklichtes) nähert.",
+        "answer": "Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 22,5° achterlicher als querab *(Bereich des Hecklichtes) nähert.*",
         "correct": true
       },
       {
@@ -210,7 +210,7 @@
         "correct": false
       },
       {
-        "answer": "Wenn es wegen außergewöhnlicher Umstände, z. B. Ausfall der Ruder- oder Maschinenanlage, nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann.",
+        "answer": "Wenn es *wegen außergewöhnlicher Umstände*, z. B. Ausfall der Ruder- oder Maschinenanlage, nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann.",
         "correct": true
       },
       {
@@ -228,7 +228,7 @@
         "correct": false
       },
       {
-        "answer": "Wenn es wegen der Art seines Einsatzes behindert ist und deshalb nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann.",
+        "answer": "Wenn es *wegen der Art seines Einsatzes* behindert ist und deshalb nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann.",
         "correct": true
       },
       {
@@ -258,7 +258,7 @@
         "correct": false
       },
       {
-        "answer": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss gehörig Ausguck gegangen werden.",
+        "answer": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen *Schallsignale* gegeben werden, es müssen *Positionslichter* eingeschaltet werden und es muss *gehörig Ausguck* gegangen werden.",
         "correct": true
       }
     ]
@@ -272,7 +272,7 @@
         "correct": false
       },
       {
-        "answer": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Schifffahrtsordnung Emsmündung (EmsSchO).",
+        "answer": "Die Kollisionsverhütungsregeln (*KVR*), die Seeschifffahrtsstraßen-Ordnung (*SeeSchStrO*) und die Schifffahrtsordnung Emsmündung (*EmsSchO*).",
         "correct": true
       },
       {
