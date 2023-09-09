@@ -781,5 +781,187 @@
       }
     ],
     "media": "./data/media/Lichter-Frage-107-gif.gif"
+  },
+  {
+    "id": 108,
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "answers": [
+      {
+        "answer": "Ein tiefgangbehindertes Fahrzeug von 50 und mehr Meter Länge in Fahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-108-gif.gif"
+  },
+  {
+    "id": 109,
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "answers": [
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein tiefgangbehindertes Fahrzeug in Fahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Signalkoerper-Frage-109-gif.gif"
+  },
+  {
+    "id": 110,
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Behördenfahrzeug im Einsatz.",
+        "correct": false
+      },
+      {
+        "answer": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein fischendes Fahrzeug in Fahrt, das nicht trawlt, z. B. Treibnetzfischer.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-110-gif.gif"
+  },
+  {
+    "id": 111,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein fischendes Fahrzeug in Fahrt oder vor Anker, das nicht trawlt, z. B. Treibnetzfischer.",
+        "correct": true
+      },
+      {
+        "answer": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durchs Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Lotsenfahrzeug im Einsatz.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-111-gif.gif"
+  },
+  {
+    "id": 112,
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "answers": [
+      {
+        "answer": "Ein fischendes Fahrzeug in Fahrt oder vor Anker.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 m Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Signalkoerper-Frage-112-gif.gif"
+  },
+  {
+    "id": 113,
+    "question": "Welche Fahrzeuge führen nur Seitenlichter rot und grün und ein weißes Hecklicht?",
+    "answers": [
+      {
+        "answer": "Segelfahrzeuge, Ruderboote und geschleppte Fahrzeuge.",
+        "correct": true
+      },
+      {
+        "answer": "Segelfahrzeuge, Ruderboote und Maschinenfahrzeuge in Fahrt von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Segelfahrzeuge, Grundsitzer und geschleppte Fahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Segelfahrzeuge, fischende Fahrzeuge und geschleppte Fahrzeuge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Was für ein Licht muss ein Ankerlieger von weniger als 50 m Länge führen?",
+    "answers": [
+      {
+        "answer": "Zwei rote Rundumlichter an gut sichtbarer Stelle.",
+        "correct": false
+      },
+      {
+        "answer": "Ein rotes Rundumlicht an gut sichtbarer Stelle.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei weiße Rundumlichter an gut sichtbarer Stelle.",
+        "correct": false
+      },
+      {
+        "answer": "Ein weißes Rundumlicht an gut sichtbarer Stelle.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert.",
+        "correct": false
+      },
+      {
+        "answer": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durchs Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein Grundsitzer von 200 und mehr Meter Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-115-gif.gif"
   }
 ]
