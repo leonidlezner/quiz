@@ -463,5 +463,323 @@
       }
     ],
     "media": "./data/media/Lichter-Frage-93-gif.gif"
+  },
+  {
+    "id": 94,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert.",
+        "correct": false
+      },
+      {
+        "answer": "*Manövrierbehinderter Schleppverband* in Fahrt von *mehr als 200* m Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger.",
+        "correct": false
+      },
+      {
+        "answer": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge, ohne Fahrt durch das Wasser.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-94-gif.gif"
+  },
+  {
+    "id": 95,
+    "question": "Welche Lichter führen geschleppte Fahrzeuge?",
+    "answers": [
+      {
+        "answer": "Seitenlichter rot und grün und ein rotes Rundumlicht senkrecht über einem weißen Rundumlicht.",
+        "correct": false
+      },
+      {
+        "answer": "Seitenlichter rot und grün und zwei rote Rundumlichter senkrecht übereinander.",
+        "correct": false
+      },
+      {
+        "answer": "Seitenlichter rot und grün und ein weißes Rundumlicht.",
+        "correct": false
+      },
+      {
+        "answer": "*Seitenlichter rot und grün* und ein *weißes Hecklicht*.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Was bedeutet es, wenn jedes Fahrzeug eines Schleppverbandes einen schwarzen Rhombus führt?",
+    "answers": [
+      {
+        "answer": "Schleppverband von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Schleppverband von mehr als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Schleppverband von mehr als 100 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Schleppverband von mehr als 200 m Länge.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein tiefgangbehindertes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-97-gif.gif"
+  },
+  {
+    "id": 98,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-98-gif.gif"
+  },
+  {
+    "id": 99,
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "answers": [
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug",
+        "correct": true
+      },
+      {
+        "answer": "Ein fischendes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Signalkoerper-Frage-99-gif.gif"
+  },
+  {
+    "id": 100,
+    "question": "Welche Lichter führen manövrierunfähige Fahrzeuge von 12 und mehr Meter Länge in Fahrt, ohne Fahrt durch das Wasser?",
+    "answers": [
+      {
+        "answer": "Drei rote Rundumlichter senkrecht übereinander.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei rote Rundumlichter senkrecht übereinander.",
+        "correct": true
+      },
+      {
+        "answer": "Drei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Welche Lichter führen manövrierunfähige Fahrzeuge von 12 und mehr Meter Länge in Fahrt mit Fahrt durch das Wasser?",
+    "answers": [
+      {
+        "answer": "Zwei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht.",
+        "correct": true
+      },
+      {
+        "answer": "Drei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei rote Rundumlichter senkrecht übereinander.",
+        "correct": false
+      },
+      {
+        "answer": "Drei rote Rundumlichter senkrecht übereinander.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug in Fahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Ein fischendes Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-102-gif.gif"
+  },
+  {
+    "id": 103,
+    "question": "Welches Fahrzeug muss diese Lichter führen?",
+    "answers": [
+      {
+        "answer": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durch das Wasser von 50 und mehr Meter Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-103-gif.gif"
+  },
+  {
+    "id": 104,
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "answers": [
+      {
+        "answer": "Ein fischendes Fahrzeug in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Signalkoerper-Frage-104-gif.gif"
+  },
+  {
+    "id": 105,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein Grundsitzer von 50 m und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 m Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-105-gif.gif"
+  },
+  {
+    "id": 106,
+    "question": "Welches Fahrzeug führt diese Signalkörper?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Ein fischendes Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Signalkoerper-Frage-106-gif.gif"
+  },
+  {
+    "id": 107,
+    "question": "Welches Fahrzeug führt diese Lichter?",
+    "answers": [
+      {
+        "answer": "Ein Grundsitzer von 50 und mehr Meter Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Grundsitzer von weniger als 50 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Lichter-Frage-107-gif.gif"
   }
 ]
