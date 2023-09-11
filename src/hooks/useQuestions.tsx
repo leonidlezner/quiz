@@ -3,6 +3,7 @@ interface IProps {}
 export interface IAnswer {
   answer: string;
   correct: boolean;
+  media: string;
 }
 
 export interface IQuestion {

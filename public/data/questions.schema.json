@@ -28,6 +28,9 @@
             },
             "correct": {
               "type": "boolean"
+            },
+            "media": {
+              "type": "string"
             }
           },
           "required": ["answer", "correct"]

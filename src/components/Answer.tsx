@@ -36,30 +36,41 @@ export default function Answer({
         }
       }}
     >
-      <div className="flex items-center space-x-3">
-        {revealCorrect && (
-          <div className="h-5 w-5 shrink-0">
-            {answer.correct && (
-              <div className="h-5 w-5 rounded-full border border-green-800 bg-green-600"></div>
-            )}
-            {!answer.correct && selected && (
-              <div className="h-5 w-5 rounded-full border border-red-800 bg-red-600"></div>
+      <div>
+        <div className="flex items-center space-x-3">
+          {revealCorrect && (
+            <div className="h-5 w-5 shrink-0">
+              {answer.correct && (
+                <div className="h-5 w-5 rounded-full border border-green-800 bg-green-600"></div>
+              )}
+              {!answer.correct && selected && (
+                <div className="h-5 w-5 rounded-full border border-red-800 bg-red-600"></div>
+              )}
+            </div>
+          )}
+
+          <div className="flex h-5 w-5 shrink-0 items-center rounded-full border border-gray-700 bg-gray-200">
+            {selected && (
+              <div className="m-auto h-3 w-3 rounded-full bg-gray-600"></div>
             )}
           </div>
-        )}
 
-        <div className="flex h-5 w-5 shrink-0 items-center rounded-full border border-gray-700 bg-gray-200">
-          {selected && (
-            <div className="m-auto h-3 w-3 rounded-full bg-gray-600"></div>
-          )}
+          <div
+            className={selected ? "font-semibold" : ""}
+            dangerouslySetInnerHTML={{
+              __html: highlights(answer.answer, revealCorrect),
+            }}
+          />
         </div>
-
-        <div
-          className={selected ? "font-semibold" : ""}
-          dangerouslySetInnerHTML={{
-            __html: highlights(answer.answer, revealCorrect),
-          }}
-        />
+        {answer.media && (
+          <div className="my-5 ml-8">
+            <img
+              src={answer.media}
+              /*srcSet={`${question.media} 2x`}*/
+              className="border shadow-sm"
+            />
+          </div>
+        )}
       </div>
     </a>
   );

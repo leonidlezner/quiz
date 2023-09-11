@@ -963,5 +963,122 @@
       }
     ],
     "media": "./data/media/Lichter-Frage-115-gif.gif"
+  },
+  {
+    "id": 116,
+    "question": "Sie hören bei verminderter Sicht mindestens alle zwei Minuten einen langen Ton mit der Pfeife. Welches Fahrzeug gibt dieses Signal?",
+    "answers": [
+      {
+        "answer": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Maschinenfahrzeug, das Fahrt durchs Wasser macht.",
+        "correct": true
+      },
+      {
+        "answer": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-11.gif"
+  },
+  {
+    "id": 117,
+    "question": "Sie hören bei verminderter Sicht mindestens alle zwei Minuten zwei aufeinander folgende lange Töne mit der Pfeife. Welches Fahrzeug gibt dieses Signal?",
+    "answers": [
+      {
+        "answer": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht.",
+        "correct": true
+      },
+      {
+        "answer": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-122.gif"
+  },
+  {
+    "id": 118,
+    "question": "Welche Fahrzeuge geben bei verminderter Sicht mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz?",
+    "answers": [
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker, ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Maschinenfahrzeug in Fahrt, das Fahrt durchs Wasser macht, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-118-gif.gif"
+  },
+  {
+    "id": 119,
+    "question": "Welches Fahrzeug gibt bei verminderter Sicht - im Anschluss an das Signal: lang, kurz, kurz - vier aufeinander folgende Töne mit der Pfeife, und zwar: lang, kurz, kurz, kurz?",
+    "answers": [
+      {
+        "answer": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt.",
+        "correct": true
+      },
+      {
+        "answer": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug von weniger als 100 m Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage119.png"
+  },
+  {
+    "id": 120,
+    "question": "Was für ein Schallsignal muss ein Segelfahrzeug in Fahrt von 12 und mehr Meter Länge bei verminderter Sicht geben?",
+    "answers": [
+      {
+        "answer": "Mit der Pfeife kurz, lang, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-d-Frage-120-gif.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-Frage-164.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz",
+        "correct": true,
+        "media": "./data/media/Schallsignal-Frage-118-gif.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann.",
+        "correct": false
+      }
+    ]
   }
 ]

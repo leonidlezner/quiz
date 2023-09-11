@@ -31,6 +31,8 @@ export default function App() {
     }
 
     const loadData = async () => {
+      console.log("Loading data from server...");
+
       let q = await loadQuestions("./data/segeln.json");
 
       q = q.map((question) => {
@@ -42,7 +44,7 @@ export default function App() {
       setCurrentIndex((prev: number) => (prev >= 0 ? prev : 0));
     };
 
-    if (questions.length < 1) {
+    if (questions.length < 1 || import.meta.env.MODE === "development") {
       loadData();
     } else {
       setCurrentIndex((prev: number) => (prev >= 0 ? prev : 0));
