@@ -1080,5 +1080,233 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 121,
+    "question": "Welches Schallsignal muss ein Fahrzeug in Fahrt von weniger als 12 m Länge bei verminderter Sicht geben, wenn es die sonst vorgeschriebenen Schallsignale nicht geben kann?",
+    "answers": [
+      {
+        "answer": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-Frage-118-gif.gif"
+      },
+      {
+        "answer": "Mit der Pfeife kurz, lang, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-d-Frage-120-gif.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-Frage-164.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Welches Fahrzeug gibt bei verminderter Sicht mindestens jede Minute etwa 5 Sekunden lang rasches Läuten der Glocke?",
+    "answers": [
+      {
+        "answer": "Ein Fahrzeug vor Anker von weniger als 100 m Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-122-gif.gif"
+  },
+  {
+    "id": 123,
+    "question": "Welches Fahrzeug gibt bei verminderter Sicht mindestens jede Minute etwa 5 Sekunden lang rasches Läuten der Glocke und unmittelbar danach ungefähr 5 Sekunden lang rasch den Gong schlagen?",
+    "answers": [
+      {
+        "answer": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge.",
+        "correct": true
+      },
+      {
+        "answer": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Fahrzeug vor Anker von weniger als 100 m Länge.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/frage123.png"
+  },
+  {
+    "id": 124,
+    "question": "Welches zusätzliche Schallsignal darf jeder Ankerlieger bei verminderter Sicht geben, um einem sich nähernden Fahrzeug seinen Standort anzuzeigen?",
+    "answers": [
+      {
+        "answer": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann.",
+        "correct": false
+      },
+      {
+        "answer": "Mit der Pfeife kurz, lang, kurz",
+        "correct": true,
+        "media": "./data/media/Schallsignal-d-Frage-120-gif.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-Frage-164.gif"
+      },
+      {
+        "answer": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz",
+        "correct": false,
+        "media": "./data/media/Schallsignal-Frage-118-gif.gif"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Woran kann man feststellen, ob die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "answers": [
+      {
+        "answer": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich der Kurs ändert.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich die Peilung nicht oder nicht merklich ändert.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich die Kompasspeilung ändert.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich der Kurs nicht oder nicht merklich ändert.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Zwei in Sicht befindliche Segelfahrzeuge nähern sich im freien Seeraum oder außerhalb des Fahrwassers so, dass die Möglichkeit der Gefahr eines Zusammenstoßes besteht. Welches Fahrzeug muss dem anderen ausweichen, wenn sie den Wind von derselben Seite haben?",
+    "answers": [
+      {
+        "answer": "Das leewärtige Fahrzeug dem luvwärtigen Fahrzeug.",
+        "correct": false
+      },
+      {
+        "answer": "Das luvwärtige Fahrzeug dem leewärtigen Fahrzeug.",
+        "correct": true
+      },
+      {
+        "answer": "Dasjenige Fahrzeug, das den Wind von Steuerbord hat.",
+        "correct": false
+      },
+      {
+        "answer": "Dasjenige Fahrzeug, das den Wind von Backbord hat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Wie müssen sich zwei in Sicht befindliche Maschinenfahrzeuge verhalten, die sich einander auf entgegengesetzten oder fast entgegengesetzten Kursen nähern, um die Möglichkeit der Gefahr eines Zusammenstoßes zu vermeiden?",
+    "answers": [
+      {
+        "answer": "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern.",
+        "correct": true
+      },
+      {
+        "answer": "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Jedes Fahrzeug muss seinen Kurs nach Backbord ändern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen Segelfahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "answers": [
+      {
+        "answer": "Das Maschinenfahrzeug muss seine Fahrt verringern.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss vorsichtig manövrieren bis die Gefahr vorüber ist.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss ausweichen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen manövrierunfähigen Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "answers": [
+      {
+        "answer": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss ausweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss seine Fahrt verringern.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen manövrierbehinderten Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "answers": [
+      {
+        "answer": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss ausweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss seine Fahrt verringern.",
+        "correct": false
+      }
+    ]
   }
 ]
