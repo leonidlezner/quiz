@@ -1308,5 +1308,339 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 131,
+    "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen fischenden Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "answers": [
+      {
+        "answer": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss vorsichtig manövrieren, bis die Gefahr vorüber ist.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Das Maschinenfahrzeug muss ausweichen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Wie hat sich ein Segelfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen fischenden Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?",
+    "answers": [
+      {
+        "answer": "Das Segelfahrzeug muss ausweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Das Segelfahrzeug muss Kurs und Geschwindigkeit zunächst beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Das Segelfahrzeug darf die sichere Durchfahrt nicht behindern.",
+        "correct": false
+      },
+      {
+        "answer": "Das Segelfahrzeug muss seinen Kurs nach Steuerbord ändern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Wie muss man sich gegenüber diesem Fahrzeug verhalten?",
+    "answers": [
+      {
+        "answer": "Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden.",
+        "correct": true
+      },
+      {
+        "answer": "Das Fahrzeug muss an Steuerbord passiert werden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-133.gif"
+  },
+  {
+    "id": 134,
+    "question": "Wie muss man sich gegenüber diesem Fahrzeug verhalten?",
+    "answers": [
+      {
+        "answer": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden.",
+        "correct": true
+      },
+      {
+        "answer": "Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrzeug muss an Steuerbord passiert werden.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-134-gif.gif"
+  },
+  {
+    "id": 135,
+    "question": "Wie verhält sich der Kurshaltepflichtige vor Einleitung des Manövers des letzten Augenblicks gegenüber einem ausweichpflichtigen Fahrzeug?",
+    "answers": [
+      {
+        "answer": "Kurs nach Steuerbord ändern, Geschwindigkeit zunächst beibehalten und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen.",
+        "correct": false
+      },
+      {
+        "answer": "Kurs nach Steuerbord ändern. Geschwindigkeit verringern und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen.",
+        "correct": false
+      },
+      {
+        "answer": "Kurs und Geschwindigkeit zunächst beibehalten und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen.",
+        "correct": true
+      },
+      {
+        "answer": "Kurs oder Geschwindigkeit anpassen und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Wie muss sich ein Ausweichpflichtiger gegenüber einem Kurshalter verhalten?",
+    "answers": [
+      {
+        "answer": "Das Manöver des letzten Augenblicks ist durchzuführen. Es muss so ausgewichen werden, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist.",
+        "correct": false
+      },
+      {
+        "answer": "Das Ausweichmanöver muss frühzeitig, durchgreifend und klar erkennbar durchgeführt werden.",
+        "correct": true
+      },
+      {
+        "answer": "Die Fahrt ist auf das für die Steuerfähigkeit erforderliche Mindestmaß zu reduzieren; im Zweifelsfall muss ganz aufgestoppt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Der Kurs muss bei Annäherung an den Kurshalter Schritt für Schritt so angepasst werden, dass das Heck des Anderen sicher umfahren wird.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Wie hat sich ein überholendes Fahrzeug zu verhalten?",
+    "answers": [
+      {
+        "answer": "Es darf die sichere Durchfahrt des zu überholenden Fahrzeugs nicht behindern.",
+        "correct": false
+      },
+      {
+        "answer": "Es hat dem zu überholenden Fahrzeug auszuweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Es muss vor dem Überholen ein Schallsignal abgeben, um die Zustimmung des zu überholenden Fahrzeugs einzuholen.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss den größtmöglichen Abstand zum überholten Fahrzeug einhalten und Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Wie hat man sich zu verhalten, wenn man bei verminderter Sicht anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeugs hört?",
+    "answers": [
+      {
+        "answer": "Es ist ebenfalls ein Schallsignal abzugeben. Kurs und Geschwindigkeit sind so lange beizubehalten, bis das andere Fahrzeug in Sicht kommt. Dann ist die Ausweichsituation nach KVR zu prüfen und man muss sich entsprechend verhalten.",
+        "correct": false
+      },
+      {
+        "answer": "Es sind mindestens fünf kurze Töne mit der Pfeife abzugeben und das Manöver des letzten Augenblicks durchzuführen. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist ebenfalls ein Schallsignal abzugeben und frühzeitig, durchgreifend und klar erkennbar auszuweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist ebenfalls ein Schallsignal abzugeben und die Fahrt soweit zu verlangsamen, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Wie verhält man sich als Kurshalter, wenn man feststellt, dass ein anderes Fahrzeug seiner Ausweichpflicht nicht nachkommt und die Gefahr einer unmittelbaren Kollision bevorsteht?",
+    "answers": [
+      {
+        "answer": "Man gibt ein Schallsignal (vier kurze Töne) ab und verlangsamt die Fahrt soweit, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
+        "correct": false
+      },
+      {
+        "answer": "Man behält Kurs und Geschwindigkeit zunächst bei und widmet dem Ausweichpflichtigen besondere Aufmerksamkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und reduziert die Geschwindigkeit, um Sog und Wellenschlag zu vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und führt das \"Manöver des letzten Augenblicks\" durch. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Welche Bedeutung hat folgendes Schallsignal?",
+    "answers": [
+      {
+        "answer": "Ein ausweichpflichtiges Fahrzeug wird auf seine Ausweichpflicht aufmerksam gemacht.",
+        "correct": true
+      },
+      {
+        "answer": "Bleib-Weg-Signal, Explosionsgefahr durch gefährliche Güter. Sofort den Gefahrenbereich verlassen. Feuer und Zündfunken vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeines Gefahren- und Warnsignal.",
+        "correct": false
+      },
+      {
+        "answer": "Seeschifffahrtsstraße gesperrt. Weiterfahrt verboten, sofort aufstoppen.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-140-gif.gif"
+  },
+  {
+    "id": 141,
+    "question": "Welche Bedeutung hat folgendes Schallsignal?",
+    "answers": [
+      {
+        "answer": "Maschinenfahrzeug, das seine Maschinen gestoppt hat und keine Fahrt durchs Wasser macht.",
+        "correct": false
+      },
+      {
+        "answer": "Schutzbedürftige Anlage; Geschwindigkeit reduzieren, Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Ankerlieger macht ein sich näherndes Fahrzeug auf eine gefährliche Annäherung aufmerksam.",
+        "correct": true
+      },
+      {
+        "answer": "Die Maschine des Fahrzeugs läuft rückwärts.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-d-Frage-120-gif.gif"
+  },
+  {
+    "id": 142,
+    "question": "Was ist bei der Benutzung eines Verkehrstrennungsgebietes zu beachten?",
+    "answers": [
+      {
+        "answer": "Auf dem entsprechenden Einbahnweg in der allgemeinen Verkehrsrichtung fahren, soweit wie möglich von der Trennzone/Trennlinie klar halten, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst kleinem Winkel zur allgemeinen Verkehrsrichtung.",
+        "correct": true
+      },
+      {
+        "answer": "Auf den entsprechenden Einbahnwegen in der allgemeinen Verkehrsrichtung fahrende Fahrzeuge müssen sich soweit wie möglich von der Trennzone/Trennlinie klar halten und haben Vorfahrt gegenüber allen Fahrzeugen, die in ein Verkehrstrennungsgebiet einlaufen oder ein solches queren.",
+        "correct": false
+      },
+      {
+        "answer": "Auf dem entsprechenden Einbahnweg in Verkehrsrichtung links von der Trennzone fahren, so nah wie möglich an der Trennzone/Trennlinie fahren, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst rechtem Winkel zur allgemeinen Verkehrsrichtung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Benutzung von Verkehrstrennungsgebieten ist für Segelfahrzeuge sowie für Maschinenfahrzeuge unter 20 m Länge nicht gestattet. Diese Fahrzeuge haben sich soweit wie möglich von Verkehrstrennungsgebieten klar zu halten und müssen durch ihren Kurs klar zu erkennen geben, dass sie ein Verkehrstrennungsgebiet nicht benutzen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Was ist hinsichtlich des Querens eines Verkehrstrennungsgebietes zu beachten?",
+    "answers": [
+      {
+        "answer": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies mit der Kielrichtung in einem möglichst spitzen Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen möglichst spitzen Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird.",
+        "correct": false
+      },
+      {
+        "answer": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit einem rechtweisenden Kurs zur allgemeinen Verkehrsrichtung zu erfolgen. Der rechtweisende Kurs des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird.",
+        "correct": false
+      },
+      {
+        "answer": "Das Queren von Verkehrstrennungsgebieten ist für Segelfahrzeuge sowie für Maschinenfahrzeuge unter 20 m Länge verboten. Diese Fahrzeuge haben sich soweit wie möglich von den Enden der Verkehrstrennungsgebiete klar zu halten und müssen durch ihren Kurs zu erkennen geben, dass sie ein Verkehrstrennungsgebiet nicht queren.",
+        "correct": false
+      },
+      {
+        "answer": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit der Kielrichtung im rechten Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "In welcher Vorschrift findet man die Regeln zum Befahren von Verkehrstrennungsgebieten?",
+    "answers": [
+      {
+        "answer": "In der Seeschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "In den Kollisionsverhütungsregeln und der Seeschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "In den \"Bekanntmachungen der Generaldirektion Wasserstraßen und Schifffahrt (GDWS)\".",
+        "correct": false
+      },
+      {
+        "answer": "In den Kollisionsverhütungsregeln.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Wie hat sich ein Maschinenfahrzeug bei Kollisionsgefahr in einem Einbahnweg eines Verkehrstrennungsgebietes gegenüber einem Maschinenfahrzeug zu verhalten, das den Einbahnweg von Steuerbord kommend quert?",
+    "answers": [
+      {
+        "answer": "Es muss das Manöver des letzten Augenblicks durchführen.",
+        "correct": false
+      },
+      {
+        "answer": "Es darf die sichere Durchfahrt des Maschinenfahrzeugs nicht behindern.",
+        "correct": false
+      },
+      {
+        "answer": "Dem querenden Fahrzeug hat es besondere Aufmerksamkeit zu widmen.",
+        "correct": false
+      },
+      {
+        "answer": "Es muss dem anderen Fahrzeug ausweichen.",
+        "correct": true
+      }
+    ]
   }
 ]
