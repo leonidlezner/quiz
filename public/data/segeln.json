@@ -1430,7 +1430,7 @@
         "correct": false
       },
       {
-        "answer": "Das Ausweichmanöver muss frühzeitig, durchgreifend und klar erkennbar durchgeführt werden.",
+        "answer": "Das Ausweichmanöver muss *frühzeitig, durchgreifend und klar erkennbar* durchgeführt werden.",
         "correct": true
       },
       {
@@ -1452,7 +1452,7 @@
         "correct": false
       },
       {
-        "answer": "Es hat dem zu überholenden Fahrzeug auszuweichen.",
+        "answer": "Es hat dem zu überholenden Fahrzeug *auszuweichen*.",
         "correct": true
       },
       {
@@ -1482,7 +1482,7 @@
         "correct": false
       },
       {
-        "answer": "Es ist ebenfalls ein Schallsignal abzugeben und die Fahrt soweit zu verlangsamen, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
+        "answer": "Es ist ebenfalls ein Schallsignal abzugeben und *die Fahrt soweit zu verlangsamen*, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
         "correct": true
       }
     ]
@@ -1504,7 +1504,7 @@
         "correct": false
       },
       {
-        "answer": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und führt das \"Manöver des letzten Augenblicks\" durch. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist.",
+        "answer": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und führt das \"Manöver des letzten Augenblicks\" durch. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes *am dienlichsten* ist.",
         "correct": true
       }
     ]
@@ -1560,7 +1560,7 @@
     "question": "Was ist bei der Benutzung eines Verkehrstrennungsgebietes zu beachten?",
     "answers": [
       {
-        "answer": "Auf dem entsprechenden Einbahnweg in der allgemeinen Verkehrsrichtung fahren, soweit wie möglich von der Trennzone/Trennlinie klar halten, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst kleinem Winkel zur allgemeinen Verkehrsrichtung.",
+        "answer": "Auf dem entsprechenden Einbahnweg in der *allgemeinen Verkehrsrichtung fahren*, soweit wie möglich von der Trennzone/Trennlinie klar halten, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in *möglichst kleinem Winkel* zur allgemeinen Verkehrsrichtung.",
         "correct": true
       },
       {
@@ -1594,7 +1594,7 @@
         "correct": false
       },
       {
-        "answer": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit der Kielrichtung im rechten Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird.",
+        "answer": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit der *Kielrichtung im rechten Winkel zur allgemeinen Verkehrsrichtung* zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird.",
         "correct": true
       }
     ]
@@ -1616,7 +1616,7 @@
         "correct": false
       },
       {
-        "answer": "In den Kollisionsverhütungsregeln.",
+        "answer": "In den *Kollisionsverhütungsregeln*.",
         "correct": true
       }
     ]
