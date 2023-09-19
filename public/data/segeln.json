@@ -1642,5 +1642,649 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 146,
+    "question": "Wie hat sich ein Segelfahrzeug beim Queren eines Verkehrstrennungsgebietes gegenüber einem Maschinenfahrzeug zu verhalten, das auf einem Einbahnweg in der allgemeinen Verkehrsrichtung fährt?",
+    "answers": [
+      {
+        "answer": "Es muss warten. Alle dem Einbahnweg folgenden Fahrzeuge haben Vorfahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Es unterliegt der Kurshaltepflicht. Kurs und Geschwindigkeit sind beizubehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Es hat Vorfahrt. Alle dem Einbahnweg folgenden Fahrzeuge müssen warten.",
+        "correct": false
+      },
+      {
+        "answer": "Es darf die sichere Durchfahrt des Maschinenfahrzeugs nicht behindern.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Wie haben sich Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge in Verkehrstrennungsgebieten zu verhalten?",
+    "answers": [
+      {
+        "answer": "Sie dürfen die Trennzone befahren, damit der durchgehende Verkehr nicht behindert wird.",
+        "correct": false
+      },
+      {
+        "answer": "Sie dürfen die sichere Durchfahrt eines dem Einbahnweg folgenden Maschinenfahrzeugs nicht behindern.",
+        "correct": true
+      },
+      {
+        "answer": "Sie gelten als Kleinfahrzeuge und dürfen Verkehrstrennungsgebiete nicht befahren.",
+        "correct": false
+      },
+      {
+        "answer": "Sie gelten als Kleinfahrzeuge und dürfen Verkehrstrennungsgebiete nur am Tage und bei guter Sicht befahren.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Bälle senkrecht übereinander angeordnet sind.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es darf an keiner Seite passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Rhomben senkrecht übereinander angeordnet sind.",
+        "correct": true
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in meiner Fahrtrichtung rechts liegt.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-148-gif.gif"
+  },
+  {
+    "id": 149,
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es darf an beiden Seiten passiert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung links liegt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierunfähiges Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung rechts liegt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt nicht behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung rechts liegt.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-149-gif.gif"
+  },
+  {
+    "id": 150,
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Steuerbordseite des Fahrwassers (Rechtsfahrgebot) zu passieren.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei rote Rundumlichter senkrecht übereinander angeordnet sind.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung links liegt.",
+        "correct": false
+      },
+      {
+        "answer": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei grüne Rundumlichter senkrecht übereinander angeordnet sind.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-150-gif.gif"
+  },
+  {
+    "id": 151,
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Fahrzeug mit Taucher im Einsatz. Großen Abstand halten.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug in Seenot. Hilfe leisten bzw. weitere Hilfe anfordern.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug des öffentlichen Dienstes. Es darf von den Verkehrsregeln abweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug mit gefährlichen Gütern, Abstand halten, Rauchen und offenes Feuer verboten.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-151-gif.gif"
+  },
+  {
+    "id": 152,
+    "question": "Wo ist festgelegt, welche Wasserflächen Seeschifffahrtsstraßen sind?",
+    "answers": [
+      {
+        "answer": "Seeschifffahrtsstraßen-Ordnung und Kollisionsverhütungsregeln.",
+        "correct": false
+      },
+      {
+        "answer": "Kollisionsverhütungsregeln und Seeaufgabengesetz.",
+        "correct": false
+      },
+      {
+        "answer": "Kollisionsverhütungsregeln und Schifffahrtsordnung Emsmündung.",
+        "correct": false
+      },
+      {
+        "answer": "Seeschifffahrtsstraßen-Ordnung und Schifffahrtsordnung Emsmündung.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Welche örtlichen Sondervorschriften zusätzlich zur Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und zur Schifffahrtsordnung Emsmündung (EmsSchO) gibt es und was ist darin geregelt?",
+    "answers": [
+      {
+        "answer": "Das Seesicherheitsuntersuchungsgesetz sowie die Verordnung über die Sicherung der Seefahrt, die jeweils wichtige Vorschriften über das Verhalten nach einem Zusammenstoß auf den jeweiligen Seeschifffahrtsstraßen enthalten.",
+        "correct": false
+      },
+      {
+        "answer": "Die Bekanntmachungen der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS), die besondere örtliche Regelungen enthalten und Hinweise für die einzelnen Seeschifffahrtsstraßen geben.",
+        "correct": true
+      },
+      {
+        "answer": "Die Bekanntmachung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) sowie die nautische Veröffentlichung \"Sicherheit auf dem Wasser\", herausgegeben durch das Bundesministerium für Digitales und Verkehr (BMDV), mit wichtigen Regeln und Tipps für Wassersportler.",
+        "correct": false
+      },
+      {
+        "answer": "Die Nachrichten für Seefahrer (NfS), herausgegeben vom Bundesamt für Seeschifffahrt und Hydrographie, sowie die Bekanntmachungen für Seefahrer (BfS) der örtlich zuständigen Wasserstraßen- und Schifffahrtsämter, die auf alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks und Untiefen sowie auf die Schifffahrt betreffende Maßnahmen und Ereignisse hinweisen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Was ist das für ein Fahrzeug und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Fahrzeug des öffentlichen Dienstes im Einsatz. Es darf von den Verkehrsvorschriften abweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Lotsenfahrzeug mit Sonderrechten im Einsatz. Es darf vom Rechtsfahrgebot abweichen.",
+        "correct": false
+      },
+      {
+        "answer": "Tiefgangbehindertes Fahrzeug. Es darf nicht behindert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug der Bundesmarine im Einsatz. Es hat Munition oder andere Gefahrgüter an Bord.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Fahrzeug-Frage-154-gif.gif"
+  },
+  {
+    "id": 155,
+    "question": "Wer gibt das Sichtzeichen \"Leuchtkugeln mit weißen Sternen\" und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Fahrzeug in Seenot, das auf sich aufmerksam macht. Hilfe leisten, ggf. weitere Hilfe anfordern.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug der Bundeswehr, der Bundespolizei oder Maschinenfahrzeug, das Schießscheiben schleppt bei Übungen. Man hält sich frei.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug, das mit Netzen, Leinen, Schleppnetzen oder anderen Fanggeräten fischt und auf sich aufmerksam macht. Ausreichenden Abstand halten.",
+        "correct": false
+      },
+      {
+        "answer": "Maschinenfahrzeug über 50 m Länge bei der Anforderung eines Lotsen. Man behält Kurs und Geschwindigkeit bei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Was sind Fahrwasser im Sinne der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und der Schifffahrtsordnung Emsmündung (EmsSchO)?",
+    "answers": [
+      {
+        "answer": "Es sind Wasserflächen, die durchgehend durch Fahrwasserseitenbezeichnung begrenzt oder gekennzeichnet sind und auf denen das Wasserskifahren sowie das Fahren mit Wassermotorrädern erlaubt ist, sofern die durchgehende Schifffahrt nicht behindert wird.",
+        "correct": false
+      },
+      {
+        "answer": "Es sind Wasserflächen, die durchgehend durch Fahrwasserseitenbezeichnung begrenzt oder gekennzeichnet sind, binnenwärts der Flussmündungen auch nicht gekennzeichnete Wasserflächen, die für die durchgehende Schifffahrt bestimmt sind.",
+        "correct": true
+      },
+      {
+        "answer": "Es sind Wasserflächen, die für Seeschiffe zugelassen sind; binnenwärts der Flussmündungen sind auch Binnenschiffe und Sportboote zugelassen.",
+        "correct": false
+      },
+      {
+        "answer": "Es sind Wasserflächen, die durchgehend durch Fahrwasserseitenbezeichnung begrenzt oder gekennzeichnet sind und auf denen die Sportbootführerscheinverordnung Gültigkeit hat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Welches ist - außer in Wattgebieten - die Steuerbordseite eines Fahrwassers?",
+    "answers": [
+      {
+        "answer": "Es ist die Seite, die ein von See kommendes Schiff an seiner Steuerbordseite hat.",
+        "correct": true
+      },
+      {
+        "answer": "Es ist die Seite, die von See kommend mit roten Tonnen bezeichnet ist.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist die Seite, die ein von See kommendes Schiff an seiner Backbordseite hat.",
+        "correct": false
+      },
+      {
+        "answer": "Es ist die Seite, auf der die Tonnen mit fortlaufenden geraden Zahlen gekennzeichnet sind.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Welche verkehrsrechtliche Verpflichtung hat ein Fahrzeugführer nach § 3 der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO), dessen Fahrzeug mit einer UKW-Funkanlage ausgerüstet ist?",
+    "answers": [
+      {
+        "answer": "Er ist verpflichtet, die von der Verkehrszentrale gegebenen Verkehrsinformationen und -unterstützungen abzuhören und zu berücksichtigen.",
+        "correct": true
+      },
+      {
+        "answer": "Er ist verpflichtet, bei verminderter Sicht regelmäßig seinen Schiffsnamen und seine Position der Verkehrszentrale mitzuteilen.",
+        "correct": false
+      },
+      {
+        "answer": "Er ist verpflichtet, die Funkanlage während der Fahrt in Betrieb zu halten und alle sein Fahrzeug betreffenden Mitteilungen im Schiffslogbuch festzuhalten.",
+        "correct": false
+      },
+      {
+        "answer": "Er ist verpflichtet, bei der Nutzung einer UKW-Funkanlage im Besitz des entsprechenden Funkzeugnisses zu sein.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Welches Licht muss ein Fahrzeug unter Segel von weniger als 12 m Länge oder ein Fahrzeug unter Ruder auf der Seeschifffahrtsstraße führen, wenn es die nach den Kollisionsverhütungsregeln (KVR) vorgeschriebenen Lichter nicht führen kann?",
+    "answers": [
+      {
+        "answer": "Ein rotes Rundumlicht.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Dreifarbenlaterne.",
+        "correct": false
+      },
+      {
+        "answer": "Ein weißes Rundumlicht.",
+        "correct": true
+      },
+      {
+        "answer": "Ein weißes Topplicht.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Wann darf ein Maschinenfahrzeug von weniger als 7 m Länge auf Seeschifffahrtsstraßen nicht fahren, wenn es die nach den Kollisionsverhütungsregeln (KVR) vorgeschriebenen Lichter nicht führen kann?",
+    "answers": [
+      {
+        "answer": "Es darf in der Zeit, in der die Lichterführung vorgeschrieben ist, nicht fahren, es sei denn, dass ein Notstand vorliegt.",
+        "correct": true
+      },
+      {
+        "answer": "Es darf in der Zeit zwischen Sonnenaufgang und Sonnenuntergang nicht fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Es darf in der Zeit zwischen Sonnenuntergang und Sonnenaufgang nicht fahren.",
+        "correct": false
+      },
+      {
+        "answer": "Es darf in der Zeit, in der die Lichterführung vorgeschrieben ist, nur dann fahren, wenn ein betriebsbedingtes Signalhorn an Bord ist.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Welches Schallsignal ist beim Einlaufen in Fahrwasser und Häfen zu geben, wenn die Verkehrslage es erfordert?",
+    "answers": [
+      {
+        "answer": "Ein langer Ton.",
+        "correct": true
+      },
+      {
+        "answer": "Ein kurzer und ein langer Ton.",
+        "correct": false
+      },
+      {
+        "answer": "Ein kurzer Ton.",
+        "correct": false
+      },
+      {
+        "answer": "Ein langer und ein kurzer Ton.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Welche Bedeutung hat folgendes Schallsignal?",
+    "answers": [
+      {
+        "answer": "Allgemeines \"Gefahr- und Warnsignal\".",
+        "correct": true
+      },
+      {
+        "answer": "Sperrung der Seeschifffahrtsstraße.",
+        "correct": false
+      },
+      {
+        "answer": "Brücke/Schleuse kann vorübergehend nicht geöffnet werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sofort anhalten (Fahrzeug des öffentlichen Dienstes).",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-162-gif.gif"
+  },
+  {
+    "id": 163,
+    "question": "Wie lautet das \"allgemeine Gefahr- und Warnsignal\"?",
+    "answers": [
+      {
+        "answer": "Zwei Gruppen von je einem kurzen und vier langen Tönen.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei Gruppen von je einem langen und vier kurzen Tönen.",
+        "correct": true
+      },
+      {
+        "answer": "Zwei Gruppen von je drei langen Tönen.",
+        "correct": false
+      },
+      {
+        "answer": "Zwei Gruppen von je vier kurzen Tönen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Wann ist das \"allgemeine Gefahr- und Warnsignal\" zu geben?",
+    "answers": [
+      {
+        "answer": "Wenn ein Fahrzeug ein anderes Fahrzeug gefährdet oder durch dieses selbst gefährdet wird.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn ein Fahrzeug ein anderes Fahrzeug zur Hilfeleistung auffordert.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn ein Fahrzeug ein anderes Fahrzeug im Fahrwasser an Steuerbord überholen will.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn ein Fahrzeug einem anderen Fahrzeug nicht ausweichen kann.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Wie haben sich Fahrzeuge zu verhalten, die in ein Fahrwasser einlaufen, ein Fahrwasser queren, im Fahrwasser drehen oder ihre Anker- und Liegeplätze verlassen?",
+    "answers": [
+      {
+        "answer": "Sie haben die Vorfahrt der dem Fahrwasserverlauf folgenden Fahrzeuge zu beachten.",
+        "correct": true
+      },
+      {
+        "answer": "Sie haben ihr Manöver so durchzuführen, dass andere Fahrzeuge nicht behindert werden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie haben die Vorfahrt vor den Fahrzeugen im Fahrwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Sie haben einen kurzen Ton als Achtungssignal abzugeben.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Wie haben Segelfahrzeuge im Fahrwasser, die nicht deutlich der Richtung eines Fahrwassers folgen, untereinander auszuweichen?",
+    "answers": [
+      {
+        "answer": "Sie haben untereinander nach den Regeln der Seeschifffahrtsstraßen-Ordnung auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern.",
+        "correct": false
+      },
+      {
+        "answer": "Sie haben untereinander nach den Regeln der Binnenschifffahrtsstraßen-Ordnung auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern.",
+        "correct": false
+      },
+      {
+        "answer": "Sie haben untereinander nach den Regeln der KVR auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern.",
+        "correct": true
+      },
+      {
+        "answer": "Sie haben untereinander nach den Regeln der Schifffahrtsordnung Emsmündung auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Welche Ausweichregeln gelten außerhalb des Fahrwassers?",
+    "answers": [
+      {
+        "answer": "Die Regeln der KVR.",
+        "correct": true
+      },
+      {
+        "answer": "Die Regeln der Schifffahrtsordnung Emsmündung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Regeln der Binnenschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Regeln der Seeschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Wo ist das Überholen verboten?",
+    "answers": [
+      {
+        "answer": "An Engstellen, unübersichtlichen Krümmungen, in Schleusenbereichen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken, in der Nähe nicht frei fahrender Fähren in Fahrt.",
+        "correct": true
+      },
+      {
+        "answer": "An Engstellen, unübersichtlichen Krümmungen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken und in Nationalparks und besonders ausgewiesenen Naturschutzgebieten.",
+        "correct": false
+      },
+      {
+        "answer": "An Engstellen, unübersichtlichen Krümmungen, in Schleusenbereichen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken, in der Nähe nicht frei fahrender Fähren in Fahrt und außerhalb des Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "An Engstellen, unübersichtlichen Krümmungen, in Schleusenbereichen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken, in der Nähe nicht frei fahrender Fähren in Fahrt, und in Verkehrstrennungsgebieten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Wo darf Wasserski gelaufen, Wassermotorrad gefahren oder mit einem Segelsurfbrett gefahren werden?",
+    "answers": [
+      {
+        "answer": "Außerhalb des Fahrwassers, wenn es nicht von der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Im Fahrwasser auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.",
+        "correct": true
+      },
+      {
+        "answer": "Außerhalb der Seeschifffahrtsstraße, wenn es nicht von der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Innerhalb der Seeschifffahrtsstraße auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.",
+        "correct": false
+      },
+      {
+        "answer": "Auf der hohen See und auf den mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern, sofern dabei ein Abstand von mindestens 100 m zum Ufer eingehalten wird.",
+        "correct": false
+      },
+      {
+        "answer": "Im Fahrwasser, wenn es nicht von der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Wie haben sich Führer von Zugbooten der Wasserskiläufer bzw. Wassermotorradfahrer und Segelsurfer bei der Annäherung an andere Fahrzeuge zu verhalten?",
+    "answers": [
+      {
+        "answer": "Sie haben auszuweichen.",
+        "correct": true
+      },
+      {
+        "answer": "Sie müssen Kurs und Geschwindigkeit beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Sie haben bei Annäherung an andere Fahrzeuge aufzustoppen und Sog und Wellenschlag zu vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Sie haben Vorfahrt und müssen vor dem Bug des anderen Fahrzeugs kreuzen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Wo ist das Ankern verboten?",
+    "answers": [
+      {
+        "answer": "Im Fahrwasser, auf Seeschifffahrtsstraßen, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Wracks und sonstigen Schifffahrtshindernissen, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals; innerhalb von Fähr- und Brückenstrecken; 300 m vor und hinter Ankerverbotszeichen.",
+        "correct": false
+      },
+      {
+        "answer": "Im Fahrwasser, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals und in Vogelschutz- und Naturschutzgebieten sowie generell innerhalb von Nationalparks.",
+        "correct": false
+      },
+      {
+        "answer": "Im Fahrwasser, wenn es durch die Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) bekanntgemacht worden ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die GDWS bekanntgemacht oder durch entsprechende Sichtzeichen bezeichnet sind.",
+        "correct": false
+      },
+      {
+        "answer": "Im Fahrwasser, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Wracks und sonstigen Schifffahrtshindernissen, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals; innerhalb von Fähr- und Brückenstrecken; 300 m vor und hinter Ankerverbotszeichen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Was ist zu unternehmen, um die Schifffahrt zu warnen, wenn das eigene Fahrzeug gesunken ist und ein Schifffahrtshindernis darstellt?",
+    "answers": [
+      {
+        "answer": "Man gibt ein Seenotsignal ab.",
+        "correct": false
+      },
+      {
+        "answer": "Man informiert das Bundesamt für Seeschifffahrt und Hydrographie und gibt nach Möglichkeit die Position an.",
+        "correct": false
+      },
+      {
+        "answer": "Man informiert die Schifffahrtspolizeibehörde und gibt nach Möglichkeit die Position an.",
+        "correct": true
+      },
+      {
+        "answer": "Man informiert die Deutsche Gesellschaft zur Rettung Schiffbrüchiger, damit das Hindernis gekennzeichnet werden kann.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Bei welchem Signal dürfen Sportfahrzeuge in die Schleusen des Nord-Ostsee-Kanals einfahren?",
+    "answers": [
+      {
+        "answer": "Wenn ein grünes Gleichtaktlicht gezeigt wird.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn ein weißes unterbrochenes Licht gezeigt wird.",
+        "correct": true
+      },
+      {
+        "answer": "Wenn zwei grüne Lichter nebeneinander gezeigt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Wenn ein weißes Funkellicht gezeigt wird.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Wo findet man Regeln für das Durchfahren des Nord-Ostsee-Kanals (NOK)?",
+    "answers": [
+      {
+        "answer": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie in den Bekanntmachungen der Generaldirektion Wasserstraßen und Schifffahrt (GDWS).",
+        "correct": true
+      },
+      {
+        "answer": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie in der Sportbootführerscheinverordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie in den Kollisionsverhütungsregeln.",
+        "correct": false
+      },
+      {
+        "answer": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie im Seeaufgabengesetz.",
+        "correct": false
+      }
+    ]
   }
 ]
