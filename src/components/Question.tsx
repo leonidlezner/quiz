@@ -32,16 +32,28 @@ export default function Question({
 
   return (
     <div>
-      <h2 className="mb-10 text-xl xl:text-2xl">
+      <h2 className="mb-7 text-xl xl:text-2xl">
         {question.id}: {question.question}
       </h2>
       {question.media && (
         <div className="my-5">
-          <img
-            src={question.media}
-            /*srcSet={`${question.media} 2x`}*/
-            className="border shadow-sm"
-          />
+          {Array.isArray(question.media) ? (
+            <ul className="space-y-2">
+              {question.media.map((media) => (
+                <img
+                  src={media}
+                  /*srcSet={`${question.media} 2x`}*/
+                  className="border bg-white p-1 shadow-sm"
+                />
+              ))}
+            </ul>
+          ) : (
+            <img
+              src={question.media}
+              /*srcSet={`${question.media} 2x`}*/
+              className="border bg-white p-1 shadow-sm"
+            />
+          )}
         </div>
       )}
       <div className="space-y-5">

@@ -2286,5 +2286,334 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 175,
+    "question": "Was bedeuten im Nord-Ostsee-Kanal an einem Weichensignalmast drei unterbrochene rote Lichter übereinander und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Dauernde Sperrung einer Teilstrecke der Seeschifffahrtsstraße; Weiterfahrt in der Teilstrecke verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Dauernde Sperrung der Seeschifffahrtsstraße; Weiterfahrt verboten.",
+        "correct": false
+      },
+      {
+        "answer": "Ausfahren für alle Fahrzeuge verboten; Aufhebung des Signals abwarten.",
+        "correct": true
+      },
+      {
+        "answer": "Schutzbedürftige Anlage; Geschwindigkeit reduzieren, Sog und Wellenschlag vermeiden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Welche Bedeutung hat folgendes Tafelzeichen?",
+    "answers": [
+      {
+        "answer": "Die Geschwindigkeit durch das Wasser in sm/h (Knoten) auf dem Nord-Ostsee-Kanal (NOK) über Grund in sm/h, die nicht überschritten werden darf.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestabstand zu anderen Fahrzeugen in Metern, der im bekanntgemachten Streckenabschnitt nicht unterschritten werden darf.",
+        "correct": false
+      },
+      {
+        "answer": "Die Geschwindigkeit durch das Wasser in km/h, auf dem Nord-Ostsee-Kanal (NOK) über Grund in km/h, die nicht überschritten werden darf.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Gebotszeichen-B06.gif"
+  },
+  {
+    "id": 177,
+    "question": "Welche Bedeutung haben folgende Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Außergewöhnliche Schifffahrtsbehinderung.",
+        "correct": false
+      },
+      {
+        "answer": "Dauernde Sperrung einer Teilstrecke der Seeschifffahrtsstraße.",
+        "correct": false
+      },
+      {
+        "answer": "Schutzbedürftige Anlage.",
+        "correct": true
+      },
+      {
+        "answer": "Dauernde Sperrung der Seeschifffahrtsstraße.",
+        "correct": false
+      }
+    ],
+    "media": [
+      "./data/media/Gebotszeichen-A04b.gif",
+      "./data/media/Gebotszeichen-A04c.gif"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Welche Bedeutung hat folgendes Schallsignal und was ist zu beachten?",
+    "answers": [
+      {
+        "answer": "Brücke, Sperrwerk, Schleuse wird zur Öffnung vorbereitet; Fahrt fortsetzen.",
+        "correct": false
+      },
+      {
+        "answer": "Ein Ausweichpflichtiger wird vom Vorfahrtberechtigten auf seine Ausweichpflicht hingewiesen; sofort Ausweichmanöver einleiten.",
+        "correct": false
+      },
+      {
+        "answer": "Bleib-weg-Signal, Gefahr durch gefährliche Ladung; sofort den Gefahrenbereich verlassen. Offenes Feuer vermeiden (Explosionsgefahr).",
+        "correct": false
+      },
+      {
+        "answer": "Brücke, Sperrwerk, Schleuse kann vorübergehend nicht geöffnet werden; Fahrt unterbrechen, Freigabe abwarten.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-178-gif.gif"
+  },
+  {
+    "id": 179,
+    "question": "Welche Bedeutung hat folgendes Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Buhnenbauwerk, Gefahr durch Sog und Wellenschlag. Insbesondere auf Badebetrieb und Schwimmer achten.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung besonderer Gebiete und Stellen, z. B. Warngebiete; die Bedeutung kann der Seekarte entnommen und aus der Beschriftung des Schifffahrtszeichens erkannt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Geschwindigkeit von 8 sm/h Fahrt durch das Wasser, die innerhalb eines Mindestabstandes von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf.",
+        "correct": false
+      },
+      {
+        "answer": "Geschwindigkeit von 8 km/h Fahrt durch das Wasser, die innerhalb eines Bereiches von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Gebotszeichen-A05.gif"
+  },
+  {
+    "id": 180,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Höchstgeschwindigkeit von 4,3 Knoten Fahrt durch das Wasser, die innerhalb von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf.",
+        "correct": false
+      },
+      {
+        "answer": "Gesperrt für alle Maschinenfahrzeuge und Wassermotorräder wegen Badebetriebs.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung besonderer Gebiete und Stellen, z. B. Warngebiet.",
+        "correct": false
+      },
+      {
+        "answer": "Einzelgefahrenstelle, erkennbar an ihrer Farbgebung, die an allen Seiten mit einer maximalen Geschwindigkeit von 4,3 Knoten passiert werden kann.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Gebotszeichen-A17aa.gif"
+  },
+  {
+    "id": 181,
+    "question": "Welche Höchstgeschwindigkeit darf vor Stellen mit erkennbarem Badebetrieb - außerhalb des Fahrwassers - in einem Abstand von 500 m und weniger vom Ufer nicht überschritten werden?",
+    "answers": [
+      {
+        "answer": "4,8 Knoten.",
+        "correct": false
+      },
+      {
+        "answer": "4,3 Knoten.",
+        "correct": true
+      },
+      {
+        "answer": "3,8 Knoten.",
+        "correct": false
+      },
+      {
+        "answer": "3,4 Knoten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung von besonderen Gebieten und Stellen.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung von Badegebieten.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung von Schießgebieten.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung von Sperrgebieten.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schifffahrtszeichen-Frage-182-gif.gif"
+  },
+  {
+    "id": 183,
+    "question": "Woran ist ein militärisches Warngebiet zu erkennen, das wegen Schießübungen für die Schifffahrt gesperrt ist?",
+    "answers": [
+      {
+        "answer": "An bestimmten Tag- und Nachtsignalen, die nach der Schifffahrtsordnung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.",
+        "correct": false
+      },
+      {
+        "answer": "An bestimmten Tag- und Nachtsignalen, die nach der Rheinpolizeiverordnung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.",
+        "correct": false
+      },
+      {
+        "answer": "An bestimmten Tag- und Nachtsignalen, die nach der zuständigen Polizeiverordnung des Wasserwirtschaftsamtes für Übungs-, Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.",
+        "correct": false
+      },
+      {
+        "answer": "An bestimmten Tag- und Nachtsignalen, die nach der Sperr- und Warngebietsverordnung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen und auf Sicherungsfahrzeugen gezeigt werden.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Welche Bedeutung haben folgende Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Sperrgebiet wegen Aquakulturen und Muschelzuchtanlagen.",
+        "correct": false
+      },
+      {
+        "answer": "Sperrgebiet und Badezone.",
+        "correct": false
+      },
+      {
+        "answer": "Sperrgebiet.",
+        "correct": true
+      },
+      {
+        "answer": "Schießgebiet.",
+        "correct": false
+      }
+    ],
+    "media": [
+      "./data/media/Gebotszeichen-A17ba.gif",
+      "./data/media/Gebotszeichen-A17bb.gif",
+      "./data/media/Gebotszeichen-A17bc.gif"
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Welche Bedeutung hat folgendes Flaggensignal?",
+    "answers": [
+      {
+        "answer": "Anker behindert Schifffahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Anhalten.",
+        "correct": true
+      },
+      {
+        "answer": "Schleppverband, länger als 200 m",
+        "correct": false
+      },
+      {
+        "answer": "Seenotsignal.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Flaggensignal-Frage-185-gif.gif"
+  },
+  {
+    "id": 186,
+    "question": "Welche Bedeutung hat folgendes Schallsignal?",
+    "answers": [
+      {
+        "answer": "Letzter bemannter Anhang eines Schleppverbandes.",
+        "correct": false
+      },
+      {
+        "answer": "Manövrierbehindertes Fahrzeug blockiert das Fahrwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Polizeifahrzeug fordert zum Anhalten auf.",
+        "correct": true
+      },
+      {
+        "answer": "Ankerlieger macht auf gefährliche Annäherung aufmerksam.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-186-gif.gif"
+  },
+  {
+    "id": 187,
+    "question": "Welche Bedeutung haben folgende Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Schutzbedürftige Anlage. Sog und Wellenschlag vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Dauernde Sperrung der Seeschifffahrtsstraße. Weiterfahrt verboten.",
+        "correct": true
+      },
+      {
+        "answer": "Ende einer Gebots- oder Verbotsstrecke. Freie Weiterfahrt.",
+        "correct": false
+      },
+      {
+        "answer": "Außergewöhnliche Schifffahrtsbehinderung. Vorsichtig passieren.",
+        "correct": false
+      }
+    ],
+    "media": [
+      "./data/media/Gebotszeichen-Frage-187.gif",
+      "./data/media/Gebotszeichen-Frage-187-Nacht.gif"
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Welche Bedeutung hat folgendes Schallsignal?",
+    "answers": [
+      {
+        "answer": "Ein Ankerlieger bei schlechter Sicht, vorsichtig weiter navigieren.",
+        "correct": false
+      },
+      {
+        "answer": "Einfahrt in Schleuse oder Anlage gesperrt, auf Freigabe warten.",
+        "correct": false
+      },
+      {
+        "answer": "Sperrung der Seeschifffahrtsstraße, Weiterfahrt verboten.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug des öffentlichen Dienstes, anhalten.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schallsignal-Frage-188-gif.gif"
   }
 ]

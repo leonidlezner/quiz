@@ -15,7 +15,7 @@
         "type": "string"
       },
       "media": {
-        "type": "string"
+        "type": ["array", "string"]
       },
       "answers": {
         "type": "array",
