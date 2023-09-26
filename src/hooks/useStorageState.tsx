@@ -1,8 +1,14 @@
 import { useState } from "react";
 
-export default function useStorageState<T>(defaultValue: T, name: string) {
+export default function useStorageState<T>(
+  defaultValue: T,
+  name: string,
+  permanent: boolean
+) {
+  const storage = permanent ? window.localStorage : window.sessionStorage;
+
   const loadValue = (name: string) => {
-    const strValue = window.sessionStorage.getItem(name);
+    const strValue = storage.getItem(name);
     return strValue ? JSON.parse(strValue) : null;
   };
 
@@ -49,7 +55,7 @@ export default function useStorageState<T>(defaultValue: T, name: string) {
   });
 
   const storeValue = (name: string, value: T) => {
-    window.sessionStorage.setItem(name, JSON.stringify(value));
+    storage.setItem(name, JSON.stringify(value));
   };
 
   const setValueAndSave = (newValue: T) => {

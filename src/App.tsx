@@ -8,16 +8,26 @@ export default function App() {
 
   const [currentIndex, setCurrentIndex] = useStorageState<number>(
     -1,
-    "currentIndex"
+    "currentIndex",
+    false
   );
+
   const [revealCorrect, setRevealCorrect] = useState<boolean>(false);
+
   const [userAnswers, setUserAnswers] = useStorageState<{
     [key: number]: number;
-  }>({}, "userAnswers");
+  }>({}, "userAnswers", false);
 
   const [questions, setQuestions] = useStorageState<IQuestion[]>(
     [],
-    "questions"
+    "questions",
+    false
+  );
+
+  const [markedQuestions, setMarkedQuestions] = useStorageState<Array<number>>(
+    [],
+    "markedQuestions",
+    true
   );
 
   useEffect(() => {
@@ -74,6 +84,20 @@ export default function App() {
     });
   };
 
+  const handleMarkQuestion = (questionId: number, mark: boolean) => {
+    setMarkedQuestions((prev: Array<number>) => {
+      if (mark) {
+        if (!prev.includes(questionId)) {
+          prev = [...prev, questionId];
+        }
+      } else {
+        prev = prev.filter((item) => item != questionId);
+      }
+
+      return prev;
+    });
+  };
+
   const currentQuestion = questions[currentIndex];
 
   const getQuestionClass = (
@@ -83,22 +107,22 @@ export default function App() {
     userAnswers: { [key: number]: number },
     revealCorrect: boolean
   ) => {
-    let retClass = "";
+    let retClass = "relative ";
 
     if (currentIndex === index) {
-      retClass = "border-blue-800 bg-blue-500 text-blue-100";
+      retClass += "border-blue-800 bg-blue-500 text-blue-100";
     } else {
       if (userAnswers[question.id] === undefined) {
-        retClass = "border-gray-300 bg-gray-100";
+        retClass += "border-gray-300 bg-gray-100";
       } else {
         if (revealCorrect) {
           if (question.answers[userAnswers[question.id]].correct) {
-            retClass = "bg-green-200 border-green-400";
+            retClass += "bg-green-200 border-green-400";
           } else {
-            retClass = "bg-red-200 border-red-400";
+            retClass += "bg-red-200 border-red-400";
           }
         } else {
-          retClass = "border-black bg-gray-200";
+          retClass += "border-black bg-gray-200";
         }
       }
     }
@@ -121,6 +145,8 @@ export default function App() {
             revealCorrect={revealCorrect}
             onAnswer={handleAnswer}
             userAnswer={userAnswers[currentQuestion.id]}
+            isMarked={markedQuestions.includes(currentQuestion.id)}
+            onMarkQuestion={handleMarkQuestion}
           />
         )}
         {!currentQuestion && <p>Loading...</p>}
@@ -169,6 +195,9 @@ export default function App() {
               }}
             >
               {question.id}
+              {markedQuestions.includes(question.id) && (
+                <div className="absolute bottom-[2px] left-[3px] right-[3px] border-b-2 border-b-orange-600"></div>
+              )}
             </a>
           </div>
         ))}
