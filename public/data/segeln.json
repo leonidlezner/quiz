@@ -2615,5 +2615,258 @@
       }
     ],
     "media": "./data/media/Schallsignal-Frage-188-gif.gif"
+  },
+  {
+    "id": 189,
+    "question": "Welche Bedeutung haben folgende Sichtzeichen?",
+    "answers": [
+      {
+        "answer": "Außergewöhnliche Schifffahrtsbehinderung.",
+        "correct": true
+      },
+      {
+        "answer": "Zeitweilige Sperrung der Seeschifffahrtsstraße.",
+        "correct": false
+      },
+      {
+        "answer": "Schutzbedürftige Anlage.",
+        "correct": false
+      },
+      {
+        "answer": "Dauernde Sperrung der Seeschifffahrtsstraße.",
+        "correct": false
+      }
+    ],
+    "media": [
+      "./data/media/Warnzeichen-B06-Tag.gif",
+      "./data/media/Warnzeichen-B06-Nacht.gif"
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Welche Bedeutung hat folgende Tonne?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung von Einzelgefahrenstellen.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung der Backbordseite eines Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung der Mitte von Schifffahrtswegen.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer Reede.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Tonne-Frage-190-gif.gif"
+  },
+  {
+    "id": 191,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Die Kennzeichnung von Hindernissen.",
+        "correct": false
+      },
+      {
+        "answer": "Die Mitte eines Schifffahrtsweges.",
+        "correct": false
+      },
+      {
+        "answer": "Die Backbordseite des Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Die Steuerbordseite des Fahrwassers.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Schifffahrtszeichen-Frage-191-gif.gif"
+  },
+  {
+    "id": 192,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Die Backbordseite des Fahrwassers.",
+        "correct": true
+      },
+      {
+        "answer": "Die Mitte eines Wattfahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Die Steuerbordseite des Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Die Kennzeichnung eines Hindernisses im Wattfahrwasser.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schifffahrtszeichen-Frage-192-gif.gif"
+  },
+  {
+    "id": 193,
+    "question": "Welche Bedeutung hat folgende(s) Tonne/Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Die Kennzeichnung von Hindernissen.",
+        "correct": false
+      },
+      {
+        "answer": "Die Steuerbordseite des Fahrwassers.",
+        "correct": true
+      },
+      {
+        "answer": "Die Mitte eines Schifffahrtsweges.",
+        "correct": false
+      },
+      {
+        "answer": "Die Backbordseite des Fahrwassers.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Schifffahrtszeichen-Frage-193-gif.gif"
+  },
+  {
+    "id": 194,
+    "question": "Welche Bedeutung hat folgende(s) Tonne/Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Die Mitte eines Wattfahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Die Steuerbordseite des Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Die Kennzeichnung eines Hindernisses im Wattfahrwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Die Backbordseite des Fahrwassers.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Schifffahrtszeichen-Frage-194-gif.gif"
+  },
+  {
+    "id": 195,
+    "question": "Welche Bedeutung hat folgende Tonne?",
+    "answers": [
+      {
+        "answer": "Steuerbordseite des durchgehenden Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Backbordseite des durchgehenden Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Backbordseite des durchgehenden Fahrwassers/Steuerbordseite des abzweigenden oder einmündenden Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Steuerbordseite des durchgehenden Fahrwassers/Backbordseite des abzweigenden oder einmündenden Fahrwassers.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Tonne-Frage-195-gif.gif"
+  },
+  {
+    "id": 196,
+    "question": "Welche Bedeutung hat folgende Tonne?",
+    "answers": [
+      {
+        "answer": "Backbordseite des durchgehenden Fahrwassers, Steuerbordseite des abzweigenden oder einmündenden Fahrwassers.",
+        "correct": true
+      },
+      {
+        "answer": "Steuerbordseite des durchgehenden Fahrwassers, Backbordseite des abzweigenden oder einmündenden Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Steuerbordseite des durchgehenden Fahrwassers.",
+        "correct": false
+      },
+      {
+        "answer": "Backbordseite des durchgehenden Fahrwassers.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Tonne-Frage-196-gif.gif"
+  },
+  {
+    "id": 197,
+    "question": "Welche Bedeutung hat folgende Kennung: \"Oc (2) R. Whis.\"?",
+    "answers": [
+      {
+        "answer": "Unterbrochen (2) rot, Heultonne.",
+        "correct": true
+      },
+      {
+        "answer": "Leitfeuer rot, zwei Warnsektoren.",
+        "correct": false
+      },
+      {
+        "answer": "Blink (2) rot, Glockentonne.",
+        "correct": false
+      },
+      {
+        "answer": "Blitz (2) rot, Glockentonne.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Welche Kennung und Farbe haben die Feuer der Leuchttonnen an der Steuerbordseite des Fahrwassers?",
+    "answers": [
+      {
+        "answer": "Grünes Blitzfeuer, Funkelfeuer oder schnelles Funkelfeuer.",
+        "correct": false
+      },
+      {
+        "answer": "Grünes Blitzfeuer, Funkelfeuer oder Festfeuer.",
+        "correct": false
+      },
+      {
+        "answer": "Grünes Blitzfeuer, Funkelfeuer oder unterbrochenes Feuer in Gruppen.",
+        "correct": true
+      },
+      {
+        "answer": "Grünes Blitzfeuer, Funkelfeuer oder Blinkfeuer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Welche Kennung und Farbe haben die Feuer der Leuchttonnen an der Backbordseite des Fahrwassers?",
+    "answers": [
+      {
+        "answer": "Rotes Blitzfeuer, Funkelfeuer oder unterbrochenes Feuer in Gruppen.",
+        "correct": true
+      },
+      {
+        "answer": "Rotes Blitzfeuer, Funkelfeuer oder Blinkfeuer.",
+        "correct": false
+      },
+      {
+        "answer": "Rotes Blitzfeuer, Funkelfeuer oder Festfeuer.",
+        "correct": false
+      },
+      {
+        "answer": "Rotes Blitzfeuer, Funkelfeuer oder schnelles Funkelfeuer.",
+        "correct": false
+      }
+    ]
   }
 ]
