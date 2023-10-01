@@ -2868,5 +2868,366 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 200,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Warnzeichen-B15a.gif"
+  },
+  {
+    "id": 201,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Warnzeichen-B15b.gif"
+  },
+  {
+    "id": 202,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Warnzeichen-B15c.gif"
+  },
+  {
+    "id": 203,
+    "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Warnzeichen-B15d.gif"
+  },
+  {
+    "id": 204,
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die westlich zu passieren ist.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die südlich zu passieren ist.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Feuer-Frage-204-gif.gif"
+  },
+  {
+    "id": 205,
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die westlich zu passieren ist.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, die südlich zu passieren ist.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Feuer-Frage-205-gif.gif"
+  },
+  {
+    "id": 206,
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Feuer-Frage-206-gif.gif"
+  },
+  {
+    "id": 207,
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?",
+    "answers": [
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant. Sie ist südlich zu passieren.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant. Sie ist westlich zu passieren.",
+        "correct": true
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant. Sie ist nördlich zu passieren.",
+        "correct": false
+      },
+      {
+        "answer": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant. Sie ist östlich zu passieren.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Feuer-Frage-207-gif.gif"
+  },
+  {
+    "id": 208,
+    "question": "Was kennzeichnet eines der folgenden Schifffahrtszeichen und welches Verhalten wird gefordert?",
+    "answers": [
+      {
+        "answer": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann.",
+        "correct": true
+      },
+      {
+        "answer": "Den südlichen Quadranten einer allgemeinen Gefahrenstelle, die südlich passiert werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Den nördlichen Quadranten einer allgemeinen Gefahrenstelle, die nördlich passiert werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Den westlichen Quadranten einer allgemeinen Gefahrenstelle, die westlich passiert werden muss.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Warnzeichen-B15e.gif"
+  },
+  {
+    "id": 209,
+    "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung: Fl. (2)?",
+    "answers": [
+      {
+        "answer": "Westlicher Quadrant einer allgemeinen Gefahrenstelle, die westlich passiert werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Nördlicher Quadrant einer allgemeinen Gefahrenstelle, die nördlich passiert werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Südlicher Quadrant einer allgemeinen Gefahrenstelle, die südlich passiert werden muss.",
+        "correct": false
+      },
+      {
+        "answer": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Was versteht man unter einem Leitfeuer?",
+    "answers": [
+      {
+        "answer": "Sektorenfeuer, das ein Fahrwasser bezeichnet.",
+        "correct": true
+      },
+      {
+        "answer": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist.",
+        "correct": false
+      },
+      {
+        "answer": "Ober- und Unterfeuer, die in Deckung zu bringen sind.",
+        "correct": false
+      },
+      {
+        "answer": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Wie navigiert man mittels eines Leitfeuers?",
+    "answers": [
+      {
+        "answer": "In Fahrtrichtung Ober- und Unterfeuer in Deckung halten.",
+        "correct": false
+      },
+      {
+        "answer": "In Fahrtrichtung an der rechten Seite des weißen Leitsektors halten.",
+        "correct": true
+      },
+      {
+        "answer": "In Fahrtrichtung in der Mitte des weißen Leitsektors halten.",
+        "correct": false
+      },
+      {
+        "answer": "In Fahrtrichtung an der linken Seite des weißen Leitsektors halten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Was versteht man unter einem Richtfeuer?",
+    "answers": [
+      {
+        "answer": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist.",
+        "correct": false
+      },
+      {
+        "answer": "Sektorenfeuer, das ein Fahrwasser bezeichnet.",
+        "correct": false
+      },
+      {
+        "answer": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren.",
+        "correct": false
+      },
+      {
+        "answer": "Ober- und Unterfeuer, die in Deckung zu bringen sind.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question": "Was versteht man unter einem Quermarkenfeuer?",
+    "answers": [
+      {
+        "answer": "Ober- und Unterfeuer, die in Deckung zu bringen sind.",
+        "correct": false
+      },
+      {
+        "answer": "Sektorenfeuer, das ein Fahrwasser bezeichnet.",
+        "correct": false
+      },
+      {
+        "answer": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren.",
+        "correct": false
+      },
+      {
+        "answer": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Wie navigiert man mittels eines Quermarkenfeuers?",
+    "answers": [
+      {
+        "answer": "Beim Erreichen des Ankündigungssektors Ober- und Unterfeuer in Deckung halten.",
+        "correct": false
+      },
+      {
+        "answer": "Beim Erreichen des Kursänderungssektors den Kurs beibehalten.",
+        "correct": false
+      },
+      {
+        "answer": "Beim Übergang vom Ankündigungssektor in den Kursänderungssektor die Kursänderung vornehmen.",
+        "correct": true
+      },
+      {
+        "answer": "Beim Erreichen des Ankündigungssektors die Kursänderung vornehmen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Was versteht man unter einem unterbrochenen Feuer?",
+    "answers": [
+      {
+        "answer": "Die Lichterscheinung ist stets länger als die Verdunkelung.",
+        "correct": true
+      },
+      {
+        "answer": "Die Lichterscheinung ist stets kürzer als 2 Sekunden.",
+        "correct": false
+      },
+      {
+        "answer": "Die Lichterscheinung ist stets kürzer als die Verdunkelung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Lichterscheinung ist stets gleich lang wie die Verdunkelung.",
+        "correct": false
+      }
+    ]
   }
 ]
