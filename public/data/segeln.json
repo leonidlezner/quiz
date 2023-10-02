@@ -3229,5 +3229,335 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 216,
+    "question": "Wo findet man die Grenzen der Naturschutzgebiete auf See?",
+    "answers": [
+      {
+        "answer": "In der Seeschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      },
+      {
+        "answer": "Im Bundesnaturschutzgesetz.",
+        "correct": false
+      },
+      {
+        "answer": "In Seekarten und Sportschifffahrtskarten des Bundesamtes für Seeschifffahrt und Hydrographie.",
+        "correct": true
+      },
+      {
+        "answer": "In den Kollisionsverhütungsregeln.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Wo findet man auszugsweise Hinweise zu Befahrensmöglichkeiten der Naturschutzgebiete in Küstengewässern?",
+    "answers": [
+      {
+        "answer": "Im Bundesnaturschutzgesetz.",
+        "correct": false
+      },
+      {
+        "answer": "In den Kollisionsverhütungsregeln.",
+        "correct": false
+      },
+      {
+        "answer": "In Seekarten und Sportschifffahrtskarten des Bundesamtes für Seeschifffahrt und Hydrographie.",
+        "correct": true
+      },
+      {
+        "answer": "In der Seeschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question": "Weshalb sollte das Anlaufen von Seehundbänken im Bereich der Watten vermieden werden?",
+    "answers": [
+      {
+        "answer": "Tiefenangaben zu Seehundbänken sind im Kartenwerk nicht verzeichnet.",
+        "correct": false
+      },
+      {
+        "answer": "Die Tiere sollen nicht gestört oder vertrieben werden.",
+        "correct": true
+      },
+      {
+        "answer": "Im Bereich von Seehundbänken ist mit Untiefen zu rechnen.",
+        "correct": false
+      },
+      {
+        "answer": "Seehundbänke sind gesperrte Wasserflächen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Welcher Abstand sollte gemäß den \"10 Goldenen Regeln\" für das Verhalten von Wassersportlern mindestens zu Liegeplätzen von Seehunden und zu Vogelansammlungen eingehalten werden?",
+    "answers": [
+      {
+        "answer": "200 m bis 300 m.",
+        "correct": false
+      },
+      {
+        "answer": "150 m bis 200 m.",
+        "correct": false
+      },
+      {
+        "answer": "100 m bis 300 m.",
+        "correct": false
+      },
+      {
+        "answer": "300 m bis 500 m.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Was versteht man unter einem Blinkfeuer?",
+    "answers": [
+      {
+        "answer": "Lichterscheinung länger als Verdunkelung, Blink mindestens 2 s lang.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung kürzer als Verdunkelung, Blink weniger als 2 s lang.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung länger als Verdunkelung, Blink weniger als 2 s lang.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung kürzer als Verdunkelung, Blink mindestens 2 s lang.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "question": "Was versteht man unter einem Blitzfeuer?",
+    "answers": [
+      {
+        "answer": "Lichterscheinung länger als Verdunkelung, Blitz mindestens 2 s lang.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung länger als Verdunkelung, Blitz weniger als 2 s lang.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung kürzer als Verdunkelung, Blitz länger als 2 s lang.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung kürzer als Verdunkelung, Blitz weniger als 2 s lang.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Was versteht man unter einem Funkelfeuer?",
+    "answers": [
+      {
+        "answer": "30 bis 40 aufeinanderfolgende Lichterscheinungen pro Minute.",
+        "correct": false
+      },
+      {
+        "answer": "130 bis 150 aufeinanderfolgende Lichterscheinungen pro Minute.",
+        "correct": false
+      },
+      {
+        "answer": "100 bis 120 aufeinanderfolgende Lichterscheinungen pro Minute.",
+        "correct": false
+      },
+      {
+        "answer": "50 bis 60 aufeinanderfolgende Lichterscheinungen pro Minute.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Was versteht man unter einem Gleichtaktfeuer?",
+    "answers": [
+      {
+        "answer": "Lichterscheinung zweifach länger als Verdunkelung.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung länger als Verdunkelung.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung kürzer als Verdunkelung.",
+        "correct": false
+      },
+      {
+        "answer": "Lichterscheinung und Verdunkelung von gleicher Länge.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Was versteht man unter der Wiederkehr eines Leuchtfeuers?",
+    "answers": [
+      {
+        "answer": "Zeitraum vom Einsetzen der Taktkennung bis zum Ende der nächsten gleichen Taktkennung.",
+        "correct": false
+      },
+      {
+        "answer": "Zeitraum vom Einsetzen der Taktkennung bis zum Ende der Taktkennung.",
+        "correct": false
+      },
+      {
+        "answer": "Zeitraum vom Ende der Taktkennung bis zum Einsetzen der nächsten gleichen Taktkennung.",
+        "correct": false
+      },
+      {
+        "answer": "Zeitraum vom Einsetzen der Taktkennung bis zum Einsetzen der nächsten gleichen Taktkennung.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Wie hat man sich beim Befahren von Naturschutzgebieten und Nationalparken zu verhalten?",
+    "answers": [
+      {
+        "answer": "Befahrensregelungen beachten und sich bei der Nationalparkverwaltung anmelden.",
+        "correct": false
+      },
+      {
+        "answer": "Befahrensregelungen beachten sowie Wasserschutzpolizei und Wasserstraßen- und Schifffahrtsamt informieren.",
+        "correct": false
+      },
+      {
+        "answer": "Befahrensregelungen beachten.",
+        "correct": true
+      },
+      {
+        "answer": "Befahrensregelungen sowie Festlegungen der Ordnungsämter beachten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Welche Sondervorschriften enthalten die örtlichen Befahrensregelungen in den Naturschutzgebieten und Nationalparks?",
+    "answers": [
+      {
+        "answer": "Befahrensverbote, meteorologische Beschränkungen, besondere Regelungen für das Befahren der Tiefwasserzonen.",
+        "correct": false
+      },
+      {
+        "answer": "Befahrensverbote, Befahrensbeschränkungen, Geschwindigkeitsbeschränkungen, besondere Regelungen für das Wasserskilaufen, das Fahren mit Wassermotorrädern und das Segelsurfen.",
+        "correct": true
+      },
+      {
+        "answer": "Befahrensverbote, Schifffahrtssperrungen, Geschwindigkeitsbeschränkungen, besondere Regelungen für das Befahren von Windparks.",
+        "correct": false
+      },
+      {
+        "answer": "Befahrensverbote, Befahrensbeschränkungen, Mindestgeschwindigkeiten, besondere Regelungen für das Befahren von Verkehrstrennungsgebieten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Welche Verkehre können in einer ausgewiesenen Erlaubniszone zugelassen werden?",
+    "answers": [
+      {
+        "answer": "Bestimmte Arbeitsgeräte für die Erkundung fossiler Brennstoffe.",
+        "correct": false
+      },
+      {
+        "answer": "Bestimmte Wassersportgeräte.",
+        "correct": true
+      },
+      {
+        "answer": "Bestimmte Bodeneffekt- und Luftkissenfahrzeuge.",
+        "correct": false
+      },
+      {
+        "answer": "Bestimmte Fischereifahrzeuge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Was verstehen Sie gemäß Nordsee-Befahrens-Verordnung (NordSBefV) unter Schnellfahrkorridore?",
+    "answers": [
+      {
+        "answer": "Wasserflächen zum Starten und Landen von Wasserflugzeugen.",
+        "correct": false
+      },
+      {
+        "answer": "Wasserflächen, von denen Taucher 500 m Abstand halten müssen.",
+        "correct": false
+      },
+      {
+        "answer": "Ausgewiesene Wasserflächen für bestimmte Sportbootverkehre.",
+        "correct": false
+      },
+      {
+        "answer": "Ausgewiesene Wasserflächen für den gewerblichen Verkehr.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Wie hoch, soweit die Nordsee-Befahrens-Verordnung (NordSBefV) nicht ausdrücklich etwas anderes bestimmt, ist die maximale Geschwindigkeit, die ein Maschinenfahrzeug in Nationalparken im Bereich der Nordsee fahren darf?",
+    "answers": [
+      {
+        "answer": "12 Knoten über Grund.",
+        "correct": true
+      },
+      {
+        "answer": "12 Knoten Fahrt durchs Wasser.",
+        "correct": false
+      },
+      {
+        "answer": "10 Knoten Fahrt durchs Wasser.",
+        "correct": false
+      },
+      {
+        "answer": "10 Knoten Fahrt über Grund.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Welche Verpflichtung hat man als Bootsführer, um einen Beitrag zur Reinhaltung der Gewässer zu leisten?",
+    "answers": [
+      {
+        "answer": "Abfälle und Öle nur auf offener See entsorgen.",
+        "correct": false
+      },
+      {
+        "answer": "Nur Bioabfälle und restentleerte Behälter auf See entsorgen.",
+        "correct": false
+      },
+      {
+        "answer": "Abwässer in Ufer- und Strandnähe sowie in Häfen einleiten.",
+        "correct": false
+      },
+      {
+        "answer": "Sämtliche Abfälle einschließlich Öle und Betriebsstoffe an Bord in geeigneten Behältern sammeln und an Land vorschriftsmäßig entsorgen.",
+        "correct": true
+      }
+    ]
   }
 ]
