@@ -3559,5 +3559,445 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 231,
+    "question": "Welche amtlichen nautischen Veröffentlichungen geben Aufschluss über das Fahrtgebiet?",
+    "answers": [
+      {
+        "answer": "Seekarten, Leuchtfeuerverzeichnis, Seehandbücher, Gezeitentafeln oder -kalender, Funkdienst für die Klein- und Sportschifffahrt, Nachrichten für Seefahrer (NfS), Bekanntmachungen für Seefahrer (BfS).",
+        "correct": true
+      },
+      {
+        "answer": "Seeschifffahrtsstraßen-Ordnung, Leuchtfeuerverzeichnis, Seehandbücher, Verordnung über die Sicherung der Seefahrt, Gezeitentafeln oder -kalender, Bekanntmachungen der Generaldirektion Wasserstraßen und Schifffahrt (GDWS).",
+        "correct": false
+      },
+      {
+        "answer": "Schifffahrtspolizeiliche Anordnungen, Gezeitentafeln oder Funkdienst für die Klein- und Sportschifffahrt, Nachrichten für Seefahrer (NfS), Bekanntmachungen für Seefahrer (BfS).",
+        "correct": false
+      },
+      {
+        "answer": "Seekarten, Verordnung über die Sicherung der Seefahrt, Seehandbücher, Gezeitentafeln oder -kalender, Funkdienst für die Klein- und Sportschifffahrt, Nachrichten für Seefahrer (NfS).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Welche Angaben enthalten die Nachrichten für Seefahrer (NfS) und die Bekanntmachungen für Seefahrer (BfS)?",
+    "answers": [
+      {
+        "answer": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere die Schifffahrt betreffende meteorologische Hinweise.",
+        "correct": false
+      },
+      {
+        "answer": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks sowie die aktuellen Wasserstände.",
+        "correct": false
+      },
+      {
+        "answer": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere die Schifffahrt betreffende Maßnahmen und Ereignisse.",
+        "correct": true
+      },
+      {
+        "answer": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere Änderungen der Seeschifffahrtsstraßen-Ordnung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Welchen Effekt können Wind und gegenläufiger Tidenstrom im Bereich von Seegaten haben?",
+    "answers": [
+      {
+        "answer": "Der Tidenstrom wird durch den Wind verstärkt.",
+        "correct": false
+      },
+      {
+        "answer": "Keinen.",
+        "correct": false
+      },
+      {
+        "answer": "Steile und aufbäumende Seen (Brecher).",
+        "correct": true
+      },
+      {
+        "answer": "Der Tidenstrom glättet die Windsee.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Wo findet man Angaben über Küsten-, Häfen- und Naturverhältnisse?",
+    "answers": [
+      {
+        "answer": "Im Nautischen Revierfunkdienst.",
+        "correct": false
+      },
+      {
+        "answer": "In den Bekanntmachungen und Nachrichten für Seefahrer.",
+        "correct": false
+      },
+      {
+        "answer": "In der Seekarte INT1.",
+        "correct": false
+      },
+      {
+        "answer": "In den See- und Hafenhandbüchern.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Wovon sollte man sich vor Gebrauch einer Seekarte überzeugen?",
+    "answers": [
+      {
+        "answer": "Dass die Karte auf den neuesten Stand berichtigt ist.",
+        "correct": true
+      },
+      {
+        "answer": "Dass die Nummerierung mit dem Katalog übereinstimmt.",
+        "correct": false
+      },
+      {
+        "answer": "Dass die obere Kante in Nordrichtung weist.",
+        "correct": false
+      },
+      {
+        "answer": "Dass die Seekarte auf mittleres Tidehochwasser bezogen ist.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "In welchen Maßeinheiten werden in deutschen Seekarten die Tiefen angegeben?",
+    "answers": [
+      {
+        "answer": "In Meter und Dezimeter.",
+        "correct": true
+      },
+      {
+        "answer": "In Fuß und Inch.",
+        "correct": false
+      },
+      {
+        "answer": "In Meter und Zentimeter.",
+        "correct": false
+      },
+      {
+        "answer": "In Dezimeter und Zentimeter.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Wo findet man Bedeutungen und Erläuterungen zu Zeichen, Abkürzungen und Begriffen in deutschen Seekarten?",
+    "answers": [
+      {
+        "answer": "In den Seehandbüchern.",
+        "correct": false
+      },
+      {
+        "answer": "In allen Seekarten unten links.",
+        "correct": false
+      },
+      {
+        "answer": "In den Leuchtfeuerverzeichnissen.",
+        "correct": false
+      },
+      {
+        "answer": "In der INT1/Karte 1.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Wo findet man die für die Navigation wichtigen Beschreibungen der Schifffahrtszeichen, Angaben über deren Befeuerung und Angaben über Signalstellen?",
+    "answers": [
+      {
+        "answer": "Leuchtfeuerverzeichnis, Seehandbuch, Seekarten.",
+        "correct": true
+      },
+      {
+        "answer": "Leuchtfeuerverzeichnis, Seehandbuch, Gezeitenatlas.",
+        "correct": false
+      },
+      {
+        "answer": "Leuchtfeuerverzeichnis, Seehandbuch, Handbuch für Brücke und Kartenhaus.",
+        "correct": false
+      },
+      {
+        "answer": "Leuchtfeuerverzeichnis, Seehandbuch, Kollisionsverhütungsregeln.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Wo entnimmt man in der Seekarte die Seemeilen?",
+    "answers": [
+      {
+        "answer": "An der in der Seekarte abgebildeten Kompassrose.",
+        "correct": false
+      },
+      {
+        "answer": "Am oberen oder unteren Kartenrand in Höhe des Standortes.",
+        "correct": false
+      },
+      {
+        "answer": "Am rechten oder linken Kartenrand in Höhe des Standortes.",
+        "correct": true
+      },
+      {
+        "answer": "Aus der in der Seekarte abgebildeten Entfernungstabelle.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Was versteht man unter einer Seemeile und wie lang ist eine Seemeile (in Metern)?",
+    "answers": [
+      {
+        "answer": "Die Länge einer Bogenminute auf dem Nullmeridian, 18,52 km.",
+        "correct": false
+      },
+      {
+        "answer": "Die Länge einer Bogenminute auf einem größten Kreis der Erdkugel, 1.852 m.",
+        "correct": true
+      },
+      {
+        "answer": "Sie entspricht der in einer Stunde zurückgelegten Distanz in Meter, 16,52 km.",
+        "correct": false
+      },
+      {
+        "answer": "Die Länge einer Bogenminute auf einem Breitenparallel, 1.652 m.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Was versteht man unter dem Geschwindigkeitsbegriff \"Knoten\"?",
+    "answers": [
+      {
+        "answer": "Das sind die an einem Tag zurückgelegten Seemeilen.",
+        "correct": false
+      },
+      {
+        "answer": "Das sind die in einer Stunde zurückgelegten Kilometer.",
+        "correct": false
+      },
+      {
+        "answer": "Das sind die in einer Stunde zurückgelegten Seemeilen.",
+        "correct": true
+      },
+      {
+        "answer": "Das sind die von Mittag bis Mittag zurückgelegten Seemeilen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Woraus entnimmt man die Magnetkompassablenkung?",
+    "answers": [
+      {
+        "answer": "Aus dem Betriebshandbuch des Kompassherstellers.",
+        "correct": false
+      },
+      {
+        "answer": "Aus dem Nautischen Handbuch für Kompassfehlweisung.",
+        "correct": false
+      },
+      {
+        "answer": "Aus der Kompassrose der aktuellen Seekarte.",
+        "correct": false
+      },
+      {
+        "answer": "Aus der für das betreffende Schiff aufgestellten Deviationstabelle.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Was versteht man in der terrestrischen Navigation unter einer Peilung?",
+    "answers": [
+      {
+        "answer": "Das Feststellen des Koppelortes durch Winkelmessung.",
+        "correct": false
+      },
+      {
+        "answer": "Das Feststellen der Richtung eines bekannten feststehenden Objektes durch Winkelmessung.",
+        "correct": true
+      },
+      {
+        "answer": "Das Feststellen der Entfernung zu einem bekannten feststehenden Objekt.",
+        "correct": false
+      },
+      {
+        "answer": "Das Feststellen der Abweichung des Steuerkompasses vom Peilkompass.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Wie erhält man eine Standlinie?",
+    "answers": [
+      {
+        "answer": "Durch mehrmaliges Peilen eines anderen Fahrzeugs.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Eintragen des rechtweisenden Kurses in die Seekarte.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Eintragung der Peilung in die Seekarte ohne Berücksichtigung der Fehlweisung.",
+        "correct": false
+      },
+      {
+        "answer": "Durch die Peilung eines bekannten feststehenden Objektes und Eintragung der rechtweisenden Peilung in die Seekarte.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Was versteht man unter Stromversetzung?",
+    "answers": [
+      {
+        "answer": "Die Richtung und Stärke der Meeresströmung.",
+        "correct": false
+      },
+      {
+        "answer": "Die Versetzung des Schiffes durch das Wasser in Richtung und Distanz.",
+        "correct": false
+      },
+      {
+        "answer": "Die Versetzung des Schiffes vom Magnetkompasskurs.",
+        "correct": false
+      },
+      {
+        "answer": "Die Versetzung des Schiffes über Grund in Richtung und Distanz.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Was versteht man unter Windversetzung?",
+    "answers": [
+      {
+        "answer": "Die Versetzung des Schiffes durch das Wasser in Richtung und Distanz.",
+        "correct": false
+      },
+      {
+        "answer": "Die Versetzung des Schiffes vom Magnetkompasskurs.",
+        "correct": false
+      },
+      {
+        "answer": "Die Richtung und Stärke des Windes und der Windsee.",
+        "correct": false
+      },
+      {
+        "answer": "Die Versetzung des Schiffes über Grund in Richtung und Distanz.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Was versteht man unter einem Koppelort?",
+    "answers": [
+      {
+        "answer": "Schiffsort, der unter Berücksichtigung der gesteuerten Kurse und zurückgelegten Distanzen und aller vorhersehbaren Einflüsse rechnerisch und zeichnerisch ermittelt wird.",
+        "correct": true
+      },
+      {
+        "answer": "Schiffsort, der durch Eintragung der rechtweisenden Peilungen zweier feststehender und bekannter Objekte als Standlinien in die Seekarte ermittelt wird; ihr Schnittpunkt ist der Standort.",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsort, der ermittelt wird durch Peilung zweier feststehender und bekannter Objekte, die in einem möglichst rechten Winkel (90 Grad) zueinander stehen.",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsort, der unter Berücksichtigung der gesteuerten Kurse und zurückgelegten Distanzen infolge mehrerer Peilungen ermittelt wird.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Was ist bei der Aufstellung eines Magnetkompasses an Bord zu beachten?",
+    "answers": [
+      {
+        "answer": "Der Kompass muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbar sein und darf nicht in der Nähe von Eisenteilen aufgestellt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Der Kompass muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbare Zahlen aufweisen und darf nicht in der Nähe von Eisenteilen aufgestellt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Der Steuerstrich muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbare Zahlen aufweisen und darf nicht in der Nähe von Eisenteilen aufgestellt werden.",
+        "correct": false
+      },
+      {
+        "answer": "Der Steuerstrich muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbar sein und darf nicht in der Nähe von Eisenteilen aufgestellt werden.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Was versteht man unter Ebbe?",
+    "answers": [
+      {
+        "answer": "Der niedrigste Wasserstand einer Tide.",
+        "correct": false
+      },
+      {
+        "answer": "Die Differenz zwischen Hoch- und Niedrigwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Den Zeitraum vom Hochwasser zum folgenden Niedrigwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fallen des Wassers vom Hochwasser zum folgenden Niedrigwasser.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Was versteht man unter Flut?",
+    "answers": [
+      {
+        "answer": "Die Differenz zwischen Hoch- und Niedrigwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Den Zeitraum vom Niedrigwasser zum folgenden Hochwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Das Steigen des Wassers vom Niedrigwasser zum folgenden Hochwasser.",
+        "correct": true
+      },
+      {
+        "answer": "Der höchste Wasserstand einer Tide.",
+        "correct": false
+      }
+    ]
   }
 ]
