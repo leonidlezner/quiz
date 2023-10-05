@@ -3999,5 +3999,314 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 251,
+    "question": "Was versteht man unter einer Tide?",
+    "answers": [
+      {
+        "answer": "Der Zeitraum zwischen einem Hochwasser und dem nächstfolgenden Hochwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Hochwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Niedrigwasser.",
+        "correct": true
+      },
+      {
+        "answer": "Der Zeitraum zwischen einem Hochwasser und dem nächstfolgenden Niedrigwasser.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Was versteht man unter einem Niedrigwasser?",
+    "answers": [
+      {
+        "answer": "Steigen des Wassers nach Eintritt des niedrigsten Wasserstands.",
+        "correct": false
+      },
+      {
+        "answer": "Fallen des Wassers nach Eintritt des höchsten Wasserstands.",
+        "correct": false
+      },
+      {
+        "answer": "Eintritt des höchsten Wasserstands beim Übergang vom Steigen zum Fallen.",
+        "correct": false
+      },
+      {
+        "answer": "Eintritt des niedrigsten Wasserstands beim Übergang vom Fallen zum Steigen.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Was versteht man unter einem Hochwasser?",
+    "answers": [
+      {
+        "answer": "Eintritt des höchsten Wasserstands beim Übergang vom Steigen zum Fallen.",
+        "correct": true
+      },
+      {
+        "answer": "Fallen des Wassers nach Eintritt des höchsten Wasserstands.",
+        "correct": false
+      },
+      {
+        "answer": "Eintritt des niedrigsten Wasserstands beim Übergang vom Fallen zum Steigen.",
+        "correct": false
+      },
+      {
+        "answer": "Steigen des Wassers nach Eintritt des niedrigsten Wasserstands.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Was versteht man unter \"Tidenhub\"?",
+    "answers": [
+      {
+        "answer": "Unterschied zwischen den Höhen des Hoch- und des Niedrigwassers.",
+        "correct": true
+      },
+      {
+        "answer": "Unterschied zwischen den Höhen zweier aufeinanderfolgender Hochwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Hochwasser.",
+        "correct": false
+      },
+      {
+        "answer": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Niedrigwasser.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Wo sind für einen bestimmten Ort die Angaben über Hoch- und Niedrigwasserzeiten und den Tidenhub zu finden?",
+    "answers": [
+      {
+        "answer": "Im Gezeitenatlas des Bundesamtes für Seeschifffahrt und Hydrographie.",
+        "correct": false
+      },
+      {
+        "answer": "In den Gezeitentafeln oder dem Gezeitenkalender des Bundesamtes für Seeschifffahrt und Hydrographie.",
+        "correct": true
+      },
+      {
+        "answer": "Im Mondphasenkalender der Bundesanstalt für Gewässerkunde.",
+        "correct": false
+      },
+      {
+        "answer": "In der Flutvorhersage des Bundesamtes für Seeschifffahrt und Hydrographie.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Wie lang sollte eine Schleppleine bei starkem Seegang sein?",
+    "answers": [
+      {
+        "answer": "Mindestens zwei- oder dreifache Wellenhöhe.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens zwei- oder dreifache Wellenlänge.",
+        "correct": true
+      },
+      {
+        "answer": "Mindestens zwei- oder dreifache Wassertiefe.",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens zwei- oder dreifache Schiffslänge.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Was ist zu beachten, wenn ein Sportboot geschleppt werden soll?",
+    "answers": [
+      {
+        "answer": "Die Schleppleine ist den Seegangsverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die der Anhang frei fahrend bei Verdrängerfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Die Schleppleine ist den Seegangsverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die das schleppende Fahrzeug frei fahrend bei Verdrängerfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Die Schleppleine ist den Wetterverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die das schleppende Fahrzeug frei fahrend bei Gleitfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Die Schleppleine ist den Wetterverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die der Anhang frei fahrend bei Gleitfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Womit kann ein steuerunfähiges Sportboot mit dem Bug in den Wind gehalten werden?",
+    "answers": [
+      {
+        "answer": "Mit achteraus ausgebrachtem Treibanker oder ähnlichen schwimmfähigen Gegenständen.",
+        "correct": false
+      },
+      {
+        "answer": "Mit vorn und achtern ausgebrachten Treibankern oder anderen geeigneten schwimmfähigen Gegenständen.",
+        "correct": false
+      },
+      {
+        "answer": "Mit dem Treibanker oder anderen geeigneten schwimmfähigen Gegenständen.",
+        "correct": true
+      },
+      {
+        "answer": "Durch wiederholtes kurzes Ein- und Auskuppeln der Antriebsmaschine.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Warum sollte bei starkem Seegang die Fahrt vermindert werden?",
+    "answers": [
+      {
+        "answer": "Um das Austauchen der Schraube zu vermeiden und Kraftstoff zu sparen.",
+        "correct": false
+      },
+      {
+        "answer": "Um Schäden durch Seeschlag zu vermeiden.",
+        "correct": true
+      },
+      {
+        "answer": "Um die Schlinger- und Rollbewegungen zu minimieren.",
+        "correct": false
+      },
+      {
+        "answer": "Um Schiffs- und Wellenlänge nicht in Resonanz zu bringen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Was bedeutet folgendes Zeichen?",
+    "answers": [
+      {
+        "answer": "Strom aus Richtung Nordwest; Stärke: 3 Knoten; Tidegebiet.",
+        "correct": false
+      },
+      {
+        "answer": "Wind in Richtung Nordwest; Stärke: Bft. 3; wolkenlos.",
+        "correct": false
+      },
+      {
+        "answer": "Strom in Richtung Nordwest; Stärke: 3 Knoten; Tidegebiet.",
+        "correct": false
+      },
+      {
+        "answer": "Wind aus Richtung Nordwest; Stärke: Bft. 3; wolkenlos.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Zeichen-Frage-260-gif.gif"
+  },
+  {
+    "id": 261,
+    "question": "Welche Angaben liefert die Beaufort-Skala?",
+    "answers": [
+      {
+        "answer": "Windstärken von 0 bis 12 und die Auswirkungen auf die Küste.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärken von 0 bis 12 und die Auswirkungen auf die See.",
+        "correct": true
+      },
+      {
+        "answer": "Den Tidenhub an der Küste bei Vollmond und bei Neumond.",
+        "correct": false
+      },
+      {
+        "answer": "Die Wellenhöhe und die Windgeschwindigkeit bei Sturmstärke.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Wie werden Orte gleichen Luftdrucks in der Wetterkarte dargestellt und in welcher Maßeinheit wird der Luftdruck angegeben?",
+    "answers": [
+      {
+        "answer": "Durch Isobaren und in Hektopascal.",
+        "correct": true
+      },
+      {
+        "answer": "Durch Isoklinen und in Dezipascal.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Isoklinen und in Hektopascal.",
+        "correct": false
+      },
+      {
+        "answer": "Durch Isobaren und in Millipascal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Womit muss bei rasch fallendem Luftdruck gerechnet werden?",
+    "answers": [
+      {
+        "answer": "Mit Schwachwind oder Windstille.",
+        "correct": false
+      },
+      {
+        "answer": "Mit Starkwind oder Sturm.",
+        "correct": true
+      },
+      {
+        "answer": "Mit einer Wetterbesserung.",
+        "correct": false
+      },
+      {
+        "answer": "Mit einer Wetterverschlechterung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Was bedeuten die in der Wetterkarte abgebildeten Isobaren?",
+    "answers": [
+      {
+        "answer": "Orte gleicher Windstärke.",
+        "correct": false
+      },
+      {
+        "answer": "Orte gleicher Luftfeuchtigkeit.",
+        "correct": false
+      },
+      {
+        "answer": "Orte gleichen Luftdrucks.",
+        "correct": true
+      },
+      {
+        "answer": "Orte gleicher Wolkenbildung.",
+        "correct": false
+      }
+    ]
   }
 ]
