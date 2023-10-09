@@ -4308,5 +4308,476 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 265,
+    "question": "Was zeigt die folgende Abbildung?",
+    "answers": [
+      {
+        "answer": "Abbildung eines Hochdruckgebietes auf der Südhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa.",
+        "correct": false
+      },
+      {
+        "answer": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa.",
+        "correct": true
+      },
+      {
+        "answer": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa, Zugrichtung Nordwest.",
+        "correct": false
+      },
+      {
+        "answer": "Abbildung eines Hochdruckgebietes auf der Südhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa, Zugrichtung Südwest.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Abbildung-Frage-265.gif"
+  },
+  {
+    "id": 266,
+    "question": "Was zeigt die folgende Abbildung?",
+    "answers": [
+      {
+        "answer": "Abbildung eines Tiefdruckgebietes auf der Südhalbkugel mit Kalt- und Warmfront, Isobaren mit Angabe des Luftdrucks in hPa, kalte und warme Luftströmung.",
+        "correct": false
+      },
+      {
+        "answer": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Kaltfront vor der Warmfront, Angabe des Luftdrucks in hPa, Warmfront südlich, Kaltfront nördlich des Zentrums.",
+        "correct": false
+      },
+      {
+        "answer": "Abbildung eines Tiefdruckgebietes auf der Südhalbkugel mit Warmfront vor der Kaltfront, Angabe des Luftdrucks in hPa, Darstellung des Kalt- und Warmluftstroms.",
+        "correct": false
+      },
+      {
+        "answer": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Warm- und Kaltfront, Isobaren mit Angabe des Luftdrucks in hPa, warme und kalte Luftströmung.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Abbildung-Frage-266.gif"
+  },
+  {
+    "id": 267,
+    "question": "Für welche Windstärken wird eine Starkwindwarnung herausgegeben?",
+    "answers": [
+      {
+        "answer": "Windstärke 7 bis 8 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 4 bis 5 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 6 und 7 der Beaufortskala.",
+        "correct": true
+      },
+      {
+        "answer": "Windstärke 5 und 6 der Beaufortskala.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Für welche Windstärken wird eine Sturmwarnung herausgegeben?",
+    "answers": [
+      {
+        "answer": "Windstärke 6 und mehr der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 9 und mehr der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 8 und mehr der Beaufortskala.",
+        "correct": true
+      },
+      {
+        "answer": "Windstärke 7 und mehr der Beaufortskala.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "question": "Was ist in amtlichen Wetterberichten unter \"frischem Wind\" zu verstehen?",
+    "answers": [
+      {
+        "answer": "Windstärke 4 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 7 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 6 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärke 5 der Beaufortskala.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Was ist in amtlichen Wetterberichten unter \"schwerem Sturm\", \"orkanartigem Sturm\" und \"Orkan\" zu verstehen?",
+    "answers": [
+      {
+        "answer": "Windstärken 8, 9 und 10 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärken 9, 10 und 11 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärken 11, 12 und 13 der Beaufortskala.",
+        "correct": false
+      },
+      {
+        "answer": "Windstärken 10, 11 und 12 der Beaufortskala.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Wie hat man seine Fahrweise im Fahrwasser bei verminderter Sicht aufgrund seemännischer Sorgfaltspflicht einzurichten, wenn das Fahrzeug nicht über die technische Ausrüstung, insbesondere zur Ortung anderer Fahrzeuge, verfügt?",
+    "answers": [
+      {
+        "answer": "Umsichtig, aber zügig weiterfahren, um den übrigen Verkehr nicht zu behindern. Beim Hören fremder Nebelsignale aufstoppen und abwarten, dabei fortlaufend die Wassertiefe loten.",
+        "correct": false
+      },
+      {
+        "answer": "Das Fahrwasser verlassen und wenn möglich, Flachwassergebiet aufsuchen und ankern. Wenn dies nicht möglich ist, im Fahrwasser äußerst rechts halten.",
+        "correct": true
+      },
+      {
+        "answer": "Unverzüglich die Fahrt einstellen und ankern, wenn dies nicht möglich ist, vorsichtig weiterfahren und möglichst im Kielwasser eines vorausfahrenden Fahrzeugs halten.",
+        "correct": false
+      },
+      {
+        "answer": "Im Fahrwasser äußerst rechts halten und den nächstgelegenen Hafen oder Liegeplatz anlaufen. Im Zweifel andere Fahrzeuge nach Position und richtigem Kurs fragen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "question": "Wozu dient primär das Automatische Identifikationssystem (AIS)?",
+    "answers": [
+      {
+        "answer": "Der Kollisionsverhütung.",
+        "correct": true
+      },
+      {
+        "answer": "Der Positionsbestimmung.",
+        "correct": false
+      },
+      {
+        "answer": "Dem Empfang von Wetterdaten.",
+        "correct": false
+      },
+      {
+        "answer": "Dem Senden nautischer Warnnachrichten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "question": "Welche Informationen können über das Automatische Identifikationssystem (AIS) ausgetauscht werden?",
+    "answers": [
+      {
+        "answer": "Schiffsdaten (statisch), reisebezogene Daten.",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsdaten (statisch und dynamisch), Wetterdaten.",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsdaten (dynamisch), Wetterdaten.",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsdaten (statisch und dynamisch), reisebezogene Daten.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Welche Sicherheitsmaßnahmen sind an Bord aufgrund der seemännischen Sorgfaltspflicht neben den in den Kollisionsverhütungsregeln vorgeschriebenen Verhaltensmaßregeln bei verminderter Sicht zu treffen?",
+    "answers": [
+      {
+        "answer": "Insbesondere alle technischen Anlagen, z. B. Radar, Echolot, AIS, Selbststeueranlage, einschalten und die Verkehrszentrale ständig über Kurs und Geschwindigkeit informieren.",
+        "correct": false
+      },
+      {
+        "answer": "Insbesondere alle technischen Anlagen, z. B. Radar, AIS, Echolot, Selbststeueranlage einschalten und in einem Revier mit Landradarberatung die Radarberatung über UKW-Sprechfunk anfordern.",
+        "correct": false
+      },
+      {
+        "answer": "Insbesondere alle Navigationsanlagen sorgfältig gebrauchen, die Sichtbarkeit des eigenen Fahrzeugs erhöhen (z. B. Radarreflektor, AIS) und in einem Revier mit Landradarberatung die Radarberatung über UKW-Sprechfunk mithören.",
+        "correct": true
+      },
+      {
+        "answer": "Insbesondere alle Navigationsanlagen sorgfältig gebrauchen, die Sichtbarkeit des eigenen Fahrzeugs erhöhen (z. B. Radarreflektor, AIS) und die Verkehrszentrale ständig über Kurs und Geschwindigkeit informieren.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Welche Sicherheitsmaßnahmen sind auf See vor Eintritt von schwerem Wetter (Starkwind, Sturm) zu treffen?",
+    "answers": [
+      {
+        "answer": "Verschlusszustand herbeiführen, lose Gegenstände festzurren, Rettungsweste anlegen und andere Rettungsmittel bereithalten; wenn erforderlich und möglich Schutzhafen anlaufen.",
+        "correct": true
+      },
+      {
+        "answer": "Türen schließen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten, Radar, Ruder und UKW besetzen.",
+        "correct": false
+      },
+      {
+        "answer": "Türen schließen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten, Seenotsignalmittel zum Einsatz vorbereiten.",
+        "correct": false
+      },
+      {
+        "answer": "Verschlusszustand herbeiführen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten, Seenotsignalmittel zum Einsatz vorbereiten.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Mit welchen Hilfsmitteln kann eine im Wasser treibende Person schnell und sicher an Bord genommen werden?",
+    "answers": [
+      {
+        "answer": "Leinenverbindung, Badeleiter, Rettungsboje, Bergenetz, Großbaum, Talje.",
+        "correct": false
+      },
+      {
+        "answer": "Leinenverbindung, Badeleiter, Treibanker, Rettungsschlaufe, Bergenetz, Talje.",
+        "correct": false
+      },
+      {
+        "answer": "Leinenverbindung, Rettungsschlaufe, Bergenetz, Talje, Badeleiter, Großbaum.",
+        "correct": true
+      },
+      {
+        "answer": "Leinenverbindung, Großbaum, Ankerkette, Talje, Badeleiter, Rettungsschlaufe.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Was ist zu tun, wenn das Fahrzeug gekentert ist?",
+    "answers": [
+      {
+        "answer": "Möglichst am Fahrzeug bleiben und Seenotsignale geben. Die Besatzung zusammenhalten und unnötigen Kräfteverschleiß vermeiden.",
+        "correct": false
+      },
+      {
+        "answer": "Möglichst am Fahrzeug bleiben und Unfallstelle kennzeichnen; unnötigen Kräfteverschleiß vermeiden und Aufmerksamkeit zur Hilfeleistung erregen.",
+        "correct": false
+      },
+      {
+        "answer": "Möglichst am Fahrzeug bleiben und die Besatzung zusammenhalten; unnötigen Kräfteverschleiß vermeiden und Aufmerksamkeit zur Hilfeleistung erregen.",
+        "correct": true
+      },
+      {
+        "answer": "Möglichst am Fahrzeug bleiben und die Besatzung zusammenhalten; Wertgegenstände und Seetagebuch bergen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "question": "Wie verhindert man das Überbordfallen von Personen bei starkem Seegang?",
+    "answers": [
+      {
+        "answer": "Sicherheitsleinen bzw. -gurte spannen, Besatzung an Deck sammeln. Rettungswesten anlegen.",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitsleinen bzw. -gurte aufschießen, Sicherheitsgurt anlegen und in die Reling einpicken.",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitsleinen bzw. -gurte spannen, Sicherheitsgurt anlegen und an den dafür vorgesehenen Stellen einpicken.",
+        "correct": true
+      },
+      {
+        "answer": "Besatzung in der Plicht versammeln, Rettungswesten anlegen, Sicherheitsleinen bzw. -gurte spannen.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Welche Notsignale können gegeben werden?",
+    "answers": [
+      {
+        "answer": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder.",
+        "correct": true,
+        "media": "./data/media/Notsignal-Frage-279-gif.gif"
+      },
+      {
+        "answer": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder.",
+        "correct": false,
+        "media": "./data/media/Notsignal-Frage-279d-gif.gif"
+      },
+      {
+        "answer": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, Seewasserfärber, seitliches Heben und Senken der Arme, Ball über oder unter Flaggensignal NC, EPIRB, DSC, Radartransponder.",
+        "correct": false,
+        "media": "./data/media/Notsignal-Frage-279-gif.gif"
+      },
+      {
+        "answer": "Leuchtrakete mit orangem Leuchtstern oder orange brennende Handfackel, rotes Rauchsignal, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder.",
+        "correct": false,
+        "media": "./data/media/Notsignal-Frage-279-gif.gif"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Was bedeutet das Flaggensignal \"NC\" auf einem Fahrzeug?",
+    "answers": [
+      {
+        "answer": "Fahrzeug des öffentlichen Dienstes.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug verlässt Liegeplatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug in Seenot.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug mit gefährlichen Gütern.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Was bedeutet anhaltendes Ertönen eines Nebelsignalgerätes von einem Fahrzeug?",
+    "answers": [
+      {
+        "answer": "Fahrzeug mit gefährlichen Gütern.",
+        "correct": false
+      },
+      {
+        "answer": "Achtungssignal.",
+        "correct": false
+      },
+      {
+        "answer": "Bleib-weg-Signal.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug in Seenot.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Was bedeutet das folgende durch Licht oder Schallsignal gegebene Morsesignal?",
+    "answers": [
+      {
+        "answer": "Bleib-weg-Signal.",
+        "correct": false
+      },
+      {
+        "answer": "Nebelsignal.",
+        "correct": false
+      },
+      {
+        "answer": "Überholsignal.",
+        "correct": false
+      },
+      {
+        "answer": "Seenotsignal.",
+        "correct": true
+      }
+    ],
+    "media": "./data/media/Notsignal-Frage-279-gif.gif"
+  },
+  {
+    "id": 283,
+    "question": "Was bedeutet eine Leuchtrakete mit einem roten Stern?",
+    "answers": [
+      {
+        "answer": "Seenotfall.",
+        "correct": true
+      },
+      {
+        "answer": "Aufforderung zum Aufstoppen.",
+        "correct": false
+      },
+      {
+        "answer": "Aufforderung zur Kursänderung.",
+        "correct": false
+      },
+      {
+        "answer": "Schießübung.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Was bedeutet folgendes Flaggensignal?",
+    "answers": [
+      {
+        "answer": "Fahrzeug verlässt Liegeplatz.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug in Seenot.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug mit gefährlichen Gütern.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug des öffentlichen Dienstes.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Flaggensignal-Frage-284-gif.gif"
+  },
+  {
+    "id": 285,
+    "question": "Was bedeutet auf einem Schiff eines der folgenden Signale?",
+    "answers": [
+      {
+        "answer": "Fahrzeug in Seenot.",
+        "correct": true
+      },
+      {
+        "answer": "Fahrzeug ist manövrierbehindert.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug vor Anker mit mehr als 100 m Länge.",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeug mit gefährlichen Gütern.",
+        "correct": false
+      }
+    ],
+    "media": "./data/media/Signal-Frage-285-gif.gif"
   }
 ]
