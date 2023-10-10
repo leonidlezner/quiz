@@ -59,6 +59,24 @@ export default function App() {
     } else {
       setCurrentIndex((prev: number) => (prev >= 0 ? prev : 0));
     }
+
+    const keyCallback = (ev: KeyboardEvent) => {
+      switch (ev.key) {
+        case "ArrowLeft":
+          handleChangeQuestion(false);
+          break;
+
+        case "ArrowRight":
+          handleChangeQuestion(true);
+          break;
+      }
+    };
+
+    document.addEventListener("keydown", keyCallback);
+
+    return () => {
+      document.removeEventListener("keydown", keyCallback);
+    };
   }, []);
 
   const handleChangeQuestion = (toNext: boolean) => {
