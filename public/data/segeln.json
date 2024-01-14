@@ -1,22 +1,220 @@
 [
   {
     "id": 1,
-    "question": "",
+    "question": "„Mobiler Seefunkdienst“ ist mobiler Funkdienst",
     "answers": [
       {
-        "answer": "",
+        "answer": "zwischen Funkstellen, für die keine Zuteilung (Ship Station Licence) notwendig ist",
+        "correct": false
+      },
+      {
+        "answer": "ausschließlich zwischen Seefunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "zwischen Küstenfunkstellen und Seefunkstellen bzw. zwischen Seefunkstellen untereinander",
         "correct": true
       },
       {
-        "answer": "",
+        "answer": "zwischen tragbaren Funkstellen an Bord eines Seefahrzeuges",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Welche Funktion hat das „GMDSS“ (Global Maritime Distress and Safety System)?",
+    "answers": [
+      {
+        "answer": "Positionsbestimmung des Havaristen durch geostationäre Satelliten",
         "correct": false
       },
       {
-        "answer": "",
+        "answer": "Koordinierung der Alarmierung von Seefunkstellen im Seenotfall",
         "correct": false
       },
       {
-        "answer": "",
+        "answer": "Störungsfreier Funkverkehr im Seenotfall",
+        "correct": false
+      },
+      {
+        "answer": "Hilfe in Seenotfällen und Sicherung der Schifffahrt durch schnelle und genaue Alarmierung im Seenotfall",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Zu welchem Zweck wurde das Weltweite Seenot- und Sicherheitsfunksystem (GMDSS) eingeführt?",
+    "answers": [
+      {
+        "answer": "Schnelle Alarmierung in Notfällen",
+        "correct": false
+      },
+      {
+        "answer": "Schnelle und genaue Alarmierung in Not- und Dringlichkeitsfällen",
+        "correct": false
+      },
+      {
+        "answer": "Schnelle und genaue Alarmierung in Not-, Dringlichkeits- und Sicherheitsfällen",
+        "correct": true
+      },
+      {
+        "answer": "Schnelle und genaue Alarmierung in Not- und Sicherheitsfällen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Welche Aufgaben hat die Internationale Fernmeldeunion (International Telecommunication Union [ITU])?",
+    "answers": [
+      {
+        "answer": "Die Internationale Fernmeldeunion (ITU) legt die grundlegenden Regelungen für die internationale Telekommunikation fest",
+        "correct": true
+      },
+      {
+        "answer": "Die Internationale Fernmeldeunion (ITU) legt für alle Nationen der UN, die weltweit Seeschifffahrt betreiben, die Mindeststandards hinsichtlich der Funkausrüstung von Seeschiffen fest",
+        "correct": false
+      },
+      {
+        "answer": "Die Internationale Fernmeldeunion (ITU) rechnet die Gebühren von weltweiten Seefunkgesprächen ab",
+        "correct": false
+      },
+      {
+        "answer": "Die Internationale Fernmeldeunion (ITU) führt als internationale Verkehrsbehörde weltweit die Überwachung des Funkverkehrs durch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Was regelt die Vollzugsordnung für den Funkdienst (VO Funk, engl. Radio Regulations [RR])?",
+    "answers": [
+      {
+        "answer": "Die Vollzugsordnung für den Funkdienst (RR) regelt den freien Funkverkehr zwischen den Seefahrt betreibenden Nationen",
+        "correct": false
+      },
+      {
+        "answer": "Die Vollzugsordnung für den Funkdienst (RR) regelt die Ausrüstung von Seeschiffen bezüglich der Funkeinrichtung",
+        "correct": false
+      },
+      {
+        "answer": "Die Vollzugsordnung für den Funkdienst (RR) regelt die Benutzung von Radaranlagen auf Seeschiffen auf See und in Häfen",
+        "correct": false
+      },
+      {
+        "answer": "Die Vollzugsordnung für den Funkdienst (RR) regelt u. a. die Zuweisung von Frequenzbereichen an die Funkdienste und die Betriebsverfahren im Seefunkdienst",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Welche Publikationen des Bundesamtes für Seeschifffahrt und Hydrographie (BSH) enthalten speziell für die Sportschifffahrt Informationen zum Seefunk?",
+    "answers": [
+      {
+        "answer": "Nautisches Jahrbuch",
+        "correct": false
+      },
+      {
+        "answer": "Mitteilungen für Seefunkstellen und Schiffsfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Funkdienst für die Klein- und Sportschifffahrt",
+        "correct": true
+      },
+      {
+        "answer": "Nachrichten für Seefahrer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Was ist eine „Küstenfunkstelle“?",
+    "answers": [
+      {
+        "answer": "Ortsfeste Funkstelle des mobilen Seefunkdienstes",
+        "correct": true
+      },
+      {
+        "answer": "Funkstelle des Rundfunkdienstes zur Übermittlung von Wetternachrichten für die Schifffahrt",
+        "correct": false
+      },
+      {
+        "answer": "Funkstelle an Bord eines Schiffes im Küstenbereich, über die wichtige Informationen für die Seeschifffahrt verbreitet werden",
+        "correct": false
+      },
+      {
+        "answer": "Funkstelle an Bord eines Schiffes für den Empfang von Funkgesprächen aus dem Mobilfunknetz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Was bedeutet „öffentlicher Funkverkehr“?",
+    "answers": [
+      {
+        "answer": "Funkverkehr, der von jeder Seefunkstelle abgehört werden muss",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr, der im Gegensatz zum Nichtöffentlichen Funkverkehr unverschlüsselt abgewickelt wird",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr, der der Allgemeinheit zum Austausch von Nachrichten dient",
+        "correct": true
+      },
+      {
+        "answer": "Funkverkehr, der nicht dem Fernmeldegeheimnis und dem Abhörverbot unterliegt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Für die Teilnahme am öffentlichen Funkverkehr ist – im Gegensatz zur Teilnahme am Nicht-öffentlichen Funkverkehr – zusätzlich erforderlich",
+    "answers": [
+      {
+        "answer": "Vertrag mit einer Abrechnungsgesellschaft",
+        "correct": true
+      },
+      {
+        "answer": "Zulassung des Funkgeräts",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilung (Ship Station Licence)",
+        "correct": false
+      },
+      {
+        "answer": "Besitz eines Seefunkzeugnisses",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Wodurch erfährt eine Seefunkstelle von einer Küstenfunkstelle, dass dort Nachrichten für sie vorliegen?",
+    "answers": [
+      {
+        "answer": "Individuelle Benachrichtigung oder Abhören von Sammelanrufen",
+        "correct": true
+      },
+      {
+        "answer": "Öffentliche Benachrichtigung mittels NAVTEX",
+        "correct": false
+      },
+      {
+        "answer": "Individuelle Benachrichtigung durch die Abrechnungsgesellschaft",
+        "correct": false
+      },
+      {
+        "answer": "Individuelle Benachrichtigung mittels SMS oder E-Mail",
         "correct": false
       }
     ]
