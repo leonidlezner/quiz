@@ -136,7 +136,7 @@
     "question": "Was ist eine „Küstenfunkstelle“?",
     "answers": [
       {
-        "answer": "Ortsfeste Funkstelle des mobilen Seefunkdienstes",
+        "answer": "*Ortsfeste Funkstelle* des mobilen Seefunkdienstes",
         "correct": true
       },
       {
@@ -166,7 +166,7 @@
         "correct": false
       },
       {
-        "answer": "Funkverkehr, der der Allgemeinheit zum Austausch von Nachrichten dient",
+        "answer": "Funkverkehr, der der *Allgemeinheit zum Austausch* von Nachrichten dient",
         "correct": true
       },
       {
@@ -180,7 +180,7 @@
     "question": "Für die Teilnahme am öffentlichen Funkverkehr ist – im Gegensatz zur Teilnahme am Nicht-öffentlichen Funkverkehr – zusätzlich erforderlich",
     "answers": [
       {
-        "answer": "Vertrag mit einer Abrechnungsgesellschaft",
+        "answer": "Vertrag mit einer *Abrechnungsgesellschaft*",
         "correct": true
       },
       {
@@ -202,7 +202,7 @@
     "question": "Wodurch erfährt eine Seefunkstelle von einer Küstenfunkstelle, dass dort Nachrichten für sie vorliegen?",
     "answers": [
       {
-        "answer": "Individuelle Benachrichtigung oder Abhören von Sammelanrufen",
+        "answer": "Individuelle Benachrichtigung oder *Abhören von Sammelanrufen*",
         "correct": true
       },
       {
@@ -215,6 +215,226 @@
       },
       {
         "answer": "Individuelle Benachrichtigung mittels SMS oder E-Mail",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Was sind die Abrechnungsgrundlagen für ein Seefunkgespräch über eine deutsche Küstenfunkstelle?",
+    "answers": [
+      {
+        "answer": "Gesprächsdauer und Entfernung zur Küstenfunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Gesprächsdauer und Frequenznutzungsgebühren",
+        "correct": false
+      },
+      {
+        "answer": "Gesprächsdauer und Dringlichkeit des Gesprächs",
+        "correct": false
+      },
+      {
+        "answer": "Gesprächsdauer und Preis der Verrechnungseinheiten",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Was ist eine „Sea-Area“ im GMDSS?",
+    "answers": [
+      {
+        "answer": "Festgelegtes Seegebiet",
+        "correct": true
+      },
+      {
+        "answer": "Weltweites Raster zum schnellen Auffinden von verunglückten Fahrzeugen",
+        "correct": false
+      },
+      {
+        "answer": "Im NAVTEX bestimmtes Seegebiet",
+        "correct": false
+      },
+      {
+        "answer": "International festgelegtes Seewarngebiet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Welche Bezeichnungen tragen die Seegebiete, in denen für Schiffe eine bestimmte Funkausrüstung international vorgeschrieben ist?",
+    "answers": [
+      {
+        "answer": "A, B, C, D",
+        "correct": false
+      },
+      {
+        "answer": "NAVAREAS",
+        "correct": false
+      },
+      {
+        "answer": "A1, A2, A3, A4",
+        "correct": true
+      },
+      {
+        "answer": "Küstengewässer, küstennahe Seegewässer, Hohe See",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Eine Yacht befindet sich in einem Seegebiet, das von der Sprechfunkreichweite einer UKW-Küstenfunkstelle abgedeckt wird, die ununterbrochen für DSC-Alarmierungen zur Verfügung steht. In welchem Seegebiet befindet sich das Fahrzeug?",
+    "answers": [
+      {
+        "answer": "Seegebiet A4",
+        "correct": false
+      },
+      {
+        "answer": "Seegebiet A3",
+        "correct": false
+      },
+      {
+        "answer": "Seegebiet A1",
+        "correct": true
+      },
+      {
+        "answer": "Seegebiet A2",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Welches sind die satellitengestützten Alarmierungssysteme im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS)?",
+    "answers": [
+      {
+        "answer": "Eutelsat, Globalstar",
+        "correct": false
+      },
+      {
+        "answer": "COSPAS-SARSAT, Inmarsat",
+        "correct": true
+      },
+      {
+        "answer": "EPIRB, AIS",
+        "correct": false
+      },
+      {
+        "answer": "DSC, COSPAS-SARSAT",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Was wird als „MSI“ bezeichnet?",
+    "answers": [
+      {
+        "answer": "Mittlere Signalstärke des modulierten Eingangssignals",
+        "correct": false
+      },
+      {
+        "answer": "Landeskennung einer Seefunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Nachricht, die die Sicherheit der Seeschifffahrt betrifft",
+        "correct": true
+      },
+      {
+        "answer": "Rufnummer im Seefunkdienst (Maritime Mobile Service Identity)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Welche Aussendung wird als „WX\" bezeichnet?",
+    "answers": [
+      {
+        "answer": "Funktelexaussendung im GMDSS",
+        "correct": false
+      },
+      {
+        "answer": "Wetterbericht",
+        "correct": true
+      },
+      {
+        "answer": "Aussendung, die zurückgenommen wurde",
+        "correct": false
+      },
+      {
+        "answer": "Nautische Warnnachricht",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Welche Aussendung wird als „NX\" bezeichnet?",
+    "answers": [
+      {
+        "answer": "Wetterbericht",
+        "correct": false
+      },
+      {
+        "answer": "Aussendung, die zurückgenommen wurde",
+        "correct": false
+      },
+      {
+        "answer": "Funktelexaussendung im GMDSS",
+        "correct": false
+      },
+      {
+        "answer": "Nautische Warnnachricht",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Was versteht man unter „AIS“?",
+    "answers": [
+      {
+        "answer": "Identifizierung eines Schiffes mit Hilfe von Radarpeilungen und deren Weitergabe an die Schifffahrt zur Kollisionsverhütung",
+        "correct": false
+      },
+      {
+        "answer": "Automatische Aussendung der Kennung eines Seeschiffes jede Minute bzw. beim Loslassen der Sprechtaste",
+        "correct": false
+      },
+      {
+        "answer": "Automatisches Schiffsidentifizierungs- und Überwachungssystem, das statische und dynamische Schiffsdaten auf UKW überträgt",
+        "correct": true
+      },
+      {
+        "answer": "Allgemeines Informationssystem für die Seeschifffahrt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Was bedeutet „ETA“?",
+    "answers": [
+      {
+        "answer": "Voraussichtliche Abfahrtszeit",
+        "correct": false
+      },
+      {
+        "answer": "Voraussichtliche Gesamtfahrtzeit",
+        "correct": false
+      },
+      {
+        "answer": "Voraussichtliche Ankunftszeit",
+        "correct": true
+      },
+      {
+        "answer": "Voraussichtliche Restfahrtzeit",
         "correct": false
       }
     ]
