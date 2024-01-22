@@ -438,5 +438,225 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 21,
+    "question": "Wonach richten sich die Zeitangaben im Seefunkdienst?",
+    "answers": [
+      {
+        "answer": "Greenwich-Zeit (Greenwich Mean Time [GMT])",
+        "correct": false
+      },
+      {
+        "answer": "Ortszeit, bezogen auf den Standort des Schiffes (Local Time [LT])",
+        "correct": false
+      },
+      {
+        "answer": "Koordinierte Weltzeit (Universal Time Co-ordinated [UTC])",
+        "correct": true
+      },
+      {
+        "answer": "Bordzeit, berichtigt nach Sommer- oder Winterzeit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Welche Bedeutung hat die Zeitangabe „LT“ (Local Time)?",
+    "answers": [
+      {
+        "answer": "Ortszeit, bezogen auf den Standort des Schiffes",
+        "correct": true
+      },
+      {
+        "answer": "Zeit, die bei Funkaussendungen in einem bestimmten Seegebiet zu verwenden ist",
+        "correct": false
+      },
+      {
+        "answer": "Zeit, die automatisch durch ein an die Funkanlage angeschlossenes GPS-Gerät übermittelt wird",
+        "correct": false
+      },
+      {
+        "answer": "Zeitzone entsprechend der geografischen Breite des Schiffsortes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Wie bezeichnet man ein funkärztliches Beratungsgespräch?",
+    "answers": [
+      {
+        "answer": "Erste-Hilfe-Gespräch",
+        "correct": false
+      },
+      {
+        "answer": "Medico-Gespräch",
+        "correct": true
+      },
+      {
+        "answer": "Emergency-Gespräch",
+        "correct": false
+      },
+      {
+        "answer": "Medical-Transport-Gespräch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Was ist eine „Seefunkstelle“?",
+    "answers": [
+      {
+        "answer": "Typgeprüfte Funkstelle, die kein ATIS-Signal aussendet",
+        "correct": false
+      },
+      {
+        "answer": "Funkstelle des mobilen Seefunkdienstes an Bord eines nicht dauernd verankerten Seefahrzeuges",
+        "correct": true
+      },
+      {
+        "answer": "Seefunkgerät samt Antenne, das im UKW- bzw. Grenz- und Kurzwellenbereich betrieben wird",
+        "correct": false
+      },
+      {
+        "answer": "Funkstelle, die am GMDSS teilnehmen darf",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Welches Funkzeugnis ist auf einem mit einer Seefunkanlage ausgerüsteten Sportfahrzeug unter deutscher Flagge für den Schiffsführer vorgeschrieben?",
+    "answers": [
+      {
+        "answer": "Für die Bedienung einer Grenz-/Kurzwellenanlage ist das LRC vorgeschrieben, für die Bedienung einer UKW-Anlage zusätzlich das SRC",
+        "correct": false
+      },
+      {
+        "answer": "Ein Funkzeugnis, das zum Bedienen der eingebauten Anlage berechtigt, z. B. SRC oder LRC",
+        "correct": true
+      },
+      {
+        "answer": "Ein SRC bis zur Grenze der Hoheitsgewässer, darüber hinaus ein LRC",
+        "correct": false
+      },
+      {
+        "answer": "Keines, es genügt, wenn eine Person an Bord ist, die die Funkanlage bedienen darf",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Welche Funkanlagen darf der Inhaber eines Beschränkt Gültigen Funkbetriebszeugnisses (Short Range Certificate [SRC]) bedienen?",
+    "answers": [
+      {
+        "answer": "UKW-Funkanlagen für See- und Luftfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "UKW-Funkanlagen im Seefunkdienst auf nicht funkausrüstungspflichtigen Fahrzeugen und auf Traditionsschiffen",
+        "correct": true
+      },
+      {
+        "answer": "UKW-Funkanlagen auf funkausrüstungspflichtigen und nicht funkausrüstungspflichtigen Seeschiffen",
+        "correct": false
+      },
+      {
+        "answer": "UKW-Funkanlagen auf Sportbooten im Seefunkdienst und Binnenschifffahrtsfunk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Welche Sportboote müssen mit einer UKW-Seefunkanlage ausgerüstet sein?",
+    "answers": [
+      {
+        "answer": "Sportboote mit einer Länge über alles von 12 m und mehr",
+        "correct": false
+      },
+      {
+        "answer": "Gewerbsmäßig genutzte Sportboote mit einer Länge über alles von 12 m und mehr",
+        "correct": true
+      },
+      {
+        "answer": "Sportboote mit einer Antriebsmaschine von 3,68 kW und mehr",
+        "correct": false
+      },
+      {
+        "answer": "Gewerbsmäßig genutzte Sportboote mit einer Antriebsmaschine von 3,68 kW und mehr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Welche rechtlichen Voraussetzungen sind für den Betrieb einer Seefunkstelle auf einem Sportfahrzeug und einem Traditionsschiff zu erfüllen?",
+    "answers": [
+      {
+        "answer": "Zuteilung (Ship Station Licence), ausreichendes Seefunkzeugnis einer Person an Bord",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilung (Ship Station Licence), für den Seefunkdienst zugelassene oder in Verkehr gebrachte Funkgeräte, Sportbootführerschein",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilung (Ship Station Licence), für den Seefunkdienst zugelassene oder in Verkehr gebrachte Funkgeräte, ausreichendes Seefunkzeugnis des Fahrzeugführers",
+        "correct": true
+      },
+      {
+        "answer": "Zuteilung (Ship Station Licence), ausreichendes Seefunkzeugnis und Sportbootführerschein des Fahrzeugführers",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Welche Urkunde und welcher Befähigungsnachweis müssen bei der Überprüfung einer Seefunkstelle auf einem Sportfahrzeug dem Prüfbeamten auf Verlangen vorgelegt werden?",
+    "answers": [
+      {
+        "answer": "Seefunkzeugnis des Fahrzeugführers und Eigentumsnachweis",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilung (Ship Station Licence) und Seefunkzeugnis des Fahrzeugführers",
+        "correct": true
+      },
+      {
+        "answer": "Seefunkzeugnis eines Besatzungsmitgliedes und Internationaler Bootsschein (IBS)",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilung (Ship Station Licence) und Sportbootführerschein des Fahrzeugführers",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Die Urkunde über die Zuteilung (Ship Station Licence) zum Betreiben einer Seefunkstelle wird in Deutschland ausgestellt durch …",
+    "answers": [
+      {
+        "answer": "das Wasserstraßen- und Schifffahrtsamt, Hamburg",
+        "correct": false
+      },
+      {
+        "answer": "die Bundesnetzagentur (BNetzA), Außenstelle Hamburg",
+        "correct": true
+      },
+      {
+        "answer": "das Bundesamt für Seeschifffahrt und Hydrographie (BSH), Rostock",
+        "correct": false
+      },
+      {
+        "answer": "die Bundesnetzagentur (BNetzA), Außenstelle Mülheim an der Ruhr",
+        "correct": false
+      }
+    ]
   }
 ]
