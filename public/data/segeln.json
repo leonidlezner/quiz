@@ -658,5 +658,225 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 31,
+    "question": "Welche Urkunde für die Seefunkstelle muss auf einem Sportfahrzeug mitgeführt werden?",
+    "answers": [
+      {
+        "answer": "Zuteilungsurkunde (Ship Station Licence) (in Kopie)",
+        "correct": false
+      },
+      {
+        "answer": "Gerätezulassungsurkunde (im Original)",
+        "correct": false
+      },
+      {
+        "answer": "Gerätezulassungsurkunde (in Kopie)",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilungsurkunde (Ship Station Licence) (im Original)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Was und zu welchem Zweck muss ein Schiffseigner bei Änderung des Schiffsnamens in Bezug auf seine Seefunkstelle veranlassen?",
+    "answers": [
+      {
+        "answer": "Namensänderung dem Wasser- und Schifffahrtsamt, Hamburg schriftlich mitteilen zwecks Änderung des Kennzeichenausweises",
+        "correct": false
+      },
+      {
+        "answer": "Namensänderung dem Bundesamt für Seeschifffahrt und Hydrographie schriftlich mitteilen zwecks Änderung der Gerätezulassungsurkunde)",
+        "correct": false
+      },
+      {
+        "answer": "Namensänderung der Zentralen Verwaltungsstelle schriftlich mitteilen zwecks Änderung des Kennzeichenausweises",
+        "correct": false
+      },
+      {
+        "answer": "Namensänderung der Bundesnetzagentur schriftlich mitteilen zwecks Änderung seiner Zuteilungsurkunde (Ship Station Licence)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Was muss ein Schiffseigner beim Austausch der UKW-Sprechfunkanlage gegen eine UKW-GMDSS-Funkanlage veranlassen?",
+    "answers": [
+      {
+        "answer": "Schriftliche Mitteilung über die Umrüstung an die Bundesnetzagentur",
+        "correct": true
+      },
+      {
+        "answer": "Schriftliche Mitteilung über die Umrüstung an die Zentrale Verwaltungsstelle",
+        "correct": false
+      },
+      {
+        "answer": "Schriftliche Mitteilung über die Umrüstung an das Amtsgericht",
+        "correct": false
+      },
+      {
+        "answer": "Schriftliche Mitteilung über die Umrüstung an das Bundesamt für Seeschifffahrt und Hydrographie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Was ist beim Kauf eines UKW-Sprechfunkgeräts für den Seefunkdienst oder eines UKW-GMDSS-Funkgeräts zu beachten?",
+    "answers": [
+      {
+        "answer": "Das Funkgerät muss für den Seefunkdienst zugelassen oder in Verkehr gebracht worden sein",
+        "correct": true
+      },
+      {
+        "answer": "Das Funkgerät muss funktionsfähig und TÜV-geprüft sein",
+        "correct": false
+      },
+      {
+        "answer": "Das Funkgerät muss eine NAVTEX-Schnittstelle aufweisen oder Wetterberichte empfangen können",
+        "correct": false
+      },
+      {
+        "answer": "Das Funkgerät muss von der Dienststelle Schiffssicherheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr) für Sportboote zugelassen sein",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Wer stellt in Deutschland Funksicherheitszeugnisse für Sportboote aus, die gewerbsmäßig genutzt werden?",
+    "answers": [
+      {
+        "answer": "Dienststelle Schiffssicherheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr)",
+        "correct": true
+      },
+      {
+        "answer": "Bundesnetzagentur (BNetzA)",
+        "correct": false
+      },
+      {
+        "answer": "Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
+        "correct": false
+      },
+      {
+        "answer": "Wasserstraßen- und Schifffahrtsverwaltung (WSV)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Ein Sportboot von 12 Meter Länge und mehr benötigt ein Funksicherheitszeugnis... [36]",
+    "answers": [
+      {
+        "answer": "bei Auslandsfahrten und in internationalen Gewässern",
+        "correct": false
+      },
+      {
+        "answer": "bei Regattateilnahme",
+        "correct": false
+      },
+      {
+        "answer": "bei gewerbsmäßiger Nutzung",
+        "correct": true
+      },
+      {
+        "answer": "in jedem Fall",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Welche Sendeleistungen lassen sich bei einer fest installierten UKW-Seefunkanlage schalten?",
+    "answers": [
+      {
+        "answer": "1 Watt oder maximal 25 Watt",
+        "correct": true
+      },
+      {
+        "answer": "0,1 Watt oder maximal 2,5 Watt",
+        "correct": false
+      },
+      {
+        "answer": "25 Watt oder maximal 50 Watt",
+        "correct": false
+      },
+      {
+        "answer": "1 Watt oder maximal 12 Watt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Welche Behörde erteilt in Deutschland sechsstellige Rufzeichen für Seefunkstellen?",
+    "answers": [
+      {
+        "answer": "Bundesnetzagentur (BNetzA), Außenstelle Mülheim an der Ruhr",
+        "correct": false
+      },
+      {
+        "answer": "Bundesamt für Seeschifffahrt und Hydrographie (BSH), Hamburg",
+        "correct": false
+      },
+      {
+        "answer": "Bundesnetzagentur (BNetzA), Außenstelle Hamburg",
+        "correct": true
+      },
+      {
+        "answer": "Wasser- und Schifffahrtsamt (WSA), Hamburg",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Welche Behörden in Deutschland sind berechtigt, die Funktionsfähigkeit von Seefunkstellen zu überprüfen?",
+    "answers": [
+      {
+        "answer": "Wasser- und Schifffahrtsdirektionen",
+        "correct": false
+      },
+      {
+        "answer": "Bundesnetzagentur (BNetzA) und Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
+        "correct": true
+      },
+      {
+        "answer": "Wasserschutzpolizeibehörden der Küstenländer",
+        "correct": false
+      },
+      {
+        "answer": "Hafenbehörden in den Seehäfen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das mindestens vierstellige Unterscheidungssignal zu? [40]",
+    "answers": [
+      {
+        "answer": "Seeschiffsregister des zuständigen Amtsgerichts",
+        "correct": true
+      },
+      {
+        "answer": "Bundesnetzagentur (BNetzA)",
+        "correct": false
+      },
+      {
+        "answer": "Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
+        "correct": false
+      },
+      {
+        "answer": "Wasser- und Schifffahrtsverwaltung (WSV)",
+        "correct": false
+      }
+    ]
   }
 ]
