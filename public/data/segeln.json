@@ -771,7 +771,7 @@
   },
   {
     "id": 36,
-    "question": "Ein Sportboot von 12 Meter Länge und mehr benötigt ein Funksicherheitszeugnis... [36]",
+    "question": "Ein Sportboot von 12 Meter Länge und mehr benötigt ein Funksicherheitszeugnis...",
     "answers": [
       {
         "answer": "bei Auslandsfahrten und in internationalen Gewässern",
@@ -859,7 +859,7 @@
   },
   {
     "id": 40,
-    "question": "Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das mindestens vierstellige Unterscheidungssignal zu? [40]",
+    "question": "Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das mindestens vierstellige Unterscheidungssignal zu?",
     "answers": [
       {
         "answer": "Seeschiffsregister des zuständigen Amtsgerichts",
@@ -875,6 +875,226 @@
       },
       {
         "answer": "Wasser- und Schifffahrtsverwaltung (WSV)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Welche Art von Funkstelle hat z. B. das Rufzeichen „DDTW“?",
+    "answers": [
+      {
+        "answer": "Küstenfunkstelle des Schiffsmeldedienstes (SMD)",
+        "correct": false
+      },
+      {
+        "answer": "Seefunkstelle an Bord eines deutschen Schiffes, eingetragen in einem Seeschiffsregister",
+        "correct": true
+      },
+      {
+        "answer": "Funkstelle des Nichtöffentlichen Funkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "Funkstelle an Bord eines SAR-Hubschraubers",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Das Abhörverbot und das Fernmeldegeheimnis sind geregelt...",
+    "answers": [
+      {
+        "answer": "im Telekommunikationsgesetz (TKG)",
+        "correct": true
+      },
+      {
+        "answer": "in der Schiffssicherheitsverordnung (SchSV)",
+        "correct": false
+      },
+      {
+        "answer": "im Gesetz über Funkanlagen und Telekommunikationseinrichtungen (FTEG)",
+        "correct": false
+      },
+      {
+        "answer": "in der Vollzugsordnung für den Funkdienst (VO Funk)/in den Radio Regulations (RR)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Wer ist beim Betrieb einer Seefunkstelle auf einem Sportboot zur Wahrung des Fernmeldegeheimnisses und des Abhörverbots verpflichtet?",
+    "answers": [
+      {
+        "answer": "Alle Personen, die das Funkgerät bedienen können",
+        "correct": false
+      },
+      {
+        "answer": "Alle Personen, die vom Schiffsführer ausdrücklich dazu verpflichtet worden sind",
+        "correct": false
+      },
+      {
+        "answer": "Alle Personen, die ständig an Bord sind",
+        "correct": false
+      },
+      {
+        "answer": "Alle Personen, die eine Seefunkstelle beaufsichtigen, bedienen oder Kenntnis über öffentlichen Nachrichtenaustausch erlangt haben",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Welche Nachrichten dürfen uneingeschränkt aufgenommen und verbreitet werden?",
+    "answers": [
+      {
+        "answer": "Aussendungen im Seefunkdienst dürfen uneingeschränkt aufgenommen und verbreitet werden",
+        "correct": false
+      },
+      {
+        "answer": "Aussendungen, die von allgemeinem Interesse sind",
+        "correct": false
+      },
+      {
+        "answer": "Aussendungen, die „An alle Funkstellen“ gerichtet sind",
+        "correct": true
+      },
+      {
+        "answer": "Aussendungen im öffentlichen Seefunkdienst",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Wenn ein Funkgerät ordnungsgemäß in Verkehr gebracht worden ist, trägt es...",
+    "answers": [
+      {
+        "answer": "das *CE-Zeichen*",
+        "correct": true
+      },
+      {
+        "answer": "eine Seriennummer",
+        "correct": false
+      },
+      {
+        "answer": "das GS-Prüfzeichen",
+        "correct": false
+      },
+      {
+        "answer": "das VDE-Prüfzeichen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Zur Teilnahme am Binnenschifffahrtsfunk muss eine Seefunkstelle...",
+    "answers": [
+      {
+        "answer": "mit einer weiteren Seefunkanlage ausgerüstet werden",
+        "correct": false
+      },
+      {
+        "answer": "mit einer umschaltbaren „Kombi-Anlage für Seefunkdienst und Binnenschifffahrtsfunk“ oder einer zusätzlichen Sprechfunkanlage für den Binnenschifffahrtsfunk ausgerüstet werden",
+        "correct": true
+      },
+      {
+        "answer": "mit der MMSI auch eine ATIS-Kennung aussenden",
+        "correct": false
+      },
+      {
+        "answer": "nicht geändert werden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Das Seefunkgerät nimmt bei Empfang einen Strom von 0,5 Ampere auf. Wie lange kann das Funkgerät im Empfangsbetrieb an einer Batterie ohne Nachladen überschlägig betrieben werden, wenn die Kapazität 60 Amperestunden beträgt?",
+    "answers": [
+      {
+        "answer": "90 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "30 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "60 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "120 Stunden",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Welche Auswirkung auf die Betriebsdauer einer Batterie hat der Sendebetrieb einer Seefunkanlage im Vergleich zum Empfangsbetrieb?",
+    "answers": [
+      {
+        "answer": "Betriebsdauer wird verkürzt",
+        "correct": true
+      },
+      {
+        "answer": "Betriebsdauer wird verlängert",
+        "correct": false
+      },
+      {
+        "answer": "Betriebsdauer wird halbiert",
+        "correct": false
+      },
+      {
+        "answer": "Betriebsdauer bleibt gleich",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im Empfangsbetrieb?",
+    "answers": [
+      {
+        "answer": "Je nach Anlage zwischen 2 A und 3 A",
+        "correct": false
+      },
+      {
+        "answer": "Je nach Anlage zwischen 1 A und 2 A",
+        "correct": false
+      },
+      {
+        "answer": "Je nach Anlage zwischen 0,3 A und 1 A",
+        "correct": true
+      },
+      {
+        "answer": "Je nach Anlage zwischen 0,1 A und 0,2 A",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im Sendebetrieb bei 25 Watt Sendeleistung?",
+    "answers": [
+      {
+        "answer": "Zwischen 1 und 2 Ampere",
+        "correct": false
+      },
+      {
+        "answer": "Zwischen 4 und 8 Ampere",
+        "correct": true
+      },
+      {
+        "answer": "Zwischen 10 und 12 Ampere",
+        "correct": false
+      },
+      {
+        "answer": "Zwischen 2 und 3 Ampere",
         "correct": false
       }
     ]
