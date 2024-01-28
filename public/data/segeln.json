@@ -752,7 +752,7 @@
     "question": "Wer stellt in Deutschland Funksicherheitszeugnisse für Sportboote aus, die gewerbsmäßig genutzt werden?",
     "answers": [
       {
-        "answer": "Dienststelle Schiffssicherheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr)",
+        "answer": "Dienststelle Schiffssicherheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (*BG Verkehr*)",
         "correct": true
       },
       {
@@ -782,7 +782,7 @@
         "correct": false
       },
       {
-        "answer": "bei gewerbsmäßiger Nutzung",
+        "answer": "bei *gewerbsmäßiger* Nutzung",
         "correct": true
       },
       {
@@ -826,7 +826,7 @@
         "correct": false
       },
       {
-        "answer": "Bundesnetzagentur (BNetzA), Außenstelle Hamburg",
+        "answer": "Bundesnetzagentur (BNetzA), *Außenstelle Hamburg*",
         "correct": true
       },
       {
@@ -844,7 +844,7 @@
         "correct": false
       },
       {
-        "answer": "Bundesnetzagentur (BNetzA) und Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
+        "answer": "Bundesnetzagentur (*BNetzA*) und Bundesamt für Seeschifffahrt und Hydrographie (*BSH*)",
         "correct": true
       },
       {
@@ -862,7 +862,7 @@
     "question": "Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das mindestens vierstellige Unterscheidungssignal zu?",
     "answers": [
       {
-        "answer": "Seeschiffsregister des zuständigen Amtsgerichts",
+        "answer": "*Seeschiffsregister* des zuständigen Amtsgerichts",
         "correct": true
       },
       {
@@ -906,7 +906,7 @@
     "question": "Das Abhörverbot und das Fernmeldegeheimnis sind geregelt...",
     "answers": [
       {
-        "answer": "im Telekommunikationsgesetz (TKG)",
+        "answer": "im Telekommunikationsgesetz (*TKG*)",
         "correct": true
       },
       {
@@ -958,7 +958,7 @@
         "correct": false
       },
       {
-        "answer": "Aussendungen, die „An alle Funkstellen“ gerichtet sind",
+        "answer": "Aussendungen, die „*An alle* Funkstellen“ gerichtet sind",
         "correct": true
       },
       {
@@ -998,7 +998,7 @@
         "correct": false
       },
       {
-        "answer": "mit einer umschaltbaren „Kombi-Anlage für Seefunkdienst und Binnenschifffahrtsfunk“ oder einer zusätzlichen Sprechfunkanlage für den Binnenschifffahrtsfunk ausgerüstet werden",
+        "answer": "mit einer umschaltbaren „*Kombi-Anlage* für Seefunkdienst und Binnenschifffahrtsfunk“ oder einer zusätzlichen Sprechfunkanlage für den Binnenschifffahrtsfunk ausgerüstet werden",
         "correct": true
       },
       {
@@ -1038,7 +1038,7 @@
     "question": "Welche Auswirkung auf die Betriebsdauer einer Batterie hat der Sendebetrieb einer Seefunkanlage im Vergleich zum Empfangsbetrieb?",
     "answers": [
       {
-        "answer": "Betriebsdauer wird verkürzt",
+        "answer": "Betriebsdauer wird *verkürzt*",
         "correct": true
       },
       {
@@ -1068,7 +1068,7 @@
         "correct": false
       },
       {
-        "answer": "Je nach Anlage zwischen 0,3 A und 1 A",
+        "answer": "Je nach Anlage zwischen *0,3 A und 1 A*",
         "correct": true
       },
       {
@@ -1086,7 +1086,7 @@
         "correct": false
       },
       {
-        "answer": "Zwischen 4 und 8 Ampere",
+        "answer": "Zwischen *4 und 8* Ampere",
         "correct": true
       },
       {
