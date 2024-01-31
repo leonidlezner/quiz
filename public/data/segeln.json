@@ -1098,5 +1098,291 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 51,
+    "question": "Wozu dient am UKW-Gerät die Rauschsperre (Squelch)?",
+    "answers": [
+      {
+        "answer": "Das Rauschen kann stufenlos auf einen angenehmen Wert eingestellt werden",
+        "correct": false
+      },
+      {
+        "answer": "Die Rauschsperre verbessert die Wiedergabe von schwachen Empfangssignalen",
+        "correct": false
+      },
+      {
+        "answer": "Der Lautsprecher des Empfängers wird nur beim Empfang von Notsignalen aktiviert",
+        "correct": false
+      },
+      {
+        "answer": "Der Lautsprecher des Empfängers wird nur ab einem Mindest-Empfangssignalpegel aktiviert",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Welche Eigenschaften des „GPS“ sind für eine GMDSS-Funkanlage von besonderer Bedeutung?",
+    "answers": [
+      {
+        "answer": "Mit Hilfe von GPS kann die genaue Position des Fahrzeugs bestimmt und übermittelt werden. Ebenso kann die genaue Zeit bestimmt werden",
+        "correct": true
+      },
+      {
+        "answer": "Mit Hilfe von GPS ist ein weltweiter Funkverkehr über Satellit zwischen Schiffen untereinander bzw. mit Küstenfunkstellen möglich",
+        "correct": false
+      },
+      {
+        "answer": "Mit Hilfe von GPS erfolgt die Kommunikation mit der Rettungsleitstelle über Satellit",
+        "correct": false
+      },
+      {
+        "answer": "Mit Hilfe von GPS besteht die Möglichkeit der Kommunikation über Inmarsat bzw. COSPAS-SARSAT",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Was bedeutet „DSC“ im mobilen Seefunkdienst?",
+    "answers": [
+      {
+        "answer": "Digitaler Selektivruf",
+        "correct": true
+      },
+      {
+        "answer": "Digitales System für die Telekommunikation an Bord",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf zwei Frequenzen im Gegensatz zu Wechselsprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Funküberwachung auf zwei Funkkanälen (Dual Watch)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Was ist ein „Digitaler Selektivruf“?",
+    "answers": [
+      {
+        "answer": "Aussendung eines digitalen Anrufs auf Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Digitale Aussendung, die bei der gerufenen Funkstelle ein optisches und/oder akustisches Signal auslöst",
+        "correct": true
+      },
+      {
+        "answer": "Funkaussendung an eine ausgewählte Funkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr im GMDSS auf den dafür vorgesehenen Kanälen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Welches technische Verfahren im GMDSS ermöglicht einer Seefunkstelle die Verkehrsaufnahme in den Richtungen Schiff-Küstenfunkstelle und Schiff–Schiff?",
+    "answers": [
+      {
+        "answer": "COSPAS-SARSAT",
+        "correct": false
+      },
+      {
+        "answer": "SMS",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX",
+        "correct": false
+      },
+      {
+        "answer": "DSC",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Welcher Unterschied besteht in der Reichweite bei analoger (Sprechfunk) und bei digitaler Übertragung (DSC) im UKW-Seefunkbereich?",
+    "answers": [
+      {
+        "answer": "Bei digitaler Übertragung besteht kein Unterschied im Vergleich zur analogen Übertragung",
+        "correct": false
+      },
+      {
+        "answer": "Bei digitaler Übertragung kürzere Reichweite im Vergleich zur analogen Übertragung",
+        "correct": false
+      },
+      {
+        "answer": "Bei digitaler Übertragung vierfache Reichweite im Vergleich zur analogen Übertragung",
+        "correct": false
+      },
+      {
+        "answer": "Bei digitaler Übertragung deutlich größere Reichweite im Vergleich zur analogen Übertragung",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Welcher UKW-Kanal wird im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) für die digitale Ankündigung einer Dringlichkeitsmeldung benutzt?",
+    "answers": [
+      {
+        "answer": "Kanal 06",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 10",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Auf welchem UKW-Kanal erfolgt die Alarmierung mittels DSC?",
+    "answers": [
+      {
+        "answer": "Kanal 06",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 10",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Wie wird eine mit DSC-Einrichtungen ausgerüstete Seefunkstelle gekennzeichnet?",
+    "answers": [
+      {
+        "answer": "Schiffsname, Heimathafen, Rufzeichen",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsname, Rufzeichen, Rufnummer des mobilen Seefunkdienstes (MMSI)",
+        "correct": true
+      },
+      {
+        "answer": "Rufnummer des mobilen Seefunkdienstes (MMSI), Schiffsname",
+        "correct": false
+      },
+      {
+        "answer": "Registriernummer des Schiffszertifikates, Rufzeichen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Der mit einem DSC-Gerät aufgenommene Notarlarm wird…",
+    "answers": [
+      {
+        "answer": "nicht gespeichert, sondern ausgedruckt.",
+        "correct": false
+      },
+      {
+        "answer": "Gespeichert, wenn im Speicher noch genügend Platz ist",
+        "correct": false
+      },
+      {
+        "answer": "manuell gespeichert",
+        "correct": false
+      },
+      {
+        "answer": "automatisch gespeichert",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Was wird als „Maritime Mobile Service Identity (MMSI)“ bezeichnet?",
+    "answers": [
+      {
+        "answer": "Landeskennung einer Seefunkstelle (z.B. 211)",
+        "correct": false
+      },
+      {
+        "answer": "Maritimes Informationssystem",
+        "correct": false
+      },
+      {
+        "answer": "Rufnummer im Seefunkdienst",
+        "correct": true
+      },
+      {
+        "answer": "Aussendung, die die Sicherheit der Schifffahrt betrifft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Wie lauten die Maritime Identification Digits (MID) für die Bundesrepublik Deutschland?",
+    "answers": [
+      {
+        "answer": "218 und 226",
+        "correct": false
+      },
+      {
+        "answer": "211 und 219",
+        "correct": false
+      },
+      {
+        "answer": "218 und 224",
+        "correct": false
+      },
+      {
+        "answer": "211 und 218",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Welche Urkunde enthält die eigene Seefunkstellen-Rufnummer (MMSI)?",
+    "answers": [
+      {
+        "answer": "Internationaler Bootsschein",
+        "correct": false
+      },
+      {
+        "answer": "Gerätezulassungsurkunde",
+        "correct": false
+      },
+      {
+        "answer": "Schiffszertifikat",
+        "correct": false
+      },
+      {
+        "answer": "Zuteilungsurkunde (Ship Station Licence)",
+        "correct": true
+      }
+    ]
   }
 ]
