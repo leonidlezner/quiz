@@ -1384,5 +1384,225 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 64,
+    "question": "Wie setzt sich die Seefunkstellen-Rufnummer (MMSI) zusammen?",
+    "answers": [
+      {
+        "answer": "Sieben Ziffern, wobei die ersten beiden Ziffern Nullen sein müssen",
+        "correct": false
+      },
+      {
+        "answer": "Drei Buchstaben und sechs Ziffern",
+        "correct": false
+      },
+      {
+        "answer": "Neun Ziffern, wobei die erste Ziffer eine Null ist",
+        "correct": false
+      },
+      {
+        "answer": "*Neun Ziffern*, wobei die ersten drei Ziffern die *Seefunkkennzahl* (MID) enthalten",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Wie setzt sich die Küstenfunkstellen-Rufnummer (MMSI) zusammen?",
+    "answers": [
+      {
+        "answer": "Neun Ziffern, die ersten drei Ziffern enthalten die Seefunkkennzahl (MID)",
+        "correct": false
+      },
+      {
+        "answer": "Geografischer Ortsname der Küstenfunkstelle, gefolgt von drei Ziffern, die die Seefunkkennzahl (MID) bilden",
+        "correct": false
+      },
+      {
+        "answer": "*Neun Ziffern, die ersten beiden Ziffern Nullen*, die nächsten drei Ziffern enthalten die Seefunkkennzahl (MID)",
+        "correct": true
+      },
+      {
+        "answer": "Internationale Telefon-Vorwahlnummer des Landes, in dem sich die Küstenfunkstelle befindet, gefolgt von fünf besonders festgelegten Ziffern",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Welche Art von Funkstelle des Seefunkdienstes kennzeichnet die Ziffernfolge 002111240?",
+    "answers": [
+      {
+        "answer": "Deutsche Seefunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Deutsche EPIRB",
+        "correct": false
+      },
+      {
+        "answer": "Deutsches SAR-Fahrzeug",
+        "correct": false
+      },
+      {
+        "answer": "Deutsche *Küstenfunkstelle*",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Woran ist die Nationalität der Seefunkstelle in der MMSI erkennbar?",
+    "answers": [
+      {
+        "answer": "Mittlere drei Ziffern der MMSI",
+        "correct": false
+      },
+      {
+        "answer": "*Seefunkkennzahl* (MID)",
+        "correct": true
+      },
+      {
+        "answer": "Letzte drei Ziffern der MMSI",
+        "correct": false
+      },
+      {
+        "answer": "Länderkennung, bestehend aus drei Buchstaben",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Durch die Verbindung mit welchem Gerät ist gewährleistet, dass bei einem DSC-Notalarm die aktuelle Position automatisch mit ausgesendet wird?",
+    "answers": [
+      {
+        "answer": "Radargerät",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX-Empfänger",
+        "correct": false
+      },
+      {
+        "answer": "UKW-Wachempfänger",
+        "correct": false
+      },
+      {
+        "answer": "GPS-Empfänger",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Wie wird der Frequenzbereich von 30 bis 300 MHz bezeichnet?",
+    "answers": [
+      {
+        "answer": "Ultrakurzwelle (UKW/VHF)",
+        "correct": true
+      },
+      {
+        "answer": "Kurzwelle (KW/HF)",
+        "correct": false
+      },
+      {
+        "answer": "Langwelle (LW/LF)",
+        "correct": false
+      },
+      {
+        "answer": "Mittelwelle (MW/MF)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Welches Funkzeugnis muss der Führer eines Sportfahrzeugs oder Traditionsschiffes, das mit einer UKW-Seefunkstelle ausgerüstet ist, mindestens besitzen, um am GMDSS teilnehmen zu dürfen?",
+    "answers": [
+      {
+        "answer": "Allgemeines Betriebszeugnis für Funker (General Operator’s Certificate)",
+        "correct": false
+      },
+      {
+        "answer": "Beschränkt Gültiges Funkbetriebszeugnis (Short Range Certificate)",
+        "correct": true
+      },
+      {
+        "answer": "UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeines Sprechfunkzeugnis für den Seefunkdienst",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "An welchem Funkdienst darf der Inhaber eines Beschränkt Gültigen Funkbetriebszeugnisses (SRC) teilnehmen?",
+    "answers": [
+      {
+        "answer": "Mobiler Seefunkdienst auf Kurzwelle (KW/HF) und Grenzwelle (GW/MF), außer Satellitenfunk",
+        "correct": false
+      },
+      {
+        "answer": "Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF)",
+        "correct": true
+      },
+      {
+        "answer": "Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF) einschließlich Satellitenfunk",
+        "correct": false
+      },
+      {
+        "answer": "Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF) einschließlich Grenzwelle/Kurzwelle",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Was kennzeichnet die Betriebsart „Duplex“?",
+    "answers": [
+      {
+        "answer": "Wechselsprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf zwei Frequenzen",
+        "correct": true
+      },
+      {
+        "answer": "Gegensprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Wechselsprechen auf zwei Frequenzen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Was kennzeichnet die Betriebsart „Simplex“?",
+    "answers": [
+      {
+        "answer": "Gegensprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf zwei Frequenzen",
+        "correct": false
+      },
+      {
+        "answer": "Wechselsprechen auf einer Frequenz",
+        "correct": true
+      },
+      {
+        "answer": "Wechselsprechen auf zwei Frequenzen",
+        "correct": false
+      }
+    ]
   }
 ]
