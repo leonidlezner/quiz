@@ -1604,5 +1604,599 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 74,
+    "question": "Welche Betriebsart wird als „Semi-Duplex“ bezeichnet?",
+    "answers": [
+      {
+        "answer": "Wechselsprechen auf zwei Frequenzen",
+        "correct": true
+      },
+      {
+        "answer": "Wechselsprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf zwei Frequenzen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Welche UKW-Kanäle sind international ausschließlich für den Funkverkehr zwischen Seefunkstellen vorgesehen?",
+    "answers": [
+      {
+        "answer": "Kanäle *06, 08*, 72 und 77",
+        "correct": true
+      },
+      {
+        "answer": "Kanäle 15 und 17",
+        "correct": false
+      },
+      {
+        "answer": "Kanäle 16, 69, 70 und 82",
+        "correct": false
+      },
+      {
+        "answer": "Kanäle 16 und 18, ersatzweise 70",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Für welchen Funkverkehr dürfen die UKW-Kanäle 75 und 76 benutzt werden?",
+    "answers": [
+      {
+        "answer": "Funkverkehr, der ausschließlich die Navigation betrifft",
+        "correct": true
+      },
+      {
+        "answer": "Funkverkehr, der ausschließlich Land-See-Verbindungen betrifft",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr unter Behördenfahrzeugen",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr, der ausschließlich See-Land-Verbindungen betrifft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Atmosphärische Störungen des Funkverkehrs sind …",
+    "answers": [
+      {
+        "answer": "im VHF-Bereich nur bei Verwendung von nicht vertikal angebrachten Antennen vorhanden",
+        "correct": false
+      },
+      {
+        "answer": "gleichzeitig im VHF-Bereich und beim NAVTEX-Empfang vorhanden",
+        "correct": false
+      },
+      {
+        "answer": "im Seefunkverkehr im VHF-Bereich kein Problem",
+        "correct": true
+      },
+      {
+        "answer": "im Seefunkverkehr im VHF-Bereich ein großes Problem",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Wie breiten sich Ultrakurzwellen (UKW/VHF) aus?",
+    "answers": [
+      {
+        "answer": "Abhängig von der Tageszeit",
+        "correct": false
+      },
+      {
+        "answer": "Der Erdkrümmung folgend bis weit hinter den Horizont",
+        "correct": false
+      },
+      {
+        "answer": "In der Ionosphäre reflektiert",
+        "correct": false
+      },
+      {
+        "answer": "Geradlinig und quasioptisch",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Wie werden die internationalen Kanäle im UKW-Seefunkbereich bezeichnet?",
+    "answers": [
+      {
+        "answer": "Kanal 1 bis 20 und 68 bis 88",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 1 bis 28 und 68 bis 88",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 1 bis 28 und 60 bis 88",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 1 bis 28 und 60 bis 87",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Wovon hängt die Reichweite einer UKW-Funkanlage hauptsächlich ab?",
+    "answers": [
+      {
+        "answer": "Tageszeit",
+        "correct": false
+      },
+      {
+        "answer": "Wetter",
+        "correct": false
+      },
+      {
+        "answer": "Bordnetzspannung",
+        "correct": false
+      },
+      {
+        "answer": "Antennenhöhe",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Wie sollen UKW-Antennen ausgerichtet werden?",
+    "answers": [
+      {
+        "answer": "Horizontal",
+        "correct": false
+      },
+      {
+        "answer": "Vertikal",
+        "correct": true
+      },
+      {
+        "answer": "Diagonal",
+        "correct": false
+      },
+      {
+        "answer": "Radial",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Wodurch kann die Abstrahlung der Sendeenergie einer UKW-Anlage auf einem Schiff wesentlich beeinträchtigt werden?",
+    "answers": [
+      {
+        "answer": "Metallische Gegenstände in der Nähe des Antennenkabels",
+        "correct": false
+      },
+      {
+        "answer": "Schräglage des Schiffs",
+        "correct": false
+      },
+      {
+        "answer": "Metallische Gegenstände in der Nähe der Antenne",
+        "correct": true
+      },
+      {
+        "answer": "Wetter",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Was hat keinen Einfluss auf die Reichweite eines UKW-Handsprechfunkgerätes?",
+    "answers": [
+      {
+        "answer": "Schlechtes Wetter",
+        "correct": true
+      },
+      {
+        "answer": "Geringe Sendeleistung",
+        "correct": false
+      },
+      {
+        "answer": "Niedrige Antennenhöhe",
+        "correct": false
+      },
+      {
+        "answer": "Geringer Ladezustand des Akkus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Ist das Senden auf UKW in ausländischen Häfen gestattet?",
+    "answers": [
+      {
+        "answer": "Abhängig von entsprechenden Vorschriften des Landes",
+        "correct": true
+      },
+      {
+        "answer": "Nur am Tage, in der Nacht herrscht Funkstille",
+        "correct": false
+      },
+      {
+        "answer": "Es ist immer gestattet",
+        "correct": false
+      },
+      {
+        "answer": "Außer in Notfällen ist es überall verboten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Wie ist die Rangfolge der Aussendungen im Seefunkdienst festgelegt?",
+    "answers": [
+      {
+        "answer": "Routine, Sicherheit, Dringlichkeit, Not",
+        "correct": false
+      },
+      {
+        "answer": "Routine, Dringlichkeit, Sicherheit, Not",
+        "correct": false
+      },
+      {
+        "answer": "Not, Dringlichkeit, Sicherheit, Routine",
+        "correct": true
+      },
+      {
+        "answer": "Not, Sicherheit, Dringlichkeit, Routine",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Welche Vorkommnisse im Seefunkdienst sollen im Schiffstagebuch dokumentiert werden?",
+    "answers": [
+      {
+        "answer": "Der gesamte DSC-Verkehr sowie wichtige Vorkommnisse, die den Seefunkdienst betreffen",
+        "correct": false
+      },
+      {
+        "answer": "Der GMDSS-Verkehr zwischen Seefunkstellen sowie Fehlalarme und andere wichtige Vorkommnisse, die den Seefunkdienst betreffen",
+        "correct": false
+      },
+      {
+        "answer": "Der *Not-, Dringlichkeits- und Sicherheitsverkehr sowie wichtige Vorkommnisse*, die den Seefunkdienst betreffen",
+        "correct": true
+      },
+      {
+        "answer": "Der Not-, Dringlichkeits- und Sicherheitsverkehr sowie der Routineverkehr zwischen Seefunkstellen und Küstenfunkstellen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Welchem Funkverkehr ist der Nachrichtenaustausch zwischen Küstenfunkstellen des Revier- und Hafenfunkdienstes und Seefunkstellen zuzuordnen?",
+    "answers": [
+      {
+        "answer": "Öffentlicher Funkverkehr",
+        "correct": false
+      },
+      {
+        "answer": "On Board Traffic",
+        "correct": false
+      },
+      {
+        "answer": "Port Radio",
+        "correct": false
+      },
+      {
+        "answer": "Nichtöffentlicher Funkverkehr",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Wozu dient der Revier- und Hafenfunkdienst?",
+    "answers": [
+      {
+        "answer": "Zuweisung von Liegeplätzen innerhalb oder in der Nähe von Häfen",
+        "correct": false
+      },
+      {
+        "answer": "Nachrichtenaustausch innerhalb oder in der Nähe von Häfen über das öffentliche Netz",
+        "correct": false
+      },
+      {
+        "answer": "Verbreitung von Wetterberichten auf dem Revier, innerhalb oder in der Nähe von Häfen",
+        "correct": false
+      },
+      {
+        "answer": "Übermittlung von Nachrichten, die ausschließlich das *Führen, die Fahrt und die Sicherheit von Schiffen* auf dem Revier, innerhalb oder in der Nähe von Häfen betreffen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Welcher Funkdienst gehört neben dem Revier- und Hafenfunkdienst ebenfalls zum Sicherheitsfunkdienst innerhalb des mobilen Seefunkdienstes?",
+    "answers": [
+      {
+        "answer": "Binnenschifffahrtsfunk",
+        "correct": false
+      },
+      {
+        "answer": "Schiffslenkungsfunkdienst",
+        "correct": true
+      },
+      {
+        "answer": "Lotsenfunk",
+        "correct": false
+      },
+      {
+        "answer": "Schleusenfunk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Wer bestimmt bei einer Verbindung zwischen See- und Küstenfunkstelle den für die weitere Verkehrsabwicklung zu benutzenden Arbeitskanal?",
+    "answers": [
+      {
+        "answer": "On-Scene Co-ordinator (OSC)",
+        "correct": false
+      },
+      {
+        "answer": "Seefunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Rufende Funkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Küstenfunkstelle",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Wie ist eine Küstenfunkstelle des Revier- und Hafenfunkdienstes gekennzeichnet?",
+    "answers": [
+      {
+        "answer": "Geografischer Name des Ortes, dem das Wort Radio und die Art des Dienstes folgen",
+        "correct": false
+      },
+      {
+        "answer": "Wort Radio, dem die Art des Dienstes und der geografische Name des Ortes folgen",
+        "correct": false
+      },
+      {
+        "answer": "Radio, dem der geografische Name des Ortes und die Art des Dienstes folgen",
+        "correct": false
+      },
+      {
+        "answer": "Geografischer Name des Ortes, dem die Art des Dienstes und das Wort Radio folgen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Welche Funkstelle wird mit dem Rufnamen „Warnemünde Traffic“ gerufen?",
+    "answers": [
+      {
+        "answer": "Funkstelle des Hafenmeisters der Marina in Warnemünde",
+        "correct": false
+      },
+      {
+        "answer": "Seefunkstelle der DGzRS-Station Warnemünde",
+        "correct": false
+      },
+      {
+        "answer": "Wasserschutzpolizei Warnemünde",
+        "correct": false
+      },
+      {
+        "answer": "Küstenfunkstelle des Revierfunkdienstes in Warnemünde",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Was zeigt das Dringlichkeitszeichen an?",
+    "answers": [
+      {
+        "answer": "Die rufende Funkstelle hat eine sehr dringende Meldung auszusenden, welche die Sicherheit einer mobilen Einheit oder einer Person betrifft",
+        "correct": true
+      },
+      {
+        "answer": "Die rufende Funkstelle hat eine wichtige Meldung auszusenden, welche den Empfang einer Seenotfunkbake (EPIRB) bestätigt",
+        "correct": false
+      },
+      {
+        "answer": "Die rufende Funkstelle hat eine eilige Meldung auszusenden, die eine nautische Warnnachricht zum Inhalt hat",
+        "correct": false
+      },
+      {
+        "answer": "Die rufende Funkstelle hat eine Meldung auszusenden, dass ein Schiff von einer ernsten und unmittelbaren Gefahr bedroht ist und sofortige Hilfe benötigt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Wie lautet das Dringlichkeitszeichen im Sprechfunk?",
+    "answers": [
+      {
+        "answer": "PAN PAN",
+        "correct": true
+      },
+      {
+        "answer": "MAYDAY",
+        "correct": false
+      },
+      {
+        "answer": "URGENCY",
+        "correct": false
+      },
+      {
+        "answer": "SECURITE",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Was wird im Sprechfunk durch das Zeichen PAN PAN angekündigt?",
+    "answers": [
+      {
+        "answer": "Routinemeldung",
+        "correct": false
+      },
+      {
+        "answer": "Dringlichkeitsmeldung",
+        "correct": true
+      },
+      {
+        "answer": "Notmeldung",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitsmeldung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Wie ist im GMDSS zu verfahren, wenn eine dringende Meldung im UKW-Bereich auszusenden ist, welche die Sicherheit einer Person betrifft?",
+    "answers": [
+      {
+        "answer": "Ankündigung und Aussendung der Dringlichkeitsmeldung im Sprechfunk auf Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Ankündigung per Digitalem Selektivruf (DSC) auf Kanal 70 und Aussendung der Dringlichkeitsmeldung auf einem Schiff-Schiff-Kanal",
+        "correct": false
+      },
+      {
+        "answer": "Ankündigung im Sprechfunk auf Kanal 16 und Aussendung der Dringlichkeitsmeldung auf einem Schiff-Schiff-Kanal",
+        "correct": false
+      },
+      {
+        "answer": "Ankündigung per Digitalen Selektivruf (DSC) auf Kanal 70 und Aussendung derDringlichkeitsmeldung im Sprechfunk auf Kanal 16",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Was bedeutet im DSC-Controller die Anzeige „URGENCY“?",
+    "answers": [
+      {
+        "answer": "Die nachfolgende Meldung ist dringend und die Seefunkstelle erbittet nautische Beratung",
+        "correct": false
+      },
+      {
+        "answer": "Die nachfolgende Meldung ist dringend und betrifft die Sicherheit einer mobilen Einheit oder einer Person",
+        "correct": true
+      },
+      {
+        "answer": "Die nachfolgende Meldung ist eine Wetterwarnung und betrifft die Sicherheit der Schifffahrt",
+        "correct": false
+      },
+      {
+        "answer": "Die nachfolgende Meldung ist eine Notmeldung und die Seefunkstelle erbittet sofortige Hilfe",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "An wen dürfen Dringlichkeitsmeldungen im Seefunkdienst grundsätzlich gerichtet werden?",
+    "answers": [
+      {
+        "answer": "An alle Küstenfunkstellen oder die Seenotleitung (MRCC)",
+        "correct": false
+      },
+      {
+        "answer": "An alle Funkstellen oder an eine bestimmte Funkstelle",
+        "correct": true
+      },
+      {
+        "answer": "An alle Küstenfunkstellen oder an alle Funkstellen im Seegebiet A1",
+        "correct": false
+      },
+      {
+        "answer": "An alle Funkstellen im Seegebiet A1 oder an eine bestimmte Funkstelle im Seegebiet A1",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Wie ist zu verfahren, wenn eine an alle Funkstellen ausgesendete Dringlichkeitsmeldung erledigt ist?",
+    "answers": [
+      {
+        "answer": "Dringlichkeitsmeldung muss bei dem Fall „Mensch über Bord“ durch eine Meldung an alle Funkstellen aufgehoben werden",
+        "correct": false
+      },
+      {
+        "answer": "Dringlichkeitsmeldung muss durch eine Meldung an alle Funkstellen aufgehoben werden",
+        "correct": true
+      },
+      {
+        "answer": "Dringlichkeitsmeldung muss durch eine Meldung an die nächste Küstenfunkstelle aufgehoben werden",
+        "correct": false
+      },
+      {
+        "answer": "Dringlichkeitsmeldung muss durch die Meldung SILENCE FINI aufgehoben werden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Wie lautet das Sicherheitszeichen im Seefunkdienst?",
+    "answers": [
+      {
+        "answer": "URGENCY",
+        "correct": false
+      },
+      {
+        "answer": "SECURITE",
+        "correct": true
+      },
+      {
+        "answer": "PAN PAN",
+        "correct": false
+      },
+      {
+        "answer": "MAYDAY",
+        "correct": false
+      }
+    ]
   }
 ]
