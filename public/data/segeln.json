@@ -2198,5 +2198,115 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 101,
+    "question": "Welche Meldung wird mit SECURITE eingeleitet?",
+    "answers": [
+      {
+        "answer": "Dringlichkeitsmeldung",
+        "correct": false
+      },
+      {
+        "answer": "Routinemeldung",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitsmeldung",
+        "correct": true
+      },
+      {
+        "answer": "Notmeldung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Welchen Inhalt kann eine Sicherheitsmeldung haben?",
+    "answers": [
+      {
+        "answer": "Aufhebung eines Fehlalarms oder eine wichtige Wetterwarnung",
+        "correct": false
+      },
+      {
+        "answer": "Wichtige nautische Warnnachricht oder die Weiterleitung eines Notalarms",
+        "correct": false
+      },
+      {
+        "answer": "Aufhebung einer Dringlichkeitsmeldung oder ein Medico-Gespräch",
+        "correct": false
+      },
+      {
+        "answer": "Wichtige nautische Warnnachricht oder eine wichtige Wetterwarnung",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Welche UKW-Kanäle benutzen Sportfahrzeuge für den Funkverkehr untereinander vorzugsweise in den deutschen Hoheitsgewässern?",
+    "answers": [
+      {
+        "answer": "Kanäle 69 oder 70",
+        "correct": false
+      },
+      {
+        "answer": "Kanäle 06 oder 16",
+        "correct": false
+      },
+      {
+        "answer": "Kanäle 10 oder 13",
+        "correct": false
+      },
+      {
+        "answer": "Kanäle 69 oder 72",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Für welche Verkehrsabwicklungen werden UKW-Handsprechfunkgeräte vorzugsweise verwendet?",
+    "answers": [
+      {
+        "answer": "Funkverkehr an Bord, Funkverkehr Schiff–Überlebensfahrzeug",
+        "correct": true
+      },
+      {
+        "answer": "Funkverkehr an Bord, Funkverkehr Schiff–Hafen",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr mit Küstenfunkstellen, Funkverkehr Schiff–Überlebensfahrzeug",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr Schiff–Schiff, Funkverkehr Schiff–SAR-Hubschrauber)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Was ist bei Testsendungen im Sprech-Seefunkdienst zu beachten?",
+    "answers": [
+      {
+        "answer": "Die Aussendungen dürfen 10 Sekunden nicht überschreiten, müssen mit dem Wort „Test“ und mit einer Kennung des Schiffes ausgestrahlt werden",
+        "correct": true
+      },
+      {
+        "answer": "Die Aussendungen dürfen 20 Sekunden nicht überschreiten und müssen mit einer Kennung des Schiffes ausgestrahlt werden",
+        "correct": false
+      },
+      {
+        "answer": "Die Aussendungen dürfen nur außerhalb der Hoheitsgewässer erfolgen",
+        "correct": false
+      },
+      {
+        "answer": "Die Aussendungen dürfen nur einmal nach Einbau des Gerätes ohne Antenne erfolgen und müssen mit dem Wort „Test“ gekennzeichnet werden",
+        "correct": false
+      }
+    ]
   }
 ]
