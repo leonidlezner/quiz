@@ -2308,5 +2308,225 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 106,
+    "question": "Betriebsart wird für den Schiff-Schiff-Verkehr auf UKW im Sprechfunkverfahren verwendet?",
+    "answers": [
+      {
+        "answer": "Wechselsprechen auf einer Frequenz",
+        "correct": true
+      },
+      {
+        "answer": "Wechselsprechen auf zwei Frequenzen",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf einer Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Gegensprechen auf zwei Frequenzen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Der UKW-Kanal 70 dient ausschließlich dem Zweck der Aussendung ...",
+    "answers": [
+      {
+        "answer": "von Peilzeichen",
+        "correct": false
+      },
+      {
+        "answer": "von Positionsmeldungen",
+        "correct": false
+      },
+      {
+        "answer": "des Digitalen Selektivrufs",
+        "correct": true
+      },
+      {
+        "answer": "von Küstenfunkstellen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Welchen Zwecken dient der UKW-Kanal 16 (156,8 MHz) im Seefunkdienst?",
+    "answers": [
+      {
+        "answer": "Aussendung des digitalen Selektivrufs",
+        "correct": false
+      },
+      {
+        "answer": "Notverkehr, Ankündigung einer Sicherheitsmeldung, Routineverkehr, Anrufkanal",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr zwischen Fischereifahrzeugen",
+        "correct": false
+      },
+      {
+        "answer": "Notverkehr, Dringlichkeitsmeldung, Ankündigung einer Sicherheitsmeldung, Anrufkanal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Auf welchem UKW-Kanal muss ein Sportfahrzeug empfangsbereit sein, wenn es sich auf See befindet und mit einer GMDSS-Seefunkanlage ausgerüstet ist?",
+    "answers": [
+      {
+        "answer": "Kanal 69",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 72",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Auf welchem UKW-Kanal sollte ein Sportfahrzeug in der Regel empfangsbereit sein, wenn es sich auf See befindet und nur mit einer UKW-Sprechfunkanlage ausgerüstet ist?",
+    "answers": [
+      {
+        "answer": "Kanal 69",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 06",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Welcher UKW-Kanal ist vorzugsweise für den Schiff-Schiff-Verkehr und für koordinierte Such- und Rettungseinsätze (SAR) vorgesehen?",
+    "answers": [
+      {
+        "answer": "Kanal 72",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 06",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 10",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Welchen Zwecken dienen der Anrufkanal und ein Arbeitskanal?",
+    "answers": [
+      {
+        "answer": "Anrufkanal zur Verbindungsaufnahme, Arbeitskanal zur Abwicklung von Reiseplanungen",
+        "correct": false
+      },
+      {
+        "answer": "Anrufkanal zur Verbindungsaufnahme mit Teilnehmern an Land, Arbeitskanal zur Zuweisung des Schleusenranges",
+        "correct": false
+      },
+      {
+        "answer": "Anrufkanal zur Verbindungsaufnahme, Arbeitskanal nur zur Abwicklung von Notfällen",
+        "correct": false
+      },
+      {
+        "answer": "Anrufkanal zur Verbindungsaufnahme, Arbeitskanal zur Abwicklung des Weiteren Funkverkehrs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Auf welchem Kanal ist eine Küstenfunkstelle zu rufen, die sowohl auf dem Kanal 70 als auch auf Kanal 16 sowie auf einem veröffentlichten Arbeitskanal empfangsbereit ist?",
+    "answers": [
+      {
+        "answer": "Kanal 70 oder Kanal 72",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16 oder Kanal 70",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70 oder Arbeitskanal",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 16 oder Arbeitskanal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Auf welchem Kanal wird eine Küstenfunkstelle ohne DSC im Routineverkehr gerufen?",
+    "answers": [
+      {
+        "answer": "Arbeitskanal",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": false
+      },
+      {
+        "answer": "Ankündigung auf Kanal 16, dann Wechsel zum Arbeitskanal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Was ist vor dem Anruf auf einem Arbeitskanal zu beachten?",
+    "answers": [
+      {
+        "answer": "Die Küstenfunkstelle muss den Arbeitskanal freigeben",
+        "correct": false
+      },
+      {
+        "answer": "Der laufende Funkverkehr *darf nicht gestört* werden",
+        "correct": true
+      },
+      {
+        "answer": "Der laufende Funkverkehr muss aufgefordert werden, den Funkverkehr zu beenden",
+        "correct": false
+      },
+      {
+        "answer": "Die geringste Sendeleistung muss eingestellt werden",
+        "correct": false
+      }
+    ]
   }
 ]
