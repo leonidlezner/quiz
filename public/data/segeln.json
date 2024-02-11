@@ -2528,5 +2528,335 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 116,
+    "question": "Was bedeutet „NAVTEX“?",
+    "answers": [
+      {
+        "answer": "Navigationssystem, das Vorgaben im Funktelexverfahren erhält",
+        "correct": false
+      },
+      {
+        "answer": "Satellitengestütztes Navigationssystem für den Seenotfall",
+        "correct": false
+      },
+      {
+        "answer": "Nautische Warnnachrichten im Funktelexverfahren",
+        "correct": true
+      },
+      {
+        "answer": "MW-Empfänger an Bord eines Seeschiffes zur Aufzeichnung von Wetterberichten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Wie heißt der Dienst, in dem Nachrichten für die Sicherheit der Seeschifffahrt (MSI) über terrestrische Frequenzen verbreitet werden?",
+    "answers": [
+      {
+        "answer": "AIS",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX",
+        "correct": true
+      },
+      {
+        "answer": "AMVER",
+        "correct": false
+      },
+      {
+        "answer": "SafetyNET",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Welchen Dienst bieten der Deutsche Wetterdienst (DWD) und das Bundesamt für Seeschifffahrt und Hydrographie (BSH) auf den Frequenzen 518 kHz und 490 kHz gemeinsam an?",
+    "answers": [
+      {
+        "answer": "SafetyNET",
+        "correct": false
+      },
+      {
+        "answer": "TELEX",
+        "correct": false
+      },
+      {
+        "answer": "AMVER",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Bis zu welcher Entfernung vom Standort des Senders können Sicherheitsmeldungen für die Seeschifffahrt im NAVTEX-Dienst empfangen werden?",
+    "answers": [
+      {
+        "answer": "Ca. 1000 sm",
+        "correct": false
+      },
+      {
+        "answer": "Ca. 600 sm",
+        "correct": true
+      },
+      {
+        "answer": "Ca. 30 sm",
+        "correct": false
+      },
+      {
+        "answer": "Ca. 1500 sm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Worauf muss beim Einstellen eines NAVTEX-Empfängers geachtet werden?",
+    "answers": [
+      {
+        "answer": "Auswählen der gewünschten NAVTEX-Sender und Eingeben der MMSI-Rufnummer",
+        "correct": false
+      },
+      {
+        "answer": "Eingeben der eigenen Position und Auswählen der Art der benötigten Meldungen",
+        "correct": false
+      },
+      {
+        "answer": "Auswählen der Sprache, in der die Nachricht empfangen werden soll, und Unterdrücken nicht benötigter Meldungen",
+        "correct": false
+      },
+      {
+        "answer": "Einstellen der jeweiligen NAVTEX-Sender und Auswählen der Art der benötigten Meldungen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Welche Informationen können bei der Programmierung eines NAVTEX-Empfängers nicht unterdrückt werden?",
+    "answers": [
+      {
+        "answer": "Sat-Nav-Warnungen, Meteorologische Warnungen und Navigationswarnungen",
+        "correct": false
+      },
+      {
+        "answer": "Navigationswarnungen, Wettervorhersagen und SAR-Meldungen",
+        "correct": false
+      },
+      {
+        "answer": "Meteorologische Warnungen, Revierinformationen und SAR-Meldungen",
+        "correct": false
+      },
+      {
+        "answer": "Navigationswarnungen, Meteorologische Warnungen und SAR-Meldungen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "In welcher Sprache werden Nachrichten für die Sicherheit der Seeschifffahrt (MSI) im NAVTEX-Dienst auf 490 kHz verbreitet?",
+    "answers": [
+      {
+        "answer": "Englisch",
+        "correct": false
+      },
+      {
+        "answer": "Niederländisch",
+        "correct": false
+      },
+      {
+        "answer": "Landessprache der Funkstelle",
+        "correct": true
+      },
+      {
+        "answer": "Französisch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "In welchen Zeitabständen werden die regelmäßigen NAVTEX-Informationen vom deutschen NAVTEX-Sender ausgesendet?",
+    "answers": [
+      {
+        "answer": "4 Stunden",
+        "correct": true
+      },
+      {
+        "answer": "24 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "1 Stunde",
+        "correct": false
+      },
+      {
+        "answer": "12 Stunden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Was bezeichnet „NAVAREA“?",
+    "answers": [
+      {
+        "answer": "International festgelegtes Vorhersage- und Seewarngebiet",
+        "correct": true
+      },
+      {
+        "answer": "Internationales Seegebiet, das von Seeschiffen befahren werden darf",
+        "correct": false
+      },
+      {
+        "answer": "Internationales Seegebiet, das nicht befahren werden darf",
+        "correct": false
+      },
+      {
+        "answer": "Internationales Seegebiet, das in vier Gruppen eingeteilt ist (A1 bis A4)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Was bezeichnet „SAR“?",
+    "answers": [
+      {
+        "answer": "Seenotfunkbake",
+        "correct": false
+      },
+      {
+        "answer": "Suche und Rettung",
+        "correct": true
+      },
+      {
+        "answer": "Radartransponder",
+        "correct": false
+      },
+      {
+        "answer": "Sanitätsdienst",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Welche Aufgabe hat ein „RCC“ im Seenotfall?",
+    "answers": [
+      {
+        "answer": "Stationierung von Seenotrettungskreuzern rund um die Uhr",
+        "correct": false
+      },
+      {
+        "answer": "Alarmierung von SAR-Fahrzeugen im Seenotfall über Satellit",
+        "correct": false
+      },
+      {
+        "answer": "Koordinierung der im Seenotfall zur Verfügung stehenden Kräfte und Abwicklung des Notverkehrs",
+        "correct": true
+      },
+      {
+        "answer": "Erteilung von Ratschlägen an den Havaristen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Welche Aufgabe hat ein „MRCC“ im Seenotfall?",
+    "answers": [
+      {
+        "answer": "Erarbeitung von Richtlinien für das Verhalten im Seenotfall",
+        "correct": false
+      },
+      {
+        "answer": "Bereithaltung von Rettungsfahrzeugen im Seenotfall",
+        "correct": false
+      },
+      {
+        "answer": "Erteilung von Ratschlägen an den Havaristen",
+        "correct": false
+      },
+      {
+        "answer": "Koordinierung der im Seenotfall zur Verfügung stehenden Kräfte",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Was ist „On-Scene Communication“?",
+    "answers": [
+      {
+        "answer": "Funkverkehr von Behördenfahrzeugen",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr im Hafenfunk (Port Radio)",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr in Reichweite einer Küstenfunkstelle für UKW",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr vor Ort im Seenotfall",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Welche Aufgabe hat der „On-Scene Coordinator“ (OSC) im SAR-Fall?",
+    "answers": [
+      {
+        "answer": "Festlegung der DSC-Kanäle zur Verständigung der SAR-Einheiten",
+        "correct": false
+      },
+      {
+        "answer": "Kooperation mit der nächstgelegenen Küstenfunkstelle des Revierfunkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "Leitung der Such- und Rettungsmaßnahmen vor Ort",
+        "correct": true
+      },
+      {
+        "answer": "Verbreitung wichtiger SAR-Meldungen rund um die Uhr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Was bedeutet „Funkverkehr vor Ort“?",
+    "answers": [
+      {
+        "answer": "Funkverkehr zwischen dem Fahrzeug, das die Suche und Rettung koordiniert, und der Küstenfunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr zwischen dem Schiff in Not und in der Nähe befindlichen Luftfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr zwischen der Küstenfunkstelle und dem On-Scene Coordinator",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr zwischen dem Schiff in Not und den Fahrzeugen, die Hilfe leisten sowie dem Schiff in Not und dem Fahrzeug, das die Suche und Rettung koordiniert",
+        "correct": true
+      }
+    ]
   }
 ]
