@@ -194,6 +194,17 @@ export default function App() {
         </button>
       </div>
 
+      <div className="mt-10 text-center">
+        <button
+          onClick={() => setRevealCorrect((rev) => !rev)}
+          className={
+            "px-2 py-1 text-sm " + (revealCorrect ? "bg-yellow-200" : "")
+          }
+        >
+          Reveal correct
+        </button>
+      </div>
+
       <div className="mt-10 flex flex-wrap">
         {questions.map((question: IQuestion, index: number) => (
           <div key={question.id}>
@@ -219,17 +230,6 @@ export default function App() {
             </a>
           </div>
         ))}
-      </div>
-
-      <div className="mt-10 text-center">
-        <button
-          onClick={() => setRevealCorrect((rev) => !rev)}
-          className={
-            "px-2 py-1 text-sm " + (revealCorrect ? "bg-yellow-200" : "")
-          }
-        >
-          Reveal correct
-        </button>
       </div>
     </div>
   );
