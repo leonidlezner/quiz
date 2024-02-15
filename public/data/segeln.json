@@ -2858,5 +2858,225 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 131,
+    "question": "Wer darf das Aussenden einer Notmeldung im Seefunkdienst veranlassen?",
+    "answers": [
+      {
+        "answer": "Crewmitglied",
+        "correct": false
+      },
+      {
+        "answer": "Rudergänger",
+        "correct": false
+      },
+      {
+        "answer": "Rettungsleitstelle",
+        "correct": false
+      },
+      {
+        "answer": "Fahrzeugführer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Auf welchem UKW-Kanal müssen alle mit DSC ausgerüsteten seegehenden Schiffe im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS empfangsbereit sein?",
+    "answers": [
+      {
+        "answer": "Kanal 70",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 10",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 06",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Wie lautet das Notzeichen im Sprechfunk?",
+    "answers": [
+      {
+        "answer": "PAN PAN",
+        "correct": false
+      },
+      {
+        "answer": "SOS",
+        "correct": false
+      },
+      {
+        "answer": "MAYDAY",
+        "correct": true
+      },
+      {
+        "answer": "DISTRESS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Womit wird der Notverkehr im Sprechfunk eingeleitet?",
+    "answers": [
+      {
+        "answer": "DISTRESS",
+        "correct": false
+      },
+      {
+        "answer": "SOS",
+        "correct": false
+      },
+      {
+        "answer": "MAYDAY",
+        "correct": true
+      },
+      {
+        "answer": "Schiffsname",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Wann liegt ein Seenotfall vor, der das Aussenden des Notzeichens im Sprechfunk rechtfertigt?",
+    "answers": [
+      {
+        "answer": "Wenn eine nautische Warnnachricht vorliegt, die unbedingt beachtet werden muss",
+        "correct": false
+      },
+      {
+        "answer": "Wenn ein Schiff oder eine Person von einer ernsten und unmittelbaren Gefahr bedroht ist und sofortige Hilfe benötigt",
+        "correct": true
+      },
+      {
+        "answer": "Wenn ein medizinischer Notfall vorliegt, der unmittelbare funkärztliche Beratung erfordert",
+        "correct": false
+      },
+      {
+        "answer": "Wenn ein Schiff manövrierbehindert ist und Hilfe benötigt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Welche Priorität der Alarmierung ist zu wählen, wenn sich eine Person in Lebensgefahr befindet und Hilfe benötigt?",
+    "answers": [
+      {
+        "answer": "Notfall",
+        "correct": true
+      },
+      {
+        "answer": "Sicherheit",
+        "correct": false
+      },
+      {
+        "answer": "Routine",
+        "correct": false
+      },
+      {
+        "answer": "Dringlichkeit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Welche Frequenzen dürfen neben den Notfrequenzen für die Aussendung einer Notmeldung im Seefunkdienst benutzt werden?",
+    "answers": [
+      {
+        "answer": "UKW Kanal 06 (internationaler Verkehr)",
+        "correct": false
+      },
+      {
+        "answer": "Nur Schiff-Schiff-Frequenzen",
+        "correct": false
+      },
+      {
+        "answer": "Keine andere Frequenz",
+        "correct": false
+      },
+      {
+        "answer": "Jede andere verfügbare und geeignete Frequenz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Auf welchem UKW-Kanal findet der Notverkehr vorzugsweise statt?",
+    "answers": [
+      {
+        "answer": "Kanal 16",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 06",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 69",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Welche Meldungen dürfen im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) auf UKW-Kanal 16 (156,8 MHz) übermittelt werden?",
+    "answers": [
+      {
+        "answer": "Notmeldungen, Dringlichkeitsmeldungen und die Ankündigung von Sicherheitsmeldungen",
+        "correct": true
+      },
+      {
+        "answer": "Sicherheits-, Dringlichkeitsmeldungen und Nichtöffentlicher Funkverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Notmeldungen und Routinemeldungen",
+        "correct": false
+      },
+      {
+        "answer": "Dringlichkeitsmeldungen und Meldungen im öffentlichen Funkverkehr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Wann und warum wird die Einleitung eines Notverkehrs wiederholt?",
+    "answers": [
+      {
+        "answer": "Wenn der DSC-Notalarm nur von einer Küstenfunkstelle bestätigt worden ist",
+        "correct": false
+      },
+      {
+        "answer": "Die Einleitung des Notverkehrs wird nach 6 Minuten wiederholt, wenn keine Bestätigung erfolgt ist",
+        "correct": false
+      },
+      {
+        "answer": "Die Einleitung des Notverkehrs darf nicht wiederholt werden, um Fehlalarme zu vermeiden",
+        "correct": false
+      },
+      {
+        "answer": "Wenn die aussendende Seefunkstelle keine Antwort auf ihren DSC-Alarm oder ihre Notmeldung erhalten hat oder wenn sie es aus anderen Gründen für notwendig hält",
+        "correct": true
+      }
+    ]
   }
 ]
