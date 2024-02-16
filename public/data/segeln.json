@@ -3078,5 +3078,225 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 141,
+    "question": "An wen soll eine Seefunkstelle den Notalarm für ein anderes in Not befindliches Schiff richten?",
+    "answers": [
+      {
+        "answer": "Grundsätzlich an die nächstgelegene Küstenfunkstelle oder sonst an alle Funkstellen",
+        "correct": true
+      },
+      {
+        "answer": "Grundsätzlich an alle Seefunkstellen in der Nähe",
+        "correct": false
+      },
+      {
+        "answer": "Grundsätzlich an ein Local User Terminal oder sonst an alle Seefunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Grundsätzlich an das Maritime Lagezentrum beim Havariekommando",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Welche Voraussetzung muss eine Seefunkstelle erfüllen, die den Empfang eines DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigt?",
+    "answers": [
+      {
+        "answer": "Notalarme werden in jedem Fall bestätigt",
+        "correct": false
+      },
+      {
+        "answer": "Eine sichere Funkverbindung muss möglich sein",
+        "correct": false
+      },
+      {
+        "answer": "Sie muss die Seefunkstelle in Not spätestens nach einer Stunde erreichen können",
+        "correct": false
+      },
+      {
+        "answer": "Sie muss Hilfe leisten können",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Wann darf eine Seefunkstelle, wenn sie Hilfe leisten kann, den Empfang eines DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigen?",
+    "answers": [
+      {
+        "answer": "DSC-Notalarme dürfen grundsätzlich nur von Küstenfunkstellen bestätigt werden",
+        "correct": false
+      },
+      {
+        "answer": "Nach einer Wartefrist von 3 Minuten",
+        "correct": false
+      },
+      {
+        "answer": "Nach Bestätigung durch eine Küstenfunkstelle oder einer angemessenen Wartefrist",
+        "correct": true
+      },
+      {
+        "answer": "Sofort nach Empfang des DSC-Notalarms",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Auf welchem UKW-Kanal und in welchem Verfahren bestätigt eine Seefunkstelle den auf Kanal 70 empfangenen Notalarm?",
+    "answers": [
+      {
+        "answer": "Arbeitskanal, Sprechfunkverfahren",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70, DSC",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16, DSC",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16, Sprechfunkverfahren",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Wann wird im Seefunkdienst die Aufforderung SILENCE MAYDAY ausgesendet?",
+    "answers": [
+      {
+        "answer": "Wenn die Funkstelle, die den Notverkehr leitet, die Beendigung des Notverkehrs ankündigen will",
+        "correct": false
+      },
+      {
+        "answer": "Wenn die Funkstelle, die den Notverkehr leitet, störende Funkstellen zur Einhaltung der Funkstille auffordert",
+        "correct": true
+      },
+      {
+        "answer": "Wenn eine Funkstelle sich besondere Aufmerksamkeit für die Verbreitung einer Dringlichkeits- oder Sicherheitsmeldung erbittet",
+        "correct": false
+      },
+      {
+        "answer": "Wenn die Situation des Schiffes in Not besonders kritisch ist",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Wer fordert in einem Seenotfall eine störende Funkstelle mit den Wörtern SILENCE MAYDAY zur Einhaltung der Funkstille auf?",
+    "answers": [
+      {
+        "answer": "Die Funkstelle, die der störenden Funkstelle nächstgelegen ist",
+        "correct": false
+      },
+      {
+        "answer": "Die Funkstelle in Not oder eine Hilfe leistende Luftfunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Die Funkstelle, die den Notverkehr leitet",
+        "correct": true
+      },
+      {
+        "answer": "Die Funkstelle, die die störende Funkstelle als erste empfangen hat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Welche Aufgaben übernimmt die Seenotleitung (Maritime Rescue Co-ordination Centre [MRCC]) nach Eingang eines Notalarms?",
+    "answers": [
+      {
+        "answer": "Koordinierung und Information über die SAR-Maßnahmen",
+        "correct": true
+      },
+      {
+        "answer": "Überwachung Kanäle 16 und 70 sowie Dokumentation der SAR-Maßnahmen",
+        "correct": false
+      },
+      {
+        "answer": "Bestimmung des On-Scene Co-ordinators (OSC)",
+        "correct": false
+      },
+      {
+        "answer": "Leitung des Notverkehrs auf Kanal 70",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Auf welchen UKW-Kanälen ist Bremen Rescue Radio empfangsbereit?",
+    "answers": [
+      {
+        "answer": "Kanal 10 (Sprechfunk), Kanal 70 (DSC)",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 06 (Sprechfunk), Kanal 70 (DSC)",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16 (Sprechfunk), Kanal 10 (DSC)",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16 (Sprechfunk), Kanal 70 (DSC)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Nach welchem Betriebsverfahren wird der Funkverkehr in Notfällen zwischen Seefunkstellen und SAR-Hubschraubern abgewickelt?",
+    "answers": [
+      {
+        "answer": "Betriebsverfahren des Navigationsfunkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "Betriebsverfahren des mobilen Flugfunkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "Betriebsverfahren des mobilen Seefunkdienstes",
+        "correct": true
+      },
+      {
+        "answer": "Betriebsverfahren des Revierfunkdienstes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Welche Veröffentlichung enthält Angaben zu Verfahren, Abkürzungen und international entwickelte Redewendungen für Notfälle?",
+    "answers": [
+      {
+        "answer": "Nachrichten für Seefahrer",
+        "correct": false
+      },
+      {
+        "answer": "Mitteilungen für Seefunkstellen und Schiffsfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Handbuch „Funkdienst für die Klein- und Sportschifffahrt“",
+        "correct": false
+      },
+      {
+        "answer": "Handbuch “Suche und Rettung”",
+        "correct": true
+      }
+    ]
   }
 ]
