@@ -3298,5 +3298,423 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 151,
+    "question": "In welchem Frequenzbereich kann mit SAR-Einheiten Seefunkverkehr abgewickelt werden?",
+    "answers": [
+      {
+        "answer": "UKW-Bereich",
+        "correct": true
+      },
+      {
+        "answer": "VLF-Bereich",
+        "correct": false
+      },
+      {
+        "answer": "UHF-Bereich",
+        "correct": false
+      },
+      {
+        "answer": "MW-Bereich",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Im Funkverkehr zwischen Seefunkstellen und SAR-Hubschraubern gilt das Betriebsverfahren...",
+    "answers": [
+      {
+        "answer": "der Rettungsdienste",
+        "correct": false
+      },
+      {
+        "answer": "des Seefunkdienstes",
+        "correct": true
+      },
+      {
+        "answer": "des Flugfunkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "des Binnenschifffahrtsfunks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Auf welchen UKW-Kanälen dürfen zu Sicherheitszwecken Seefunkstellen mit SAR-Hubschraubern Funkverkehr vorzugsweise abwickeln?",
+    "answers": [
+      {
+        "answer": "Kanal 70, Kanal 16",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16, Kanal 06",
+        "correct": true
+      },
+      {
+        "answer": "Kanal 16, Kanal 10",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 06, Kanal 10",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Wodurch werden in der Regel bei einer Rettungsaktion mit SAR Hubschraubern die Kanäle 16 und 06 überwacht?",
+    "answers": [
+      {
+        "answer": "Zwei unabhängige Seefunkgeräte",
+        "correct": false
+      },
+      {
+        "answer": "Bedarfsweises manuelles Umschalten",
+        "correct": false
+      },
+      {
+        "answer": "Zweikanal-Überwachung (Dual Watch)",
+        "correct": true
+      },
+      {
+        "answer": "Regelmäßiges manuelles Umschalten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Welchen UKW-Kanal soll ein Schiff in Not bis zur Ankunft eines SAR-Hubschraubers abhören?",
+    "answers": [
+      {
+        "answer": "Kanal 06",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 10",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 70",
+        "correct": false
+      },
+      {
+        "answer": "Kanal 16",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Wie ist zu verfahren, wenn während eines Notverkehrs auf Kanal 16 die Ankündigung einer Dringlichkeits- oder Sicherheitsmeldung „An alle Funkstellen“ vorgenommen werden soll?",
+    "answers": [
+      {
+        "answer": "Ankündigung auf Kanal 16 während einer Pause im Notverkehr, Aussendung auf einem Schiff-Schiff-Kanal",
+        "correct": false
+      },
+      {
+        "answer": "Ankündigung mittels Digitalen Selektivrufs (DSC) auf Kanal 70, Ankündigung während einer Pause im Notverkehr auf Kanal 16, Aussendung der Meldung auf einem Schiff-Schiff-Kanal",
+        "correct": true
+      },
+      {
+        "answer": "Ankündigung auf Kanal 06, Information an die Küstenfunkstelle/RCC über den Inhalt der Meldung auf einem Arbeitskanal",
+        "correct": false
+      },
+      {
+        "answer": "Ankündigung mittels Digitalen Selektivrufs (DSC) auf Kanal 70, Information „An alle Funkstellen“ über den Inhalt der Meldung auf Kanal 16",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Was ist zu tun, wenn irrtümlich von einer Seefunkstelle ein Notalarm auf Kanal 70 ausgelöst worden ist?",
+    "answers": [
+      {
+        "answer": "a. Ankündigung der Rücknahme des Notalarms mit DSC, b. Mit Meldung auf Kanal 16 „An alle Funkstellen“ den Fehlalarm zurücknehmen, c. Schiffsführer informieren",
+        "correct": false
+      },
+      {
+        "answer": "a. Gerät umgehend zurücksetzen, b. Wenn möglich, den Fehlalarm per DSC zurücknehmen, c. Mit Meldung auf Kanal 16 „An alle Funkstellen“ den Fehlalarm zurücknehmen",
+        "correct": true
+      },
+      {
+        "answer": "a. Gerät umgehend zurücksetzen, b. Ankündigung der Rücknahme des Notalarms mit DSC, c. Mit Meldung auf Kanal 13 „An alle Funkstellen“ den Fehlalarm zurücknehmen",
+        "correct": false
+      },
+      {
+        "answer": "a. Gerät ausschalten, um weitere Sendungen zu verhindern, b. Eintragung der irrtümlichen Aussendung im Schiffstagebuch, c. Zuständiges MRCC telefonisch informieren",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Womit können im Notfall nach dem Verlassen des havarierten Schiffes keine Such- und Rettungsarbeiten ausgelöst bzw. erleichtert werden?",
+    "answers": [
+      {
+        "answer": "UKW-Empfänger",
+        "correct": true
+      },
+      {
+        "answer": "Transponder für Suche und Rettung (SART)",
+        "correct": false
+      },
+      {
+        "answer": "Handsprechfunkgeräte",
+        "correct": false
+      },
+      {
+        "answer": "Seenotfunkbake (EPIRB)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Welche Komponenten des Weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) werden für die Aussendung von Signalen zur Ortsbestimmung eingesetzt?",
+    "answers": [
+      {
+        "answer": "SART, EPIRB",
+        "correct": true
+      },
+      {
+        "answer": "DSC, EPIRB",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX, EGC",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX, SART",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Wo soll eine Satelliten-Seenotfunkbake (EPIRB) an Bord eines Sportbootes installiert werden?",
+    "answers": [
+      {
+        "answer": "Im äußeren Decksbereich",
+        "correct": true
+      },
+      {
+        "answer": "Geschützt unter Deck",
+        "correct": false
+      },
+      {
+        "answer": "In der Backskiste",
+        "correct": false
+      },
+      {
+        "answer": "In mindestens 1 m Entfernung von Metallteilen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Wann darf eine Satelliten-Seenotfunkbake (EPIRB) für eine Aussendung aktiviert werden?",
+    "answers": [
+      {
+        "answer": "Beim Herannahen von Rettungsfahrzeugen",
+        "correct": false
+      },
+      {
+        "answer": "Zu Testzwecken",
+        "correct": false
+      },
+      {
+        "answer": "Im Notfall und zu Testzwecken",
+        "correct": false
+      },
+      {
+        "answer": "Nur im Notfall",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Wie kann eine Satelliten-Seenotfunkbake (EPIRB) im Notfall aktiviert werden?",
+    "answers": [
+      {
+        "answer": "Manuell oder automatisch",
+        "correct": true
+      },
+      {
+        "answer": "Nur manuell",
+        "correct": false
+      },
+      {
+        "answer": "Nur automatisch",
+        "correct": false
+      },
+      {
+        "answer": "Durch das COSPAS-SARSAT-System",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Wodurch wird eine EPIRB im Seenotfall automatisch aktiviert?",
+    "answers": [
+      {
+        "answer": "Rüttelkontakt",
+        "correct": false
+      },
+      {
+        "answer": "GPS-Signale",
+        "correct": false
+      },
+      {
+        "answer": "Radar-Signale",
+        "correct": false
+      },
+      {
+        "answer": "Wasserdruckauslöser",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Welche Informationen enthält die Aussendung einer Satelliten-Seenotfunkbake (EPIRB)?",
+    "answers": [
+      {
+        "answer": "a. Notsignal, b. Schiffstyp, c. Art des Notfalls",
+        "correct": false
+      },
+      {
+        "answer": "a. Position mittels GPS, wenn vorhanden, b. Identifikationsmerkmal c. Zielhafen",
+        "correct": false
+      },
+      {
+        "answer": "a. Art des Notfalls, b. Position mittels GPS, wenn vorhanden, c. Rufzeichen",
+        "correct": false
+      },
+      {
+        "answer": "a. Notsignal, b. Identifikationsmerkmal, c. Position mittels GPS, wenn vorhanden",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Wie lange dauert es in den Seegebieten A1 bis A3, bis der Alarm einer COSPAS-SARSAT- Satelliten-Seenotfunkbake (EPIRB) bei der zuständigen Seenotleitung (MRCC) aufläuft?",
+    "answers": [
+      {
+        "answer": "Bis zu 2 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "Bis zu 4 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "Wenige Minuten",
+        "correct": true
+      },
+      {
+        "answer": "Bis zu 30 Minuten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Wie lange kann es unter ungünstigen Bedingungen von der Aktivierung einer COSPAS-SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der Position im MRCC dauern?",
+    "answers": [
+      {
+        "answer": "Bis zu 4 Stunden",
+        "correct": true
+      },
+      {
+        "answer": "Bis zu einem Tag",
+        "correct": false
+      },
+      {
+        "answer": "Bis zu 12 Stunden",
+        "correct": false
+      },
+      {
+        "answer": "Bis zu 8 Stunden",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Warum dauert es unter ungünstigen Bedingungen von der Aktivierung einer COSPAS-SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der Position im MRCC bis zu vier Stunden?",
+    "answers": [
+      {
+        "answer": "Die niedrige Datenrate im Uplink ermöglicht keine hohe Übertragungsgeschwindigkeit",
+        "correct": false
+      },
+      {
+        "answer": "Schlechte Wetterverhältnisse behindern die Übertragung der Daten vom COSPAS-SARSAT-Satelliten zur Bodenstation (LUT)",
+        "correct": false
+      },
+      {
+        "answer": "Hoher Seegang behindert die Funkwellenausbreitung zum geostationären COSPAS-SARSAT-Satelliten (GEOSAR)",
+        "correct": false
+      },
+      {
+        "answer": "Es müssen Überflüge der umlaufenden COSPAS-SARSAT-Satelliten (LEOSAR) abgewartet werden",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Wie groß ist die maximale Abweichung der ermittelten von der tatsächlichen Position einer COSPAS-SARSAT-Seenotfunkbake (EPIRB) ohne GPS?",
+    "answers": [
+      {
+        "answer": "2 sm",
+        "correct": true
+      },
+      {
+        "answer": "10 sm",
+        "correct": false
+      },
+      {
+        "answer": "100 sm",
+        "correct": false
+      },
+      {
+        "answer": "150 sm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Zu welchem Zweck benutzen Satelliten-Seenotfunkbaken (EPIRB) die Frequenzen 121,5 MHz und 406 MHz?",
+    "answers": [
+      {
+        "answer": "121,5 MHz zur Zielfahrt (Homing), 406 MHz zur Alarmierung und Positionsbestimmung",
+        "correct": true
+      },
+      {
+        "answer": "121,5 MHz zur Kommunikation, 406 MHz zur Alarmierung und Positionsbestimmung",
+        "correct": false
+      },
+      {
+        "answer": "121,5 MHz zur Identifikation, 406 MHz zur Zielfahrt (Homing)",
+        "correct": false
+      },
+      {
+        "answer": "121,5 MHz zur Zielfahrt (Homing), 406 MHz zur Kommunikation",
+        "correct": false
+      }
+    ]
   }
 ]
