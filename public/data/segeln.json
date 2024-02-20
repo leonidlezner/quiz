@@ -3716,5 +3716,247 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 170,
+    "question": "Welche Informationen müssen an einer Satelliten-Seenotfunkbake (EPIRB) erkennbar sein?",
+    "answers": [
+      {
+        "answer": "a. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal, b. Seriennummer, c. Haltbarkeitsdatum der Batterie, d. Haltbarkeitsdatum des Wasserdruckauslösers",
+        "correct": true
+      },
+      {
+        "answer": "a. Kurzanleitung, b. Zulassungsdatum der EPIRB, c. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal, d. Haltbarkeitsdatum der Batterie",
+        "correct": false
+      },
+      {
+        "answer": "a. Herstellerfirma, b. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal, c. Prüfdatum, d. Sendefrequenz",
+        "correct": false
+      },
+      {
+        "answer": "a. Herstellerfirma, b. Haltbarkeitsdatum des Wasserdruckauslösers, c. Zulassungsdatum der EPIRB, d. Kurzanleitung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Was ist zu tun, bevor die Satelliten-Seenotfunkbake (EPIRB) für Wartungszwecke aus ihrer Halterung entfernt werden soll?",
+    "answers": [
+      {
+        "answer": "MRCC informieren",
+        "correct": false
+      },
+      {
+        "answer": "Keine besonderen Vorkehrungen treffen",
+        "correct": false
+      },
+      {
+        "answer": "Sicherstellen, dass kein Fehlalarm ausgelöst wird",
+        "correct": true
+      },
+      {
+        "answer": "Sicherung lösen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Welche Prüfungen sind an einer Satelliten-Seenotfunkbake (EPIRB) durchzuführen?",
+    "answers": [
+      {
+        "answer": "Haltbarkeitsdatum der Batterie, Haltbarkeitsdatum des Wasserdruckauslösers, Befestigung am Schiffskörper",
+        "correct": false
+      },
+      {
+        "answer": "Haltbarkeitsdatum des Wasserdruckauslösers, Lesbarkeit der Beschriftung, Kontakte der Batterien",
+        "correct": false
+      },
+      {
+        "answer": "Haltbarkeitsdatum der Batterie, Haltbarkeitsdatum des Wasserdruckauslösers, Funktion entsprechend den Herstellerangaben",
+        "correct": true
+      },
+      {
+        "answer": "Funktion entsprechend den Herstellerangaben, Haltbarkeitsdatum der Batterie, Festigkeit der Sicherheitsleine",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Wie erscheint die Aussendung eines Transponders für Suche und Rettung (SART) auf einem Radarbildschirm?",
+    "answers": [
+      {
+        "answer": "Als Linie von mindestens drei Zeichen",
+        "correct": false
+      },
+      {
+        "answer": "Als lange aus einem Zeichen bestehende Linie",
+        "correct": false
+      },
+      {
+        "answer": "Die Aussendung eines Transponders ist auf dem Radarschirm nicht sichtbar",
+        "correct": false
+      },
+      {
+        "answer": "Als Linie von mindestens zwölf Zeichen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Welches Navigationsgerät empfängt das Signal eines aktivierten Transponders für Suche und Rettung (SART)?",
+    "answers": [
+      {
+        "answer": "GPS-Empfänger",
+        "correct": false
+      },
+      {
+        "answer": "NAVTEX-Gerät",
+        "correct": false
+      },
+      {
+        "answer": "Radargerät",
+        "correct": true
+      },
+      {
+        "answer": "DSC-Controller",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Welche Vorteile hat eine UKW-Seefunkanlage gegenüber einem Mobiltelefon in einer Notsituation?",
+    "answers": [
+      {
+        "answer": "Digitale und sichere Sprachübertragung",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeine und sichere Alarmierungsmöglichkeit",
+        "correct": true
+      },
+      {
+        "answer": "Hohe und gleichbleibende Sprachqualität",
+        "correct": false
+      },
+      {
+        "answer": "Wahrung des Fernmeldegeheimnisses und des Abhörverbots",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Welchen Vorteil hat eine UKW-Seefunkanlage gegenüber einem Mobiltelefon, wenn in einer Notsituation andere Fahrzeuge in Sicht sind und um Hilfe gebeten werden sollen?",
+    "answers": [
+      {
+        "answer": "Erreichbarkeit aller Seefunkstellen im Seegebiet A1",
+        "correct": false
+      },
+      {
+        "answer": "Erreichbarkeit aller Seefunkstellen in den Seegebieten A1 und A2",
+        "correct": false
+      },
+      {
+        "answer": "Erreichbarkeit aller Rettungsfahrzeuge in Küstennähe",
+        "correct": false
+      },
+      {
+        "answer": "Erreichbarkeit aller in Funkreichweite befindlichen Seefunkstellen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Warum ist ein Mobiltelefon gegenüber einer UKW-Seefunkanlage keine Alternative, wenn in einer Notsituation die Such- und Rettungsmaßnahmen anderen Fahrzeugen bekannt gemacht werden müssen?",
+    "answers": [
+      {
+        "answer": "Telefongespräche können vom On-Scene-Coordinator (OSC) nicht mitgehört werden, wichtige Informationen sind nur bei der Seenotleitung (MRCC) vorhanden",
+        "correct": false
+      },
+      {
+        "answer": "Telefongespräche können von weiteren Fahrzeugen nicht mitgehört werden, wichtige Informationen zur Hilfeleistung und Rettung sind nicht für alle Beteiligten verfügbar",
+        "correct": true
+      },
+      {
+        "answer": "Telefongespräche können von Küstenfunkstellen nicht bestätigt werden, wichtige Informationen fehlen daher für die Koordination vor Ort",
+        "correct": false
+      },
+      {
+        "answer": "Telefongespräche können von weiteren Fahrzeugen nicht bestätigt werden, der Seenotleitung (MRCC) fehlen daher wichtige Informationen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Mit welcher Meldung werden die Funkstellen davon unterrichtet, dass der Notverkehr beendet ist?",
+    "answers": [
+      {
+        "answer": "Meldung, die mit MASTER abschließt",
+        "correct": false
+      },
+      {
+        "answer": "Meldung, die mit SILENCE FINI abschließt",
+        "correct": true
+      },
+      {
+        "answer": "Meldung, die mit OVER AND OUT abschließt",
+        "correct": false
+      },
+      {
+        "answer": "Meldung, die mit SILENCE MAYDAY abschließt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Welche Funktion hat ein Transponder für Suche und Rettung (Search and Rescue Transponder [SART])?",
+    "answers": [
+      {
+        "answer": "Aussendung von Ortungsfunksignalen, die im Seenotfall das Auffinden des verunglückten Fahrzeuges mittels Radar erleichtern sollen",
+        "correct": true
+      },
+      {
+        "answer": "Automatische Übermittlung der Position des in Not befindlichen Fahrzeuges über die COSPAS-SARSAT-Satelliten",
+        "correct": false
+      },
+      {
+        "answer": "Automatische Aussendung der Notposition über UKW an Küsten- bzw. Schiffsfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Reflexion von Radarstrahlen und Erzeugung eines deutlichen Echos auf Radarbildschirmen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Welche Funktion hat eine Satelliten-Seenotfunkbake (Emergency Position-Indicating Radiobeacon [EPIRB])?",
+    "answers": [
+      {
+        "answer": "Alarmierung und Kennzeichnung der Notposition",
+        "correct": true
+      },
+      {
+        "answer": "Aussendung einer Notmeldung auf den Notfrequenzen der Luftfahrt (121,5 MHz bzw. 243 MHz), die von den Luftfahrzeugen bestätigt wird",
+        "correct": false
+      },
+      {
+        "answer": "Kommunikation im VHF-Band zwischen Überlebensfahrzeug und SAR- Fahrzeugen bzw. dem MRCC",
+        "correct": false
+      },
+      {
+        "answer": "Ermöglichen der Ortung mittels Radar und Erleichterung des Auffindens des Havaristen",
+        "correct": false
+      }
+    ]
   }
 ]
