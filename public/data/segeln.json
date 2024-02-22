@@ -3964,19 +3964,19 @@
     "question": "Was ist Binnenschifffahrtsfunk?",
     "answers": [
       {
-        "answer": "a) Internationaler mobiler UKW/VHF- Sprechfunkdienst auf Binnenschifffahrtsstraßen",
+        "answer": "Internationaler mobiler UKW/VHF- Sprechfunkdienst auf Binnenschifffahrtsstraßen",
         "correct": true
       },
       {
-        "answer": "c) Internationales UKW/VHF-Sprechfunkverfahren im Binnenbereich",
+        "answer": "Internationales UKW/VHF-Sprechfunkverfahren im Binnenbereich",
         "correct": false
       },
       {
-        "answer": "b) Nationaler mobiler UKW/VHF-Sprechfunkdienst auf Binnenschifffahrtsstraßen",
+        "answer": "Nationaler mobiler UKW/VHF-Sprechfunkdienst auf Binnenschifffahrtsstraßen",
         "correct": false
       },
       {
-        "answer": "d) Nationales UKW/VHF-Sprechfunkverfahren im Binnenbereich",
+        "answer": "Nationales UKW/VHF-Sprechfunkverfahren im Binnenbereich",
         "correct": false
       }
     ]
@@ -3986,19 +3986,19 @@
     "question": "Wozu dient der Binnenschifffahrtsfunk?",
     "answers": [
       {
-        "answer": "b) Funkverkehr für Schiffsfunkstellen zu bestimmten Zwecken auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
+        "answer": "Funkverkehr für Schiffsfunkstellen zu bestimmten Zwecken auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
         "correct": false
       },
       {
-        "answer": "a) Funkverkehr für bestimmte Zwecke auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
+        "answer": "Funkverkehr für *bestimmte Zwecke auf vereinbarten Kanälen* (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
         "correct": true
       },
       {
-        "answer": "d) Funkverkehr für Schiffsfunkstellen über Landfunkstellen auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
+        "answer": "Funkverkehr für Schiffsfunkstellen über Landfunkstellen auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
         "correct": false
       },
       {
-        "answer": "c) Funkverkehr zu Landfunkstellen für bestimmte Zwecke auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
+        "answer": "Funkverkehr zu Landfunkstellen für bestimmte Zwecke auf vereinbarten Kanälen (Verkehrskreise) und nach einem festgelegten Betriebsverfahren",
         "correct": false
       }
     ]
@@ -4008,19 +4008,19 @@
     "question": "Wo findet man Angaben über die grundsätzlichen Regelungen für den Binnenschifffahrtsfunk in Europa?",
     "answers": [
       {
-        "answer": "a) Regionale Vereinbarung über den Binnenschifffahrtsfunk (RAINWAT)",
+        "answer": "Regionale Vereinbarung über den Binnenschifffahrtsfunk (RAINWAT)",
         "correct": true
       },
       {
-        "answer": "c) Verwaltungsvereinbarung über die Koordinierung von Frequenzen (HCM)",
+        "answer": "Verwaltungsvereinbarung über die Koordinierung von Frequenzen (HCM)",
         "correct": false
       },
       {
-        "answer": "d) Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)",
+        "answer": "Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)",
         "correct": false
       },
       {
-        "answer": "b) International Convention for the Safety of Life at Sea (SOLAS)",
+        "answer": "International Convention for the Safety of Life at Sea (SOLAS)",
         "correct": false
       }
     ]
@@ -4030,19 +4030,19 @@
     "question": "Was ist eine „Revierzentrale”?",
     "answers": [
       {
-        "answer": "c) Zentrale Telematikdienste zur Datenübermittlung von AIS",
+        "answer": "Zentrale Telematikdienste zur Datenübermittlung von AIS",
         "correct": false
       },
       {
-        "answer": "d) Zentrale Seefunkstelle zur Schiffslenkung",
+        "answer": "Zentrale Seefunkstelle zur Schiffslenkung",
         "correct": false
       },
       {
-        "answer": "a) Zentrale Landfunkstelle des Verkehrskreises Nautische Information",
+        "answer": "Zentrale Landfunkstelle des Verkehrskreises Nautische Information",
         "correct": true
       },
       {
-        "answer": "b) Zentrale Schiffsfunkstelle der Wasserstraßen- und Schifffahrtsverwaltung",
+        "answer": "Zentrale Schiffsfunkstelle der Wasserstraßen- und Schifffahrtsverwaltung",
         "correct": false
       }
     ]
@@ -4052,19 +4052,19 @@
     "question": "Was ist ein „Verkehrsposten”?",
     "answers": [
       {
-        "answer": "a) Zentrale ortsfeste Funkstelle in den Niederlanden",
+        "answer": "Zentrale ortsfeste Funkstelle in den Niederlanden",
         "correct": true
       },
       {
-        "answer": "b) Zentrale mobile Funkstelle in den Niederlanden",
+        "answer": "Zentrale mobile Funkstelle in den Niederlanden",
         "correct": false
       },
       {
-        "answer": "d) Zentrale mobile Funkstelle in den Niederlanden und in Frankreich",
+        "answer": "Zentrale mobile Funkstelle in den Niederlanden und in Frankreich",
         "correct": false
       },
       {
-        "answer": "c) Zentrale ortsfeste Funkstelle in den Niederlanden und in Frankreich",
+        "answer": "Zentrale ortsfeste Funkstelle in den Niederlanden und in Frankreich",
         "correct": false
       }
     ]
@@ -4074,19 +4074,19 @@
     "question": "Was ist ein „Blockkanal”?",
     "answers": [
       {
-        "answer": "b) Funkkanal für Routinegespräche der Verkehrsposten und Schiffsfunkstellen in den Niederlanden",
+        "answer": "Funkkanal für Routinegespräche der Verkehrsposten und Schiffsfunkstellen in den Niederlanden",
         "correct": false
       },
       {
-        "answer": "d) Funkkanal für öffentlichen Nachrichtenaustausch zwischen den Verkehrsposten in den Niederlanden",
+        "answer": "Funkkanal für öffentlichen Nachrichtenaustausch zwischen den Verkehrsposten in den Niederlanden",
         "correct": false
       },
       {
-        "answer": "a) Funkkanal für *sicherheitsrelevante Meldungen* der Verkehrsposten und Schiffsfunkstellen in den Niederlanden",
+        "answer": "Funkkanal für *sicherheitsrelevante Meldungen* der Verkehrsposten und Schiffsfunkstellen in den Niederlanden",
         "correct": true
       },
       {
-        "answer": "c) Gesperrter Funkkanal der Verkehrsposten und Verkehrszentralen in den Niederlanden",
+        "answer": "Gesperrter Funkkanal der Verkehrsposten und Verkehrszentralen in den Niederlanden",
         "correct": false
       }
     ]
@@ -4096,19 +4096,19 @@
     "question": "Was bedeutet „MIB”?",
     "answers": [
       {
-        "answer": "d) Melde- und Identifikationssystem in der Binnenschifffahrt",
+        "answer": "Melde- und Identifikationssystem in der Binnenschifffahrt",
         "correct": false
       },
       {
-        "answer": "a) Melde- und Informationssystem in der Binnenschifffahrt",
+        "answer": "Melde- und Informationssystem in der Binnenschifffahrt",
         "correct": true
       },
       {
-        "answer": "c) Mobiles Informationssystem in der Binnenschifffahrt",
+        "answer": "Mobiles Informationssystem in der Binnenschifffahrt",
         "correct": false
       },
       {
-        "answer": "b) Maritimes Identifikationssystem in der Binnenschifffahrt",
+        "answer": "Maritimes Identifikationssystem in der Binnenschifffahrt",
         "correct": false
       }
     ]
@@ -4118,19 +4118,19 @@
     "question": "Wo darf der Inhaber eines in Deutschland erworbenen UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk am Funkverkehr teilnehmen?",
     "answers": [
       {
-        "answer": "a) In allen Ländern, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk beigetreten sind",
+        "answer": "In allen Ländern, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk beigetreten sind",
         "correct": true
       },
       {
-        "answer": "c) In allen Staaten, die die Vollzugsordnung für den Funkdienst ratifiziert haben",
+        "answer": "In allen Staaten, die die Vollzugsordnung für den Funkdienst ratifiziert haben",
         "correct": false
       },
       {
-        "answer": "b) In allen Mitgliedstaaten der EU",
+        "answer": "In allen Mitgliedstaaten der EU",
         "correct": false
       },
       {
-        "answer": "d) In allen deutschsprachigen Ländern",
+        "answer": "In allen deutschsprachigen Ländern",
         "correct": false
       }
     ]
@@ -4140,19 +4140,19 @@
     "question": "Wo berechtigt das UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI) auch zur Teilnahme am mobilen Seefunkdienst?",
     "answers": [
       {
-        "answer": "a) Wasserstraßen der Zonen 1 bis 2",
+        "answer": "Wasserstraßen der Zonen 1 bis 2",
         "correct": true
       },
       {
-        "answer": "c) Wasserstraßen der Zonen 1 bis 4",
+        "answer": "Wasserstraßen der Zonen 1 bis 4",
         "correct": false
       },
       {
-        "answer": "d) Wasserstraßen der Zonen 2 bis 3",
+        "answer": "Wasserstraßen der Zonen 2 bis 3",
         "correct": false
       },
       {
-        "answer": "b) Wasserstraßen der Zonen 2 bis 4",
+        "answer": "Wasserstraßen der Zonen 2 bis 4",
         "correct": false
       }
     ]
@@ -4162,19 +4162,19 @@
     "question": "Wer erteilt neben der zuständigen Stelle des Bundes das UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)?",
     "answers": [
       {
-        "answer": "c) Zentrale Verwaltungsstelle (ZVST) und Generaldirektion Wasserstraßen und Schifffahrt (GDWS)",
+        "answer": "Zentrale Verwaltungsstelle (ZVST) und Generaldirektion Wasserstraßen und Schifffahrt (GDWS)",
         "correct": false
       },
       {
-        "answer": "d) Wasserstraßen- und Schifffahrtsamt (WSA) und Bundesnetzagentur (BNetzA)",
+        "answer": "Wasserstraßen- und Schifffahrtsamt (WSA) und Bundesnetzagentur (BNetzA)",
         "correct": false
       },
       {
-        "answer": "b) Bundesnetzagentur (BNetzA) und das Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
+        "answer": "Bundesnetzagentur (BNetzA) und das Bundesamt für Seeschifffahrt und Hydrographie (BSH)",
         "correct": false
       },
       {
-        "answer": "a) Prüfungsausschüsse des Deutschen Motoryachtverbandes e. V. (DMYV) und des Deutschen Segler-Verbandes e. V. (DSV)",
+        "answer": "Prüfungsausschüsse des Deutschen Motoryachtverbandes e. V. (DMYV) und des Deutschen Segler-Verbandes e. V. (DSV)",
         "correct": true
       }
     ]
