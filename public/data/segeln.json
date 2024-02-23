@@ -4178,5 +4178,225 @@
         "correct": true
       }
     ]
+  },
+  {
+    "id": 191,
+    "question": "Welches Funkzeugnis berechtigt nicht zur Teilnahme am Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS)? [12]",
+    "answers": [
+      {
+        "answer": "UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)",
+        "correct": true
+      },
+      {
+        "answer": "Beschränkt Gültiges Funkbetriebszeugnis (SRC)",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeines Betriebszeugnis für Funker (GOC)",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeines Funkbetriebszeugnis (LRC)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Welches Funkzeugnis berechtigt nicht zur Teilnahme am Binnenschifffahrtsfunk? [13]",
+    "answers": [
+      {
+        "answer": "Allgemeines Sprechfunkzeugnis für den Seefunkdienst",
+        "correct": false
+      },
+      {
+        "answer": "Beschränkt gültiges Betriebszeugnis für Funker I (BZ I)",
+        "correct": false
+      },
+      {
+        "answer": "Amateurfunkzeugnis",
+        "correct": true
+      },
+      {
+        "answer": "UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Worauf ist bei der Teilnahme am Binnenschifffahrtsfunk in anderen Ländern zu achten? [14]",
+    "answers": [
+      {
+        "answer": "Die Bestimmungen der EU-Kommission sind zu beachten",
+        "correct": false
+      },
+      {
+        "answer": "Die Bestimmungen der Binnenschifffahrtsstraßenordnung sind zu beachten",
+        "correct": false
+      },
+      {
+        "answer": "Die Bestimmungen im Regionalen Teil des Handbuchs Binnenschifffahrtsfunk sind zu beachten",
+        "correct": true
+      },
+      {
+        "answer": "Die Bestimmungen der Binnenschifffahrt-Sprechfunkverordnung sind zu beachten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Wo findet man z. B. Angaben über die Ausrüstungspflicht mit Funkanlagen auf Binnenschiffen? [16]",
+    "answers": [
+      {
+        "answer": "Schiffssicherheitsverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrtstraßenordnung",
+        "correct": true
+      },
+      {
+        "answer": "Binnenschifferpatentverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrt-Sprechfunkverordnung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Wo findet man Angaben über die Funkbenutzungspflicht für Fahrzeuge auf bestimmten Binnenschifffahrtsstraßen? [17]",
+    "answers": [
+      {
+        "answer": "Binnenschifferpatentverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrt-Sprechfunkverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Regionale Teile des Handbuchs Binnenschifffahrtsfunk",
+        "correct": true
+      },
+      {
+        "answer": "Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Das Abhörverbot und das Fernmeldegeheimnis sind geregelt… [18]",
+    "answers": [
+      {
+        "answer": "in der Schiffssicherheitsverordnung (SchSV)",
+        "correct": false
+      },
+      {
+        "answer": "im Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen (FTEG)",
+        "correct": false
+      },
+      {
+        "answer": "in der Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)",
+        "correct": false
+      },
+      {
+        "answer": "im Telekommunikationsgesetz (TKG)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Welche Folgen kann die Verletzung des Fernmeldegeheimnisses haben? [21]",
+    "answers": [
+      {
+        "answer": "Einzug der Funkanlage",
+        "correct": false
+      },
+      {
+        "answer": "Schriftliche Verwarnung",
+        "correct": false
+      },
+      {
+        "answer": "Strafrechtliche Verfolgung",
+        "correct": true
+      },
+      {
+        "answer": "Ordnungswidrigkeitsverfahren",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Was ist eine „Schiffsfunkstelle”? [25]",
+    "answers": [
+      {
+        "answer": "Ortsfeste Funkstelle des Binnenschifffahrtsfunks",
+        "correct": false
+      },
+      {
+        "answer": "Ortsfeste Funkstelle des mobilen Seefunkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "Mobile Funkstelle des mobilen Seefunkdienstes",
+        "correct": false
+      },
+      {
+        "answer": "Mobile Funkstelle des Binnenschifffahrtsfunks",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Wer darf eine Schiffsfunkstelle bedienen? [27]",
+    "answers": [
+      {
+        "answer": "Nur der Schiffsführer, sofern er über ein gültiges Sprechfunkzeugnis für den Binnenschifffahrtsfunk (UBI) verfügt",
+        "correct": false
+      },
+      {
+        "answer": "Inhaber eines gültigen Sprechfunkzeugnisses für den Binnenschifffahrtsfunk (UBI) oder eines gleichwertigen Zeugnisses",
+        "correct": true
+      },
+      {
+        "answer": "Personen, die ohne Aufsicht eines Funkzeugnisinhabers am Funkverkehr teilnehmen, sofern sie älter als 16 Jahre sind",
+        "correct": false
+      },
+      {
+        "answer": "Personen, die über einen gültigen Sportbootführerschein-Binnen und über die Erlaubnis des Schiffsführers verfügen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Der Betrieb einer Schiffsfunkstelle ohne Zuteilungsurkunde (Ship Station Licence) verstößt gegen Vorschriften… [29]",
+    "answers": [
+      {
+        "answer": "des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen (FTEG)",
+        "correct": false
+      },
+      {
+        "answer": "der Binnenschifffahrt-Sprechfunkverordnung (BinSchSprFunkV)",
+        "correct": false
+      },
+      {
+        "answer": "des Telekommunikationsgesetzes (TKG)",
+        "correct": true
+      },
+      {
+        "answer": "der Binnenschifffahrtstraßenordnung (BinSchStrO)",
+        "correct": false
+      }
+    ]
   }
 ]
