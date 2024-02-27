@@ -4904,5 +4904,379 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 224,
+    "question": "Welche Nachrichten werden im Verkehrskreis „Funkverkehr an Bord“ übermittelt? [74]",
+    "answers": [
+      {
+        "answer": "Nachrichten über schiffsbetriebliche Angelegenheiten sowie bei Anweisungen für das Arbeiten mit Leinen und für das Ankern",
+        "correct": true
+      },
+      {
+        "answer": "Nachrichten, die sich auf den Schutz von Personen und auf die Fahrt oder auf die Sicherheit von Schiffen beziehen",
+        "correct": false
+      },
+      {
+        "answer": "Nachrichten über die Zuweisung von Liegeplätzen oder über die Fahrt in den Häfen",
+        "correct": false
+      },
+      {
+        "answer": "Nachrichten über den Zustand der Wasserstraßen, über Verkehrsberatung und zur Verkehrslenkung zwischen Schiffsfunkstellen und Landfunkstellen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Welche UKW-Kanäle dürfen im Verkehrskreis „Funkverkehr an Bord” benutzt werden? [75]",
+    "answers": [
+      {
+        "answer": "72 und 77",
+        "correct": false
+      },
+      {
+        "answer": "18 und 22",
+        "correct": false
+      },
+      {
+        "answer": "06 und 16",
+        "correct": false
+      },
+      {
+        "answer": "15 und 17",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Welche Kennung müssen Schiffsfunkstellen in den Verkehrskreisen „Schiff - Schiff“, „Nautische Information“ und „Schiff - Hafenbehörde“ im Sprechfunkverkehr verwenden? [78]",
+    "answers": [
+      {
+        "answer": "Rufnummer im Seefunkdienst (MMSI)",
+        "correct": false
+      },
+      {
+        "answer": "ATIS-Kennung",
+        "correct": false
+      },
+      {
+        "answer": "Heimathafen",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsname und Rufzeichen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "In welchen Verkehrskreisen müssen Schiffsfunkstellen, außer auf Kleinfahrzeugen, während der Fahrt empfangsbereit sein? [79]",
+    "answers": [
+      {
+        "answer": "Mindestens in zwei der Verkehrskreise Schiff - Schiff, Nautische Information oder Schiff - Hafenbehörde",
+        "correct": true
+      },
+      {
+        "answer": "Mindestens in drei der Verkehrskreise Schiff - Schiff, Nautische Information, Funkverkehr an Bord oder Schiff - Hafenbehörde",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens in einem der Verkehrskreise Schiff - Schiff, Nautische Information oder Schiff - Hafenbehörde",
+        "correct": false
+      },
+      {
+        "answer": "Mindestens abwechselnd in einem der Verkehrskreise Schiff - Schiff, Nautische Information, Funkverkehr an Bord oder Schiff - Hafenbehörde",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Wo findet man Regelungen über die Abwicklung des Binnenschifffahrtsfunks? [80]",
+    "answers": [
+      {
+        "answer": "Regionaler Teil Deutschland des Handbuchs Binnenschifffahrtsfunk",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrtsstraßenordnung",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk",
+        "correct": true
+      },
+      {
+        "answer": "Binnenschifffahrt-Sprechfunkverordnung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Wo findet man die empfohlenen fremdsprachlichen Redewendungen für die Abwicklung des Binnenschifffahrtsfunks? [81]",
+    "answers": [
+      {
+        "answer": "Binnenschifffahrtsstraßenordnung",
+        "correct": false
+      },
+      {
+        "answer": "Regionale Teile des Handbuchs Binnenschifffahrtsfunk",
+        "correct": true
+      },
+      {
+        "answer": "Binnenschifffahrt-Sprechfunkverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Wozu dient die Internationale Buchstabiertafel im Binnenschifffahrtsfunk? [82]",
+    "answers": [
+      {
+        "answer": "Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen, um Informationen zu verschlüsseln",
+        "correct": false
+      },
+      {
+        "answer": "Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen innerhalb von Meldungen, um Übermittlungsfehler zu vermeiden",
+        "correct": true
+      },
+      {
+        "answer": "Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen, um die Vorschriften der Binnenschifffahrt-Sprechfunkverordnung zu erfüllen",
+        "correct": false
+      },
+      {
+        "answer": "Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen, um die Wichtigkeit der buchstabierten Begriffe zu betonen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Wo findet man Angaben über die UKW-Kanäle, die im Binnenschifffahrtsfunk in bestimmten Regionen benutzt werden sollen? [83]",
+    "answers": [
+      {
+        "answer": "Schifffahrtspolizeiverordnungen, z.B. Rheinschifffahrtspolizeiverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Binnenschifffahrt-Sprechfunkverordnung",
+        "correct": false
+      },
+      {
+        "answer": "Regionale Teile des Handbuchs Binnenschifffahrtsfunk",
+        "correct": true
+      },
+      {
+        "answer": "Binnenschifffahrtsstraßenordnung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Wie erfolgt die Leistungsreduzierung beim Sendebetrieb einer Schiffsfunkstelle auf dem UKW-Kanal 10? [89]",
+    "answers": [
+      {
+        "answer": "Durch längeres Drücken der Sendetaste",
+        "correct": false
+      },
+      {
+        "answer": "Automatisch",
+        "correct": true
+      },
+      {
+        "answer": "Durch die Revierzentrale",
+        "correct": false
+      },
+      {
+        "answer": "Manuell",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Mit welcher Leistung sendet eine Schiffsfunkstelle auf UKW-Kanal 10? [90]",
+    "answers": [
+      {
+        "answer": "10 bis 25 Watt",
+        "correct": false
+      },
+      {
+        "answer": "0,5 bis 1 Watt",
+        "correct": true
+      },
+      {
+        "answer": "2 bis 5 Watt",
+        "correct": false
+      },
+      {
+        "answer": "0,5 bis 25 Watt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Auf welchem UKW-Kanal müssen Schiffsfunkstellen – unabhängig von dem befahrenen Streckenabschnitt – während der Fahrt ständig empfangsbereit sein? [91]",
+    "answers": [
+      {
+        "answer": "10",
+        "correct": true
+      },
+      {
+        "answer": "13",
+        "correct": false
+      },
+      {
+        "answer": "72",
+        "correct": false
+      },
+      {
+        "answer": "20",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Welcher UKW-Kanal darf im Binnenschifffahrtsfunk auf den Bundeswasserstraßen der Zonen 3 und 4 nicht benutzt werden? [92]",
+    "answers": [
+      {
+        "answer": "10",
+        "correct": false
+      },
+      {
+        "answer": "16",
+        "correct": true
+      },
+      {
+        "answer": "77",
+        "correct": false
+      },
+      {
+        "answer": "72",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Wozu dienen im Binnenschifffahrtsfunk die UKW-Kanäle 72 und 77? [93]",
+    "answers": [
+      {
+        "answer": "Nautische Absprachen",
+        "correct": false
+      },
+      {
+        "answer": "Anrufe an eine Schleuse",
+        "correct": false
+      },
+      {
+        "answer": "Funkverkehr sozialer Art",
+        "correct": true
+      },
+      {
+        "answer": "Funkverkehr mit einer Revierzentrale",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Welche Fahrzeuge unterliegen auf bestimmten Wasserstraßen und an bestimmten Stellen einer Meldepflicht? [95]",
+    "answers": [
+      {
+        "answer": "Sportboote unter Segel",
+        "correct": false
+      },
+      {
+        "answer": "Fahrgastschiffe mit mehr als 20 Passagieren",
+        "correct": false
+      },
+      {
+        "answer": "Gefahrgutschiffe und Sondertransporte",
+        "correct": true
+      },
+      {
+        "answer": "Motorfahrzeuge mit einer Gesamtlänge von mehr als 20 Metern",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Vor jeder Aussendung ist durch kurzzeitiges Öffnen der Rauschsperre sicherzustellen, dass… [96]",
+    "answers": [
+      {
+        "answer": "die ATIS-Kennung zuvor ausgesendet wird",
+        "correct": false
+      },
+      {
+        "answer": "kein anderer Funkverkehr gestört wird",
+        "correct": true
+      },
+      {
+        "answer": "der DSC-Controller ausgeschaltet ist",
+        "correct": false
+      },
+      {
+        "answer": "die Sendeleistung auf 25 Watt eingestellt ist",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Was kann die Funkverbindung zwischen einer Schiffsfunkstelle und einer Seefunkstelle beeinträchtigen? [100]",
+    "answers": [
+      {
+        "answer": "Die Seefunkstelle sendet auf bestimmten UKW-Kanälen nur mit automatisch reduzierter Leistung",
+        "correct": false
+      },
+      {
+        "answer": "Die Schiffsfunkstelle kann die AIS-Aussendung der Seefunkstelle auf bestimmten UKW-Kanälen nicht auswerten",
+        "correct": false
+      },
+      {
+        "answer": "Die Seefunkstelle kann die ATIS-Aussendung der Schiffsfunkstelle auf bestimmten UKW-Kanälen nicht auswerten",
+        "correct": false
+      },
+      {
+        "answer": "Die Schiffsfunkstelle sendet auf bestimmten UKW-Kanälen nur mit automatisch reduzierter Leistung",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Warum dürfen Seefunkstellen mit ihrer Seefunkanlage nicht am Binnenschifffahrtsfunk teilnehmen? [101]",
+    "answers": [
+      {
+        "answer": "Seefunkanlagen ermöglichen die Hörbereitschaft auf den UKW-Kanälen 16 und 70",
+        "correct": false
+      },
+      {
+        "answer": "Seefunkanlagen verfügen weder über eine automatische Sendeleistungsreduzierung auf bestimmten UKW-Kanälen noch können sie einen ATIS-Code aussenden",
+        "correct": true
+      },
+      {
+        "answer": "Seefunkanlagen nutzen ein anderes Frequenzband als Binnenschifffahrtsfunkanlagen",
+        "correct": false
+      },
+      {
+        "answer": "Seefunkanlagen verfügen über einen DSC-Controller, der mit dem ATIS-System nicht kompatibel ist",
+        "correct": false
+      }
+    ]
   }
 ]
