@@ -5278,5 +5278,423 @@
         "correct": false
       }
     ]
+  },
+  {
+    "id": 241,
+    "question": "Die Verwendung des Digitalen Selektivrufs (DSC) ist … [102]",
+    "answers": [
+      {
+        "answer": "eingeführt zur Verbindungsaufnahme mit anderen Schiffsfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "im Binnenschifffahrtsfunk nicht zulässig",
+        "correct": true
+      },
+      {
+        "answer": "im Binnenschifffahrtsfunk zulässig für Notalarme",
+        "correct": false
+      },
+      {
+        "answer": "eingeführt zur Identifizierung von Schiffsfunkstellen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Welche Sprache muss bei Verbindungen zwischen deutschen Schiffsfunkstellen und ausländischen Landfunkstellen benutzt werden? [103]",
+    "answers": [
+      {
+        "answer": "Sprache des Landes, in dem sich die Landfunkstelle befindet",
+        "correct": true
+      },
+      {
+        "answer": "Heimatsprache des Funkers",
+        "correct": false
+      },
+      {
+        "answer": "Vorrangig Deutsch",
+        "correct": false
+      },
+      {
+        "answer": "Vorrangig Englisch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Welche Bedeutung hat ein weißes Tafelzeichen mit rotem Rand und der schwarzen Aufschrift „UKW 20“ oder „VHF 20“? [107]",
+    "answers": [
+      {
+        "answer": "Gebot, UKW-Kanal 20 zu benutzen",
+        "correct": true
+      },
+      {
+        "answer": "Gebot, eine Sendeleistung von 20 Watt zu gewährleisten",
+        "correct": false
+      },
+      {
+        "answer": "Hinweis, dass der UKW-Kanal 20 für die Nutzung durch die Berufsschifffahrt vorgesehen ist",
+        "correct": false
+      },
+      {
+        "answer": "Hinweis, dass der Verkehrskreis Schiff-Schiff auf UKW-Kanal 20 abzuwickeln ist",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Welche Landfunkstellen sind zur Einleitung von Rettungsmaßnahmen vorzugsweise anzurufen? [109]",
+    "answers": [
+      {
+        "answer": "Polizeifunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Rettungsleitstellen",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsfunkstellen",
+        "correct": false
+      },
+      {
+        "answer": "Revierzentralen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Wie ist die Rangfolge des Funkverkehrs im Binnenschifffahrtsfunk? [110]",
+    "answers": [
+      {
+        "answer": "Notverkehr, Dringlichkeitsverkehr, Sicherheitsverkehr, Routineverkehr",
+        "correct": true
+      },
+      {
+        "answer": "Sicherheitsverkehr, Dringlichkeitsverkehr, Notverkehr, Routineverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Dringlichkeitsverkehr, Notverkehr, Sicherheitsverkehr, Routineverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Notverkehr, Dringlichkeitsverkehr, Routineverkehr, Sicherheitsverkehr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Wie heißt das Notzeichen im Sprechfunk? [111]",
+    "answers": [
+      {
+        "answer": "PAN PAN",
+        "correct": false
+      },
+      {
+        "answer": "MAYDAY",
+        "correct": true
+      },
+      {
+        "answer": "SOS",
+        "correct": false
+      },
+      {
+        "answer": "SECURITE",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Welcher Funkverkehr ist einzuleiten, wenn sich an Bord eine lebensgefährlich verletzte Person befindet? [113]",
+    "answers": [
+      {
+        "answer": "Sicherheitsverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Routineverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Notverkehr",
+        "correct": true
+      },
+      {
+        "answer": "Dringlichkeitsverkehr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Welcher Funkverkehr ist einzuleiten, wenn eine Person über Bord gefallen ist? [114]",
+    "answers": [
+      {
+        "answer": "Routineverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitsverkehr",
+        "correct": false
+      },
+      {
+        "answer": "Notverkehr",
+        "correct": true
+      },
+      {
+        "answer": "Dringlichkeitsverkehr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Wer bestätigt eine Notmeldung im Verkehrskreis „Nautische Information“? [116]",
+    "answers": [
+      {
+        "answer": "Der Schiffsführer",
+        "correct": false
+      },
+      {
+        "answer": "In der Nähe befindliche Schiffsfunkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Ortsfeste Funkstelle",
+        "correct": true
+      },
+      {
+        "answer": "Behördenfahrzeug",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Wer bestätigt eine Notmeldung im Verkehrskreis „Schiff-Schiff“? [117]",
+    "answers": [
+      {
+        "answer": "Ortsfeste Funkstelle",
+        "correct": false
+      },
+      {
+        "answer": "Der Schiffsführer",
+        "correct": false
+      },
+      {
+        "answer": "In der Nähe befindliche Schiffsfunkstelle",
+        "correct": true
+      },
+      {
+        "answer": "Verkehrsposten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Was bedeuten die Worte MAYDAY RELAY? [118]",
+    "answers": [
+      {
+        "answer": "Notmeldung an eine Landstation mit der Bitte um Leitung des Notverkehrs",
+        "correct": false
+      },
+      {
+        "answer": "Aussendung einer Notmeldung durch eine Funkstelle, die sich selbst nicht in Not befindet",
+        "correct": true
+      },
+      {
+        "answer": "Bestätigung des Empfangs einer Notmeldung",
+        "correct": false
+      },
+      {
+        "answer": "Beendigung einer Notmeldung durch die Funkstelle, die den Notverkehr leitet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Was bedeuten die Worte SILENCE FINI? [119]",
+    "answers": [
+      {
+        "answer": "Einer Funkstelle, die den Notverkehr stört, wird Funkstille geboten",
+        "correct": false
+      },
+      {
+        "answer": "Der Notverkehr ist beendet",
+        "correct": true
+      },
+      {
+        "answer": "Dringlichkeits- und Sicherheitsverkehr darf wieder aufgenommen werden",
+        "correct": false
+      },
+      {
+        "answer": "Alle Funkstellen müssen Funkstille einhalten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Was bedeuten die Worte SILENCE MAYDAY? [120]",
+    "answers": [
+      {
+        "answer": "Eine Notmeldung folgt",
+        "correct": false
+      },
+      {
+        "answer": "Die am Notverkehr beteiligten Funkstellen genießen Vorrang",
+        "correct": false
+      },
+      {
+        "answer": "Der Notverkehr ist beendet",
+        "correct": false
+      },
+      {
+        "answer": "Die Funkstelle in Not gebietet den nicht am Notverkehr beteiligten Funkstellen Funkstille",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Wann liegt ein Dringlichkeitsfall vor? [122]",
+    "answers": [
+      {
+        "answer": "Wenn eine unmittelbare Gefährdung von Mensch oder Schiff gegeben ist oder eine Gefahrenabwehr an Land notwendig ist",
+        "correct": false
+      },
+      {
+        "answer": "Wenn dringende Nachrichten übermittelt werden sollen, welche den Empfang eines Notzeichens betreffen",
+        "correct": false
+      },
+      {
+        "answer": "Wenn dringende Nachrichten übermittelt werden sollen, welche die Besatzung und/oder das Schiff betreffen, ohne dass eine unmittelbare Gefährdung gegeben ist",
+        "correct": true
+      },
+      {
+        "answer": "Wenn dringende Nachrichten übermittelt werden sollen, welche die Unterstützung durch die Wasserschutzpolizei betreffen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Wie lautet das Sicherheitszeichen im Sprechfunk? [126]",
+    "answers": [
+      {
+        "answer": "SECURITE",
+        "correct": true
+      },
+      {
+        "answer": "MAYDAY",
+        "correct": false
+      },
+      {
+        "answer": "SOS",
+        "correct": false
+      },
+      {
+        "answer": "PAN PAN",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Welche Meldungen werden mit dem Sicherheitszeichen SECURITE angekündigt? [127]",
+    "answers": [
+      {
+        "answer": "Nachrichten, die eine wichtige nautische Warnnachricht oder den Radareinsatz bei unsichtigem Wetter beinhalten",
+        "correct": false
+      },
+      {
+        "answer": "Nachrichten, die eine wichtige nautische Warnnachricht oder eine wichtige Wetterwarnung beinhalten",
+        "correct": true
+      },
+      {
+        "answer": "Nachrichten, die eine wichtige Wetterwarnung oder eine Warnung zur Vermeidung von Umweltschäden beinhalten",
+        "correct": false
+      },
+      {
+        "answer": "Nachrichten, die eine wichtige nautische Warnnachricht oder eine dringende medizinische Meldung beinhalten",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Welche Meldung ist zu verbreiten, wenn ein treibender Baumstamm beobachtet wird, der eine Gefahr für den Verkehr darstellt? [128]",
+    "answers": [
+      {
+        "answer": "Sicherheitsmeldung",
+        "correct": true
+      },
+      {
+        "answer": "Dringlichkeitsmeldung",
+        "correct": false
+      },
+      {
+        "answer": "Notmeldung",
+        "correct": false
+      },
+      {
+        "answer": "keine Meldung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Welche Meldung ist zu verbreiten, wenn eine vertriebene Tonne beobachtet wird? [129]",
+    "answers": [
+      {
+        "answer": "keine Meldung",
+        "correct": false
+      },
+      {
+        "answer": "Notmeldung",
+        "correct": false
+      },
+      {
+        "answer": "Sicherheitsmeldung",
+        "correct": true
+      },
+      {
+        "answer": "Dringlichkeitsmeldung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Wer entscheidet über die Art der auszusendenden Sprechfunkmeldung? [130]",
+    "answers": [
+      {
+        "answer": "Bediener der Funkanlage",
+        "correct": false
+      },
+      {
+        "answer": "Schiffsführer",
+        "correct": true
+      },
+      {
+        "answer": "Wasserschutzpolizei",
+        "correct": false
+      },
+      {
+        "answer": "Revierzentrale",
+        "correct": false
+      }
+    ]
   }
 ]
