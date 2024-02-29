@@ -1,0 +1,41 @@
+{
+  "$id": "questions.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "Questions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "question", "answers"],
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "question": {
+        "type": "string"
+      },
+      "media": {
+        "type": ["array", "string"]
+      },
+      "answers": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "answer": {
+              "type": "string"
+            },
+            "correct": {
+              "type": "boolean"
+            },
+            "media": {
+              "type": "string"
+            }
+          },
+          "required": ["answer", "correct"]
+        }
+      }
+    }
+  }
+}
